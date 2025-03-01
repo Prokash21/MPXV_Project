@@ -1,0 +1,25 @@
+Cell_line,Cell_type,DATASTORE region,Sample Name,Treatment
+Normal Human Epidermal Keratinocytes,keratinocytes,"s3.us-east-1,ncbi.public,gs.US",GSM6765408,MPXV clade I infected
+Normal Human Epidermal Keratinocytes,keratinocytes,"ncbi.public,gs.US,s3.us-east-1",GSM6765393,MPXV clade I infected
+Normal Human Epidermal Keratinocytes,keratinocytes,"s3.us-east-1,gs.US,ncbi.public",GSM6765379,MPXV clade I infected
+Normal Human Epidermal Keratinocytes,keratinocytes,"gs.US,ncbi.public,s3.us-east-1",GSM6765363,MPXV clade IIb infected
+Normal Human Epidermal Keratinocytes,keratinocytes,"ncbi.public,s3.us-east-1,gs.US",GSM6765349,MPXV clade IIb infected
+Normal Human Epidermal Keratinocytes,keratinocytes,"s3.us-east-1,gs.US,ncbi.public",GSM6765335,MPXV clade IIb infected
+Normal Human Epidermal Keratinocytes,keratinocytes,"gs.US,ncbi.public,s3.us-east-1",GSM6765321,MPXV clade IIa infected
+Normal Human Epidermal Keratinocytes,keratinocytes,"ncbi.public,gs.US,s3.us-east-1",GSM6765307,MPXV clade IIa infected
+Normal Human Epidermal Keratinocytes,keratinocytes,"ncbi.public,gs.US,s3.us-east-1",GSM6765294,MPXV clade IIa infected
+Normal Human Epidermal Keratinocytes,keratinocytes,"ncbi.public,s3.us-east-1,gs.US",GSM6765281,mock
+Normal Human Epidermal Keratinocytes,keratinocytes,"ncbi.public,s3.us-east-1,gs.US",GSM6765268,mock
+Normal Human Epidermal Keratinocytes,keratinocytes,"ncbi.public,s3.us-east-1,gs.US",GSM6765254,mock
+iPS cell-derived colon organoids,colon organoids,"ncbi.public,s3.us-east-1,gs.US",GSM6765240,MPXV clade I infected
+iPS cell-derived colon organoids,colon organoids,"gs.US,ncbi.public,s3.us-east-1",GSM6765225,MPXV clade I infected
+iPS cell-derived colon organoids,colon organoids,"gs.US,ncbi.public,s3.us-east-1",GSM6765215,MPXV clade I infected
+iPS cell-derived colon organoids,colon organoids,"ncbi.public,s3.us-east-1,gs.US",GSM6765214,MPXV clade IIb infected
+iPS cell-derived colon organoids,colon organoids,"s3.us-east-1,gs.US,ncbi.public",GSM6765213,MPXV clade IIb infected
+iPS cell-derived colon organoids,colon organoids,"gs.US,ncbi.public,s3.us-east-1",GSM6765212,MPXV clade IIb infected
+iPS cell-derived colon organoids,colon organoids,"ncbi.public,s3.us-east-1,gs.US",GSM6765211,MPXV clade IIa infected
+iPS cell-derived colon organoids,colon organoids,"gs.US,ncbi.public,s3.us-east-1",GSM6765210,MPXV clade IIa infected
+iPS cell-derived colon organoids,colon organoids,"s3.us-east-1,gs.US,ncbi.public",GSM6765209,MPXV clade IIa infected
+iPS cell-derived colon organoids,colon organoids,"gs.US,s3.us-east-1,ncbi.public",GSM6765208,mock
+iPS cell-derived colon organoids,colon organoids,"s3.us-east-1,ncbi.public,gs.US",GSM6765207,mock
+iPS cell-derived colon organoids,colon organoids,"s3.us-east-1,ncbi.public,gs.US",GSM6765206,mock

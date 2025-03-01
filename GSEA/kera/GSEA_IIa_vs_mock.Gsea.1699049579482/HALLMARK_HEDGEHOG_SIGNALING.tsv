@@ -1,0 +1,37 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ACHE	acetylcholinesterase (Cartwright blood group) [Source:HGNC Symbol;Acc:HGNC:108]	139	4.7177581787109375	0.109497085	Yes	
+row_1	NRCAM	neuronal cell adhesion molecule [Source:HGNC Symbol;Acc:HGNC:7994]	172	4.656954288482666	0.22159562	Yes	
+row_2	NF1	neurofibromin 1 [Source:HGNC Symbol;Acc:HGNC:7765]	718	3.7295823097229004	0.29156217	Yes	
+row_3	CRMP1	collapsin response mediator protein 1 [Source:HGNC Symbol;Acc:HGNC:2365]	1477	2.9474220275878906	0.3343723	Yes	
+row_4	L1CAM	L1 cell adhesion molecule [Source:HGNC Symbol;Acc:HGNC:6470]	2211	2.352083921432495	0.36364943	Yes	
+row_5	ETS2	ETS proto-oncogene 2, transcription factor [Source:HGNC Symbol;Acc:HGNC:3489]	4043	1.3667938709259033	0.3270732	Yes	
+row_6	VEGFA	vascular endothelial growth factor A [Source:HGNC Symbol;Acc:HGNC:12680]	4148	1.3210750818252563	0.35525268	Yes	
+row_7	SLIT1	slit guidance ligand 1 [Source:HGNC Symbol;Acc:HGNC:11085]	4210	1.2960931062698364	0.38446435	Yes	
+row_8	HEY1	hes related family bHLH transcription factor with YRPW motif 1 [Source:HGNC Symbol;Acc:HGNC:4880]	4230	1.2856416702270508	0.41502357	Yes	
+row_9	OPHN1	oligophrenin 1 [Source:HGNC Symbol;Acc:HGNC:8148]	4574	1.130790114402771	0.4294573	Yes	
+row_10	CNTFR	ciliary neurotrophic factor receptor [Source:HGNC Symbol;Acc:HGNC:2170]	4937	0.9931449890136719	0.439817	Yes	
+row_11	GLI1	GLI family zinc finger 1 [Source:HGNC Symbol;Acc:HGNC:4317]	5692	0.7846397757530212	0.43015212	No	
+row_12	SCG2	secretogranin II [Source:HGNC Symbol;Acc:HGNC:10575]	6091	0.681221067905426	0.43154863	No	
+row_13	RASA1	RAS p21 protein activator 1 [Source:HGNC Symbol;Acc:HGNC:9871]	7286	0.45808887481689453	0.39715594	No	
+row_14	CELSR1	cadherin EGF LAG seven-pass G-type receptor 1 [Source:HGNC Symbol;Acc:HGNC:1850]	7552	0.4213278293609619	0.39730105	No	
+row_15	PTCH1	patched 1 [Source:HGNC Symbol;Acc:HGNC:9585]	7809	0.3940320312976837	0.39712524	No	
+row_16	HEY2	hes related family bHLH transcription factor with YRPW motif 2 [Source:HGNC Symbol;Acc:HGNC:4881]	8101	0.3515441119670868	0.39458066	No	
+row_17	NKX6-1	NK6 homeobox 1 [Source:HGNC Symbol;Acc:HGNC:7839]	8166	0.3441711366176605	0.40051448	No	
+row_18	RTN1	reticulon 1 [Source:HGNC Symbol;Acc:HGNC:10467]	10309	0.0	0.318818	No	
+row_19	PLG	plasminogen [Source:HGNC Symbol;Acc:HGNC:9071]	13080	0.0	0.21316944	No	
+row_20	UNC5C	unc-5 netrin receptor C [Source:HGNC Symbol;Acc:HGNC:12569]	13356	0.0	0.20268086	No	
+row_21	SHH	sonic hedgehog signaling molecule [Source:HGNC Symbol;Acc:HGNC:10848]	13383	0.0	0.20168921	No	
+row_22	DPYSL2	dihydropyrimidinase like 2 [Source:HGNC Symbol;Acc:HGNC:3014]	17595	-0.029314100742340088	0.04179381	No	
+row_23	TLE3	TLE family member 3, transcriptional corepressor [Source:HGNC Symbol;Acc:HGNC:11839]	17795	-0.061887435615062714	0.035709817	No	
+row_24	THY1	Thy-1 cell surface antigen [Source:HGNC Symbol;Acc:HGNC:11801]	17816	-0.06491106003522873	0.036526512	No	
+row_25	CDK5R1	cyclin dependent kinase 5 regulatory subunit 1 [Source:HGNC Symbol;Acc:HGNC:1775]	18691	-0.20200200378894806	0.008107282	No	
+row_26	VLDLR	very low density lipoprotein receptor [Source:HGNC Symbol;Acc:HGNC:12698]	20039	-0.4721609055995941	-0.031778444	No	
+row_27	LDB1	LIM domain binding 1 [Source:HGNC Symbol;Acc:HGNC:6532]	20624	-0.6267402172088623	-0.038801715	No	
+row_28	PML	PML nuclear body scaffold [Source:HGNC Symbol;Acc:HGNC:9113]	21360	-0.857418417930603	-0.04597101	No	
+row_29	MYH9	myosin heavy chain 9 [Source:HGNC Symbol;Acc:HGNC:7579]	21707	-0.9691193103790283	-0.035585683	No	
+row_30	CDK6	cyclin dependent kinase 6 [Source:HGNC Symbol;Acc:HGNC:1777]	22145	-1.1249902248382568	-0.024878269	No	
+row_31	AMOT	angiomotin [Source:HGNC Symbol;Acc:HGNC:17810]	22236	-1.1580328941345215	-1.3214338E-4	No	
+row_32	TLE1	TLE family member 1, transcriptional corepressor [Source:HGNC Symbol;Acc:HGNC:11837]	22323	-1.1868268251419067	0.025467195	No	
+row_33	ADGRG1	adhesion G protein-coupled receptor G1 [Source:HGNC Symbol;Acc:HGNC:4512]	22526	-1.269585371017456	0.04865605	No	
+row_34	NRP2	neuropilin 2 [Source:HGNC Symbol;Acc:HGNC:8005]	23726	-1.7411130666732788	0.045292865	No	
+row_35	NRP1	neuropilin 1 [Source:HGNC Symbol;Acc:HGNC:8004]	24543	-2.0995032787323	0.06525822	No	

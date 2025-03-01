@@ -1,0 +1,1886 @@
+,category,ID,term,count,genes,logFC,adj_pval,zscore
+1,BP,GO:0001666,response to hypoxia,12,SMAD4,1.111311315,0.000175,3.464101615
+2,BP,GO:0001666,response to hypoxia,12,ACE,3.63583652,0.000175,3.464101615
+3,BP,GO:0001666,response to hypoxia,12,CASP3,1.05470245,0.000175,3.464101615
+4,BP,GO:0001666,response to hypoxia,12,BNIP3,1.675952671,0.000175,3.464101615
+5,BP,GO:0001666,response to hypoxia,12,DDIT4,3.420497782,0.000175,3.464101615
+6,BP,GO:0001666,response to hypoxia,12,SLC2A1,1.540415578,0.000175,3.464101615
+7,BP,GO:0001666,response to hypoxia,12,ADM,1.353968202,0.000175,3.464101615
+8,BP,GO:0001666,response to hypoxia,12,PLOD2,2.960249661,0.000175,3.464101615
+9,BP,GO:0001666,response to hypoxia,12,LIMD1,1.60682939,0.000175,3.464101615
+10,BP,GO:0001666,response to hypoxia,12,WTIP,2.0124801,0.000175,3.464101615
+11,BP,GO:0001666,response to hypoxia,12,HSPG2,1.023314262,0.000175,3.464101615
+12,BP,GO:0001666,response to hypoxia,12,VEGFA,1.775883712,0.000175,3.464101615
+13,BP,GO:0006357,regulation of transcription from RNA polymerase II promoter,49,ZNF251,1.541876182,0.000292,7
+14,BP,GO:0006357,regulation of transcription from RNA polymerase II promoter,49,ZNF805,1.463501778,0.000292,7
+15,BP,GO:0006357,regulation of transcription from RNA polymerase II promoter,49,ZMIZ2,1.212084178,0.000292,7
+16,BP,GO:0006357,regulation of transcription from RNA polymerase II promoter,49,LRRFIP1,1.964244425,0.000292,7
+17,BP,GO:0006357,regulation of transcription from RNA polymerase II promoter,49,TGIF1,1.132479571,0.000292,7
+18,BP,GO:0006357,regulation of transcription from RNA polymerase II promoter,49,KLF12,2.767188072,0.000292,7
+19,BP,GO:0006357,regulation of transcription from RNA polymerase II promoter,49,KLF13,1.238143053,0.000292,7
+20,BP,GO:0006357,regulation of transcription from RNA polymerase II promoter,49,ZNF284,1.342966478,0.000292,7
+21,BP,GO:0006357,regulation of transcription from RNA polymerase II promoter,49,ZNF282,1.113319467,0.000292,7
+22,BP,GO:0006357,regulation of transcription from RNA polymerase II promoter,49,ZNF160,1.338489131,0.000292,7
+23,BP,GO:0006357,regulation of transcription from RNA polymerase II promoter,49,OVOL2,1.997308805,0.000292,7
+24,BP,GO:0006357,regulation of transcription from RNA polymerase II promoter,49,MED22,1.110333548,0.000292,7
+25,BP,GO:0006357,regulation of transcription from RNA polymerase II promoter,49,CREB3,1.188280539,0.000292,7
+26,BP,GO:0006357,regulation of transcription from RNA polymerase II promoter,49,DGKQ,2.456190221,0.000292,7
+27,BP,GO:0006357,regulation of transcription from RNA polymerase II promoter,49,ZNF319,1.57132456,0.000292,7
+28,BP,GO:0006357,regulation of transcription from RNA polymerase II promoter,49,ZNF514,1.671528334,0.000292,7
+29,BP,GO:0006357,regulation of transcription from RNA polymerase II promoter,49,HOXB2,1.17038667,0.000292,7
+30,BP,GO:0006357,regulation of transcription from RNA polymerase II promoter,49,IRF5,1.445874726,0.000292,7
+31,BP,GO:0006357,regulation of transcription from RNA polymerase II promoter,49,JDP2,3.126936093,0.000292,7
+32,BP,GO:0006357,regulation of transcription from RNA polymerase II promoter,49,KDM7A,1.214637146,0.000292,7
+33,BP,GO:0006357,regulation of transcription from RNA polymerase II promoter,49,ZNF397,1.114297321,0.000292,7
+34,BP,GO:0006357,regulation of transcription from RNA polymerase II promoter,49,ZNF275,2.18759023,0.000292,7
+35,BP,GO:0006357,regulation of transcription from RNA polymerase II promoter,49,KDM3A,1.211597239,0.000292,7
+36,BP,GO:0006357,regulation of transcription from RNA polymerase II promoter,49,CTBP2,1.25571814,0.000292,7
+37,BP,GO:0006357,regulation of transcription from RNA polymerase II promoter,49,CBFB,1.165740464,0.000292,7
+38,BP,GO:0006357,regulation of transcription from RNA polymerase II promoter,49,CTBP1,1.142562066,0.000292,7
+39,BP,GO:0006357,regulation of transcription from RNA polymerase II promoter,49,MLLT6,1.05354506,0.000292,7
+40,BP,GO:0006357,regulation of transcription from RNA polymerase II promoter,49,MNT,1.110262551,0.000292,7
+41,BP,GO:0006357,regulation of transcription from RNA polymerase II promoter,49,DEAF1,1.220831697,0.000292,7
+42,BP,GO:0006357,regulation of transcription from RNA polymerase II promoter,49,ATXN7,1.205168273,0.000292,7
+43,BP,GO:0006357,regulation of transcription from RNA polymerase II promoter,49,NACC2,1.680651854,0.000292,7
+44,BP,GO:0006357,regulation of transcription from RNA polymerase II promoter,49,ZKSCAN2,1.576432276,0.000292,7
+45,BP,GO:0006357,regulation of transcription from RNA polymerase II promoter,49,ZNF587,1.306556905,0.000292,7
+46,BP,GO:0006357,regulation of transcription from RNA polymerase II promoter,49,ZNF224,1.473187991,0.000292,7
+47,BP,GO:0006357,regulation of transcription from RNA polymerase II promoter,49,ZNF664,1.124912218,0.000292,7
+48,BP,GO:0006357,regulation of transcription from RNA polymerase II promoter,49,XBP1,1.502808348,0.000292,7
+49,BP,GO:0006357,regulation of transcription from RNA polymerase II promoter,49,SMAD4,1.111311315,0.000292,7
+50,BP,GO:0006357,regulation of transcription from RNA polymerase II promoter,49,VEGFA,1.775883712,0.000292,7
+51,BP,GO:0006357,regulation of transcription from RNA polymerase II promoter,49,KLF8,1.351097239,0.000292,7
+52,BP,GO:0006357,regulation of transcription from RNA polymerase II promoter,49,ZNF37A,1.776778011,0.000292,7
+53,BP,GO:0006357,regulation of transcription from RNA polymerase II promoter,49,BHLHE40,1.130222959,0.000292,7
+54,BP,GO:0006357,regulation of transcription from RNA polymerase II promoter,49,ZNF416,1.074474986,0.000292,7
+55,BP,GO:0006357,regulation of transcription from RNA polymerase II promoter,49,ZNF778,1.771428092,0.000292,7
+56,BP,GO:0006357,regulation of transcription from RNA polymerase II promoter,49,ZNF337,1.048689011,0.000292,7
+57,BP,GO:0006357,regulation of transcription from RNA polymerase II promoter,49,PKN1,1.987067782,0.000292,7
+58,BP,GO:0006357,regulation of transcription from RNA polymerase II promoter,49,RBAK,1.428049258,0.000292,7
+59,BP,GO:0006357,regulation of transcription from RNA polymerase II promoter,49,RCOR1,1.350458626,0.000292,7
+60,BP,GO:0006357,regulation of transcription from RNA polymerase II promoter,49,ZFP28,1.859448972,0.000292,7
+61,BP,GO:0006357,regulation of transcription from RNA polymerase II promoter,49,ZNF354B,1.247448134,0.000292,7
+62,BP,GO:0007420,brain development,13,KDM4B,1.387031438,0.001568659,3.605551275
+63,BP,GO:0007420,brain development,13,ACE,3.63583652,0.001568659,3.605551275
+64,BP,GO:0007420,brain development,13,FKRP,1.089941806,0.001568659,3.605551275
+65,BP,GO:0007420,brain development,13,SPHK2,1.411713019,0.001568659,3.605551275
+66,BP,GO:0007420,brain development,13,ATP2B1,1.208471061,0.001568659,3.605551275
+67,BP,GO:0007420,brain development,13,SMARCA1,1.929628541,0.001568659,3.605551275
+68,BP,GO:0007420,brain development,13,HSPG2,1.023314262,0.001568659,3.605551275
+69,BP,GO:0007420,brain development,13,EPOR,2.436571655,0.001568659,3.605551275
+70,BP,GO:0007420,brain development,13,PPP3CC,1.798428499,0.001568659,3.605551275
+71,BP,GO:0007420,brain development,13,PITPNM1,1.161897792,0.001568659,3.605551275
+72,BP,GO:0007420,brain development,13,DDIT4,3.420497782,0.001568659,3.605551275
+73,BP,GO:0007420,brain development,13,FPGS,1.356079376,0.001568659,3.605551275
+74,BP,GO:0007420,brain development,13,PAFAH1B2,1.212264012,0.001568659,3.605551275
+75,BP,GO:0008285,negative regulation of cell proliferation,18,SMAD4,1.111311315,0.001896915,4.242640687
+76,BP,GO:0008285,negative regulation of cell proliferation,18,KLF13,1.238143053,0.001896915,4.242640687
+77,BP,GO:0008285,negative regulation of cell proliferation,18,TES,1.185075415,0.001896915,4.242640687
+78,BP,GO:0008285,negative regulation of cell proliferation,18,CTBP2,1.25571814,0.001896915,4.242640687
+79,BP,GO:0008285,negative regulation of cell proliferation,18,CTBP1,1.142562066,0.001896915,4.242640687
+80,BP,GO:0008285,negative regulation of cell proliferation,18,TPBG,1.415348831,0.001896915,4.242640687
+81,BP,GO:0008285,negative regulation of cell proliferation,18,EIF2AK2,1.121911985,0.001896915,4.242640687
+82,BP,GO:0008285,negative regulation of cell proliferation,18,ADM,1.353968202,0.001896915,4.242640687
+83,BP,GO:0008285,negative regulation of cell proliferation,18,CGRRF1,1.453796583,0.001896915,4.242640687
+84,BP,GO:0008285,negative regulation of cell proliferation,18,HSPG2,1.023314262,0.001896915,4.242640687
+85,BP,GO:0008285,negative regulation of cell proliferation,18,CDC73,1.027492233,0.001896915,4.242640687
+86,BP,GO:0008285,negative regulation of cell proliferation,18,MNT,1.110262551,0.001896915,4.242640687
+87,BP,GO:0008285,negative regulation of cell proliferation,18,RASSF3,1.185213773,0.001896915,4.242640687
+88,BP,GO:0008285,negative regulation of cell proliferation,18,NACC2,1.680651854,0.001896915,4.242640687
+89,BP,GO:0008285,negative regulation of cell proliferation,18,FTH1,1.363955007,0.001896915,4.242640687
+90,BP,GO:0008285,negative regulation of cell proliferation,18,SPRY2,1.94607256,0.001896915,4.242640687
+91,BP,GO:0008285,negative regulation of cell proliferation,18,SPEG,2.082986642,0.001896915,4.242640687
+92,BP,GO:0008285,negative regulation of cell proliferation,18,SH2B3,2.082011917,0.001896915,4.242640687
+93,BP,GO:0006760,folic acid-containing compound metabolic process,3,MTHFD1L,1.025794583,0.00264278,1.732050808
+94,BP,GO:0006760,folic acid-containing compound metabolic process,3,MTHFD2,1.008049755,0.00264278,1.732050808
+95,BP,GO:0006760,folic acid-containing compound metabolic process,3,FPGS,1.356079376,0.00264278,1.732050808
+96,BP,GO:0000122,negative regulation of transcription from RNA polymerase II promoter,30,CTBP2,1.25571814,0.003111972,5.477225575
+97,BP,GO:0000122,negative regulation of transcription from RNA polymerase II promoter,30,CBFB,1.165740464,0.003111972,5.477225575
+98,BP,GO:0000122,negative regulation of transcription from RNA polymerase II promoter,30,CTBP1,1.142562066,0.003111972,5.477225575
+99,BP,GO:0000122,negative regulation of transcription from RNA polymerase II promoter,30,CDC73,1.027492233,0.003111972,5.477225575
+100,BP,GO:0000122,negative regulation of transcription from RNA polymerase II promoter,30,MNT,1.110262551,0.003111972,5.477225575
+101,BP,GO:0000122,negative regulation of transcription from RNA polymerase II promoter,30,DEAF1,1.220831697,0.003111972,5.477225575
+102,BP,GO:0000122,negative regulation of transcription from RNA polymerase II promoter,30,NACC2,1.680651854,0.003111972,5.477225575
+103,BP,GO:0000122,negative regulation of transcription from RNA polymerase II promoter,30,TRIM27,1.360869388,0.003111972,5.477225575
+104,BP,GO:0000122,negative regulation of transcription from RNA polymerase II promoter,30,ANKRD52,1.500601266,0.003111972,5.477225575
+105,BP,GO:0000122,negative regulation of transcription from RNA polymerase II promoter,30,LRRFIP1,1.964244425,0.003111972,5.477225575
+106,BP,GO:0000122,negative regulation of transcription from RNA polymerase II promoter,30,ZNF224,1.473187991,0.003111972,5.477225575
+107,BP,GO:0000122,negative regulation of transcription from RNA polymerase II promoter,30,SNCA,1.721141724,0.003111972,5.477225575
+108,BP,GO:0000122,negative regulation of transcription from RNA polymerase II promoter,30,TGIF1,1.132479571,0.003111972,5.477225575
+109,BP,GO:0000122,negative regulation of transcription from RNA polymerase II promoter,30,PLK3,1.176796238,0.003111972,5.477225575
+110,BP,GO:0000122,negative regulation of transcription from RNA polymerase II promoter,30,XBP1,1.502808348,0.003111972,5.477225575
+111,BP,GO:0000122,negative regulation of transcription from RNA polymerase II promoter,30,KLF12,2.767188072,0.003111972,5.477225575
+112,BP,GO:0000122,negative regulation of transcription from RNA polymerase II promoter,30,SMAD4,1.111311315,0.003111972,5.477225575
+113,BP,GO:0000122,negative regulation of transcription from RNA polymerase II promoter,30,ZNF282,1.113319467,0.003111972,5.477225575
+114,BP,GO:0000122,negative regulation of transcription from RNA polymerase II promoter,30,SAP30,1.566837245,0.003111972,5.477225575
+115,BP,GO:0000122,negative regulation of transcription from RNA polymerase II promoter,30,VEGFA,1.775883712,0.003111972,5.477225575
+116,BP,GO:0000122,negative regulation of transcription from RNA polymerase II promoter,30,OVOL2,1.997308805,0.003111972,5.477225575
+117,BP,GO:0000122,negative regulation of transcription from RNA polymerase II promoter,30,KLF8,1.351097239,0.003111972,5.477225575
+118,BP,GO:0000122,negative regulation of transcription from RNA polymerase II promoter,30,BHLHE40,1.130222959,0.003111972,5.477225575
+119,BP,GO:0000122,negative regulation of transcription from RNA polymerase II promoter,30,ZNF778,1.771428092,0.003111972,5.477225575
+120,BP,GO:0000122,negative regulation of transcription from RNA polymerase II promoter,30,TRIB3,1.61216085,0.003111972,5.477225575
+121,BP,GO:0000122,negative regulation of transcription from RNA polymerase II promoter,30,ZNF337,1.048689011,0.003111972,5.477225575
+122,BP,GO:0000122,negative regulation of transcription from RNA polymerase II promoter,30,BCOR,1.147086185,0.003111972,5.477225575
+123,BP,GO:0000122,negative regulation of transcription from RNA polymerase II promoter,30,BCORL1,1.267301586,0.003111972,5.477225575
+124,BP,GO:0000122,negative regulation of transcription from RNA polymerase II promoter,30,JDP2,3.126936093,0.003111972,5.477225575
+125,BP,GO:0000122,negative regulation of transcription from RNA polymerase II promoter,30,ZNF354B,1.247448134,0.003111972,5.477225575
+126,BP,GO:0045892,"negative regulation of transcription, DNA-templated",20,ZNF397,1.114297321,0.004728564,4.472135955
+127,BP,GO:0045892,"negative regulation of transcription, DNA-templated",20,L3MBTL1,1.863367877,0.004728564,4.472135955
+128,BP,GO:0045892,"negative regulation of transcription, DNA-templated",20,SMAD4,1.111311315,0.004728564,4.472135955
+129,BP,GO:0045892,"negative regulation of transcription, DNA-templated",20,CTBP2,1.25571814,0.004728564,4.472135955
+130,BP,GO:0045892,"negative regulation of transcription, DNA-templated",20,ZNF282,1.113319467,0.004728564,4.472135955
+131,BP,GO:0045892,"negative regulation of transcription, DNA-templated",20,CTBP1,1.142562066,0.004728564,4.472135955
+132,BP,GO:0045892,"negative regulation of transcription, DNA-templated",20,LIMD1,1.60682939,0.004728564,4.472135955
+133,BP,GO:0045892,"negative regulation of transcription, DNA-templated",20,WTIP,2.0124801,0.004728564,4.472135955
+134,BP,GO:0045892,"negative regulation of transcription, DNA-templated",20,DEAF1,1.220831697,0.004728564,4.472135955
+135,BP,GO:0045892,"negative regulation of transcription, DNA-templated",20,NACC2,1.680651854,0.004728564,4.472135955
+136,BP,GO:0045892,"negative regulation of transcription, DNA-templated",20,BHLHE40,1.130222959,0.004728564,4.472135955
+137,BP,GO:0045892,"negative regulation of transcription, DNA-templated",20,SCMH1,1.252215628,0.004728564,4.472135955
+138,BP,GO:0045892,"negative regulation of transcription, DNA-templated",20,HSBP1L1,1.049550792,0.004728564,4.472135955
+139,BP,GO:0045892,"negative regulation of transcription, DNA-templated",20,TRIB3,1.61216085,0.004728564,4.472135955
+140,BP,GO:0045892,"negative regulation of transcription, DNA-templated",20,BCOR,1.147086185,0.004728564,4.472135955
+141,BP,GO:0045892,"negative regulation of transcription, DNA-templated",20,RBAK,1.428049258,0.004728564,4.472135955
+142,BP,GO:0045892,"negative regulation of transcription, DNA-templated",20,ZNF224,1.473187991,0.004728564,4.472135955
+143,BP,GO:0045892,"negative regulation of transcription, DNA-templated",20,EID2B,2.23367179,0.004728564,4.472135955
+144,BP,GO:0045892,"negative regulation of transcription, DNA-templated",20,RCOR1,1.350458626,0.004728564,4.472135955
+145,BP,GO:0045892,"negative regulation of transcription, DNA-templated",20,TRIM11,1.196391419,0.004728564,4.472135955
+146,BP,GO:0006469,negative regulation of protein kinase activity,6,DBNDD2,1.075593205,0.005360877,2.449489743
+147,BP,GO:0006469,negative regulation of protein kinase activity,6,DVL1,1.101623715,0.005360877,2.449489743
+148,BP,GO:0006469,negative regulation of protein kinase activity,6,TRIB3,1.61216085,0.005360877,2.449489743
+149,BP,GO:0006469,negative regulation of protein kinase activity,6,PKN1,1.987067782,0.005360877,2.449489743
+150,BP,GO:0006469,negative regulation of protein kinase activity,6,TRIM27,1.360869388,0.005360877,2.449489743
+151,BP,GO:0006469,negative regulation of protein kinase activity,6,SNCA,1.721141724,0.005360877,2.449489743
+152,BP,GO:0090141,positive regulation of mitochondrial fission,4,BNIP3,1.675952671,0.00547963,2
+153,BP,GO:0090141,positive regulation of mitochondrial fission,4,DDHD2,1.063834176,0.00547963,2
+154,BP,GO:0090141,positive regulation of mitochondrial fission,4,SPIRE1,1.304672153,0.00547963,2
+155,BP,GO:0090141,positive regulation of mitochondrial fission,4,MIEF2,1.12156051,0.00547963,2
+156,BP,GO:0006355,"regulation of transcription, DNA-templated",29,L3MBTL1,1.863367877,0.005678323,5.385164807
+157,BP,GO:0006355,"regulation of transcription, DNA-templated",29,ZNF251,1.541876182,0.005678323,5.385164807
+158,BP,GO:0006355,"regulation of transcription, DNA-templated",29,CHD7,1.021629009,0.005678323,5.385164807
+159,BP,GO:0006355,"regulation of transcription, DNA-templated",29,LIMD1,1.60682939,0.005678323,5.385164807
+160,BP,GO:0006355,"regulation of transcription, DNA-templated",29,MLLT6,1.05354506,0.005678323,5.385164807
+161,BP,GO:0006355,"regulation of transcription, DNA-templated",29,SCMH1,1.252215628,0.005678323,5.385164807
+162,BP,GO:0006355,"regulation of transcription, DNA-templated",29,DVL1,1.101623715,0.005678323,5.385164807
+163,BP,GO:0006355,"regulation of transcription, DNA-templated",29,ZKSCAN2,1.576432276,0.005678323,5.385164807
+164,BP,GO:0006355,"regulation of transcription, DNA-templated",29,LRRFIP1,1.964244425,0.005678323,5.385164807
+165,BP,GO:0006355,"regulation of transcription, DNA-templated",29,ZNF224,1.473187991,0.005678323,5.385164807
+166,BP,GO:0006355,"regulation of transcription, DNA-templated",29,ZNF664,1.124912218,0.005678323,5.385164807
+167,BP,GO:0006355,"regulation of transcription, DNA-templated",29,PDE8A,1.032360242,0.005678323,5.385164807
+168,BP,GO:0006355,"regulation of transcription, DNA-templated",29,TGIF1,1.132479571,0.005678323,5.385164807
+169,BP,GO:0006355,"regulation of transcription, DNA-templated",29,SMAD4,1.111311315,0.005678323,5.385164807
+170,BP,GO:0006355,"regulation of transcription, DNA-templated",29,ZNF284,1.342966478,0.005678323,5.385164807
+171,BP,GO:0006355,"regulation of transcription, DNA-templated",29,ZNF282,1.113319467,0.005678323,5.385164807
+172,BP,GO:0006355,"regulation of transcription, DNA-templated",29,ZNF160,1.338489131,0.005678323,5.385164807
+173,BP,GO:0006355,"regulation of transcription, DNA-templated",29,SMARCA1,1.929628541,0.005678323,5.385164807
+174,BP,GO:0006355,"regulation of transcription, DNA-templated",29,WTIP,2.0124801,0.005678323,5.385164807
+175,BP,GO:0006355,"regulation of transcription, DNA-templated",29,SAP30,1.566837245,0.005678323,5.385164807
+176,BP,GO:0006355,"regulation of transcription, DNA-templated",29,PTP4A3,4.08549018,0.005678323,5.385164807
+177,BP,GO:0006355,"regulation of transcription, DNA-templated",29,ZNF37A,1.776778011,0.005678323,5.385164807
+178,BP,GO:0006355,"regulation of transcription, DNA-templated",29,BHLHE40,1.130222959,0.005678323,5.385164807
+179,BP,GO:0006355,"regulation of transcription, DNA-templated",29,ZNF778,1.771428092,0.005678323,5.385164807
+180,BP,GO:0006355,"regulation of transcription, DNA-templated",29,ZNF514,1.671528334,0.005678323,5.385164807
+181,BP,GO:0006355,"regulation of transcription, DNA-templated",29,ZNF337,1.048689011,0.005678323,5.385164807
+182,BP,GO:0006355,"regulation of transcription, DNA-templated",29,RBAK,1.428049258,0.005678323,5.385164807
+183,BP,GO:0006355,"regulation of transcription, DNA-templated",29,ZFP28,1.859448972,0.005678323,5.385164807
+184,BP,GO:0006355,"regulation of transcription, DNA-templated",29,ZNF354B,1.247448134,0.005678323,5.385164807
+185,BP,GO:0006468,protein phosphorylation,16,CDKL2,2.79006747,0.007397841,4
+186,BP,GO:0006468,protein phosphorylation,16,PLK3,1.176796238,0.007397841,4
+187,BP,GO:0006468,protein phosphorylation,16,SRMS,2.270221283,0.007397841,4
+188,BP,GO:0006468,protein phosphorylation,16,CTBP1,1.142562066,0.007397841,4
+189,BP,GO:0006468,protein phosphorylation,16,CDC42BPG,1.344976019,0.007397841,4
+190,BP,GO:0006468,protein phosphorylation,16,TNK1,1.068708238,0.007397841,4
+191,BP,GO:0006468,protein phosphorylation,16,HUS1,1.466218523,0.007397841,4
+192,BP,GO:0006468,protein phosphorylation,16,EIF2AK2,1.121911985,0.007397841,4
+193,BP,GO:0006468,protein phosphorylation,16,CDC42BPB,1.025286988,0.007397841,4
+194,BP,GO:0006468,protein phosphorylation,16,RSKR,1.342693349,0.007397841,4
+195,BP,GO:0006468,protein phosphorylation,16,NRBP2,1.666829684,0.007397841,4
+196,BP,GO:0006468,protein phosphorylation,16,TRIB3,1.61216085,0.007397841,4
+197,BP,GO:0006468,protein phosphorylation,16,PKN1,1.987067782,0.007397841,4
+198,BP,GO:0006468,protein phosphorylation,16,CAMK1,2.477262972,0.007397841,4
+199,BP,GO:0006468,protein phosphorylation,16,MAP3K11,1.469992671,0.007397841,4
+200,BP,GO:0006468,protein phosphorylation,16,PDK1,2.072438177,0.007397841,4
+201,BP,GO:0032092,positive regulation of protein binding,6,ACE,3.63583652,0.00764778,2.449489743
+202,BP,GO:0032092,positive regulation of protein binding,6,RALB,1.123441973,0.00764778,2.449489743
+203,BP,GO:0032092,positive regulation of protein binding,6,LRP1,1.124225932,0.00764778,2.449489743
+204,BP,GO:0032092,positive regulation of protein binding,6,CAPRIN2,1.313527779,0.00764778,2.449489743
+205,BP,GO:0032092,positive regulation of protein binding,6,TRIB3,1.61216085,0.00764778,2.449489743
+206,BP,GO:0032092,positive regulation of protein binding,6,PKD1,3.12838686,0.00764778,2.449489743
+207,BP,GO:0070534,protein K63-linked ubiquitination,5,ITCH,1.074303954,0.008088925,2.236067977
+208,BP,GO:0070534,protein K63-linked ubiquitination,5,TRAF5,3.108006786,0.008088925,2.236067977
+209,BP,GO:0070534,protein K63-linked ubiquitination,5,TRAF2,1.147132307,0.008088925,2.236067977
+210,BP,GO:0070534,protein K63-linked ubiquitination,5,TRIM27,1.360869388,0.008088925,2.236067977
+211,BP,GO:0070534,protein K63-linked ubiquitination,5,TRIM56,1.14757533,0.008088925,2.236067977
+212,BP,GO:0031623,receptor internalization,5,ITCH,1.074303954,0.009996076,2.236067977
+213,BP,GO:0031623,receptor internalization,5,RALB,1.123441973,0.009996076,2.236067977
+214,BP,GO:0031623,receptor internalization,5,LRP1,1.124225932,0.009996076,2.236067977
+215,BP,GO:0031623,receptor internalization,5,ADM,1.353968202,0.009996076,2.236067977
+216,BP,GO:0031623,receptor internalization,5,SNCA,1.721141724,0.009996076,2.236067977
+217,BP,GO:0035556,intracellular signal transduction,16,SMAD4,1.111311315,0.010458548,4
+218,BP,GO:0035556,intracellular signal transduction,16,CDC42BPG,1.344976019,0.010458548,4
+219,BP,GO:0035556,intracellular signal transduction,16,ADCY4,3.008967977,0.010458548,4
+220,BP,GO:0035556,intracellular signal transduction,16,ADCY3,1.281745516,0.010458548,4
+221,BP,GO:0035556,intracellular signal transduction,16,CDC42BPB,1.025286988,0.010458548,4
+222,BP,GO:0035556,intracellular signal transduction,16,KCTD9,1.323884066,0.010458548,4
+223,BP,GO:0035556,intracellular signal transduction,16,NRBP2,1.666829684,0.010458548,4
+224,BP,GO:0035556,intracellular signal transduction,16,RASSF1,1.375498834,0.010458548,4
+225,BP,GO:0035556,intracellular signal transduction,16,RASSF3,1.185213773,0.010458548,4
+226,BP,GO:0035556,intracellular signal transduction,16,DGKQ,2.456190221,0.010458548,4
+227,BP,GO:0035556,intracellular signal transduction,16,DDIT4,3.420497782,0.010458548,4
+228,BP,GO:0035556,intracellular signal transduction,16,DVL1,1.101623715,0.010458548,4
+229,BP,GO:0035556,intracellular signal transduction,16,PKN1,1.987067782,0.010458548,4
+230,BP,GO:0035556,intracellular signal transduction,16,SH2B3,2.082011917,0.010458548,4
+231,BP,GO:0035556,intracellular signal transduction,16,SIPA1,2.381848047,0.010458548,4
+232,BP,GO:0035556,intracellular signal transduction,16,TNS1,2.160138003,0.010458548,4
+233,BP,GO:0001843,neural tube closure,6,VASP,1.660345002,0.011083778,2.449489743
+234,BP,GO:0001843,neural tube closure,6,SDC4,1.100705282,0.011083778,2.449489743
+235,BP,GO:0001843,neural tube closure,6,MTHFD1L,1.025794583,0.011083778,2.449489743
+236,BP,GO:0001843,neural tube closure,6,DEAF1,1.220831697,0.011083778,2.449489743
+237,BP,GO:0001843,neural tube closure,6,ADM,1.353968202,0.011083778,2.449489743
+238,BP,GO:0001843,neural tube closure,6,CELSR1,1.410772692,0.011083778,2.449489743
+239,BP,GO:0007565,female pregnancy,6,SLC38A1,1.071911154,0.01409995,2.449489743
+240,BP,GO:0007565,female pregnancy,6,ACE,3.63583652,0.01409995,2.449489743
+241,BP,GO:0007565,female pregnancy,6,SPHK2,1.411713019,0.01409995,2.449489743
+242,BP,GO:0007565,female pregnancy,6,SLC2A1,1.540415578,0.01409995,2.449489743
+243,BP,GO:0007565,female pregnancy,6,ADM,1.353968202,0.01409995,2.449489743
+244,BP,GO:0007565,female pregnancy,6,UPRT,1.567362336,0.01409995,2.449489743
+245,BP,GO:0030036,actin cytoskeleton organization,10,VASP,1.660345002,0.015507495,3.16227766
+246,BP,GO:0030036,actin cytoskeleton organization,10,INF2,1.606247066,0.015507495,3.16227766
+247,BP,GO:0030036,actin cytoskeleton organization,10,PDLIM2,1.32459423,0.015507495,3.16227766
+248,BP,GO:0030036,actin cytoskeleton organization,10,IQSEC1,1.391872072,0.015507495,3.16227766
+249,BP,GO:0030036,actin cytoskeleton organization,10,CDC42BPG,1.344976019,0.015507495,3.16227766
+250,BP,GO:0030036,actin cytoskeleton organization,10,SPIRE1,1.304672153,0.015507495,3.16227766
+251,BP,GO:0030036,actin cytoskeleton organization,10,KRAS,1.185149494,0.015507495,3.16227766
+252,BP,GO:0030036,actin cytoskeleton organization,10,CDC42BPB,1.025286988,0.015507495,3.16227766
+253,BP,GO:0030036,actin cytoskeleton organization,10,ARFGEF3,1.924103833,0.015507495,3.16227766
+254,BP,GO:0030036,actin cytoskeleton organization,10,PDLIM7,1.407161692,0.015507495,3.16227766
+255,BP,GO:0007264,small GTPase mediated signal transduction,7,DOCK11,1.926651333,0.016621062,2.645751311
+256,BP,GO:0007264,small GTPase mediated signal transduction,7,CCDC88A,1.649283327,0.016621062,2.645751311
+257,BP,GO:0007264,small GTPase mediated signal transduction,7,RGS19,1.180476593,0.016621062,2.645751311
+258,BP,GO:0007264,small GTPase mediated signal transduction,7,RASGEF1A,2.070404766,0.016621062,2.645751311
+259,BP,GO:0007264,small GTPase mediated signal transduction,7,DOCK9,1.224664632,0.016621062,2.645751311
+260,BP,GO:0007264,small GTPase mediated signal transduction,7,SH2D3A,1.206875704,0.016621062,2.645751311
+261,BP,GO:0007264,small GTPase mediated signal transduction,7,VAV2,1.148022521,0.016621062,2.645751311
+262,BP,GO:0016024,CDP-diacylglycerol biosynthetic process,3,GPAT4,1.073009902,0.018887711,1.732050808
+263,BP,GO:0016024,CDP-diacylglycerol biosynthetic process,3,AGPAT2,1.684830051,0.018887711,1.732050808
+264,BP,GO:0016024,CDP-diacylglycerol biosynthetic process,3,CDS2,1.092451805,0.018887711,1.732050808
+265,BP,GO:0060394,negative regulation of pathway-restricted SMAD protein phosphorylation,3,XBP1,1.502808348,0.018887711,1.732050808
+266,BP,GO:0060394,negative regulation of pathway-restricted SMAD protein phosphorylation,3,LRP1,1.124225932,0.018887711,1.732050808
+267,BP,GO:0060394,negative regulation of pathway-restricted SMAD protein phosphorylation,3,SNX25,1.047242918,0.018887711,1.732050808
+268,BP,GO:0033169,histone H3-K9 demethylation,3,KDM4B,1.387031438,0.018887711,1.732050808
+269,BP,GO:0033169,histone H3-K9 demethylation,3,KDM3A,1.211597239,0.018887711,1.732050808
+270,BP,GO:0033169,histone H3-K9 demethylation,3,KDM7A,1.214637146,0.018887711,1.732050808
+271,BP,GO:0033138,positive regulation of peptidyl-serine phosphorylation,6,SH2D3A,1.206875704,0.019182591,2.449489743
+272,BP,GO:0033138,positive regulation of peptidyl-serine phosphorylation,6,CAPRIN2,1.313527779,0.019182591,2.449489743
+273,BP,GO:0033138,positive regulation of peptidyl-serine phosphorylation,6,SPRY2,1.94607256,0.019182591,2.449489743
+274,BP,GO:0033138,positive regulation of peptidyl-serine phosphorylation,6,CAMK1,2.477262972,0.019182591,2.449489743
+275,BP,GO:0033138,positive regulation of peptidyl-serine phosphorylation,6,VEGFA,1.775883712,0.019182591,2.449489743
+276,BP,GO:0033138,positive regulation of peptidyl-serine phosphorylation,6,SNCA,1.721141724,0.019182591,2.449489743
+277,BP,GO:0016567,protein ubiquitination,16,RNF34,1.211244319,0.019569212,4
+278,BP,GO:0016567,protein ubiquitination,16,DCAF4,1.57726861,0.019569212,4
+279,BP,GO:0016567,protein ubiquitination,16,MID2,1.066639271,0.019569212,4
+280,BP,GO:0016567,protein ubiquitination,16,KLHL9,1.031125532,0.019569212,4
+281,BP,GO:0016567,protein ubiquitination,16,KCTD9,1.323884066,0.019569212,4
+282,BP,GO:0016567,protein ubiquitination,16,ITCH,1.074303954,0.019569212,4
+283,BP,GO:0016567,protein ubiquitination,16,MED30,1.714866217,0.019569212,4
+284,BP,GO:0016567,protein ubiquitination,16,GAN,1.497592462,0.019569212,4
+285,BP,GO:0016567,protein ubiquitination,16,TSPAN17,1.492443133,0.019569212,4
+286,BP,GO:0016567,protein ubiquitination,16,ENC1,1.381408849,0.019569212,4
+287,BP,GO:0016567,protein ubiquitination,16,TRIM47,2.363855207,0.019569212,4
+288,BP,GO:0016567,protein ubiquitination,16,KCTD11,1.521469424,0.019569212,4
+289,BP,GO:0016567,protein ubiquitination,16,TRIM27,1.360869388,0.019569212,4
+290,BP,GO:0016567,protein ubiquitination,16,LZTR1,1.487543375,0.019569212,4
+291,BP,GO:0016567,protein ubiquitination,16,TRIM11,1.196391419,0.019569212,4
+292,BP,GO:0016567,protein ubiquitination,16,FBXO9,1.255067746,0.019569212,4
+293,BP,GO:0030010,establishment of cell polarity,4,UST,1.374228065,0.023054387,2
+294,BP,GO:0030010,establishment of cell polarity,4,CORO7,1.187762011,0.023054387,2
+295,BP,GO:0030010,establishment of cell polarity,4,RAB11FIP2,1.145348483,0.023054387,2
+296,BP,GO:0030010,establishment of cell polarity,4,PKD1,3.12838686,0.023054387,2
+297,BP,GO:0006730,one-carbon metabolic process,4,MTHFD1L,1.025794583,0.023054387,2
+298,BP,GO:0006730,one-carbon metabolic process,4,MTHFD2,1.008049755,0.023054387,2
+299,BP,GO:0006730,one-carbon metabolic process,4,FPGS,1.356079376,0.023054387,2
+300,BP,GO:0006730,one-carbon metabolic process,4,ALDH1L2,2.061335122,0.023054387,2
+301,BP,GO:0030097,hemopoiesis,5,L3MBTL1,1.863367877,0.027485549,2.236067977
+302,BP,GO:0030097,hemopoiesis,5,ZNF160,1.338489131,0.027485549,2.236067977
+303,BP,GO:0030097,hemopoiesis,5,CRIP2,1.874098956,0.027485549,2.236067977
+304,BP,GO:0030097,hemopoiesis,5,SH2B3,2.082011917,0.027485549,2.236067977
+305,BP,GO:0030097,hemopoiesis,5,EPOR,2.436571655,0.027485549,2.236067977
+306,BP,GO:0032897,negative regulation of viral transcription,3,TRIM27,1.360869388,0.028127693,1.732050808
+307,BP,GO:0032897,negative regulation of viral transcription,3,MID2,1.066639271,0.028127693,1.732050808
+308,BP,GO:0032897,negative regulation of viral transcription,3,TRIM11,1.196391419,0.028127693,1.732050808
+309,BP,GO:0046655,folic acid metabolic process,3,MTHFD2,1.008049755,0.028127693,1.732050808
+310,BP,GO:0046655,folic acid metabolic process,3,FPGS,1.356079376,0.028127693,1.732050808
+311,BP,GO:0046655,folic acid metabolic process,3,ALDH1L2,2.061335122,0.028127693,1.732050808
+312,BP,GO:0006654,phosphatidic acid biosynthetic process,4,GPAT4,1.073009902,0.028277145,2
+313,BP,GO:0006654,phosphatidic acid biosynthetic process,4,DGKQ,2.456190221,0.028277145,2
+314,BP,GO:0006654,phosphatidic acid biosynthetic process,4,LPCAT1,1.020988883,0.028277145,2
+315,BP,GO:0006654,phosphatidic acid biosynthetic process,4,AGPAT2,1.684830051,0.028277145,2
+316,BP,GO:0031100,animal organ regeneration,4,ACE,3.63583652,0.028277145,2
+317,BP,GO:0031100,animal organ regeneration,4,FPGS,1.356079376,0.028277145,2
+318,BP,GO:0031100,animal organ regeneration,4,ADM,1.353968202,0.028277145,2
+319,BP,GO:0031100,animal organ regeneration,4,HSPG2,1.023314262,0.028277145,2
+320,BP,GO:0008283,cell proliferation,8,UCHL1,2.13984649,0.029016426,2.828427125
+321,BP,GO:0008283,cell proliferation,8,SMAD4,1.111311315,0.029016426,2.828427125
+322,BP,GO:0008283,cell proliferation,8,SPHK2,1.411713019,0.029016426,2.828427125
+323,BP,GO:0008283,cell proliferation,8,TXNRD1,3.743775923,0.029016426,2.828427125
+324,BP,GO:0008283,cell proliferation,8,FPGS,1.356079376,0.029016426,2.828427125
+325,BP,GO:0008283,cell proliferation,8,TACC1,1.487615792,0.029016426,2.828427125
+326,BP,GO:0008283,cell proliferation,8,PDK1,2.072438177,0.029016426,2.828427125
+327,BP,GO:0008283,cell proliferation,8,OVOL2,1.997308805,0.029016426,2.828427125
+328,BP,GO:0002720,positive regulation of cytokine production involved in immune response,3,SLC7A5,1.055899473,0.031535123,1.732050808
+329,BP,GO:0002720,positive regulation of cytokine production involved in immune response,3,SPHK2,1.411713019,0.031535123,1.732050808
+330,BP,GO:0002720,positive regulation of cytokine production involved in immune response,3,IRF5,1.445874726,0.031535123,1.732050808
+331,BP,GO:0044790,negative regulation by host of viral release from host cell,3,TRIM27,1.360869388,0.031535123,1.732050808
+332,BP,GO:0044790,negative regulation by host of viral release from host cell,3,MID2,1.066639271,0.031535123,1.732050808
+333,BP,GO:0044790,negative regulation by host of viral release from host cell,3,TRIM11,1.196391419,0.031535123,1.732050808
+334,BP,GO:1990830,cellular response to leukemia inhibitory factor,6,PTP4A3,4.08549018,0.032642831,2.449489743
+335,BP,GO:1990830,cellular response to leukemia inhibitory factor,6,KDM3A,1.211597239,0.032642831,2.449489743
+336,BP,GO:1990830,cellular response to leukemia inhibitory factor,6,CTBP2,1.25571814,0.032642831,2.449489743
+337,BP,GO:1990830,cellular response to leukemia inhibitory factor,6,SPRY4,1.001525635,0.032642831,2.449489743
+338,BP,GO:1990830,cellular response to leukemia inhibitory factor,6,SPRY2,1.94607256,0.032642831,2.449489743
+339,BP,GO:1990830,cellular response to leukemia inhibitory factor,6,SNX10,2.834422686,0.032642831,2.449489743
+340,BP,GO:0008355,olfactory learning,2,TPBG,1.415348831,0.032832278,1.414213562
+341,BP,GO:0008355,olfactory learning,2,ADCY3,1.281745516,0.032832278,1.414213562
+342,BP,GO:0032091,negative regulation of protein binding,5,ACE,3.63583652,0.035817022,2.236067977
+343,BP,GO:0032091,negative regulation of protein binding,5,RALB,1.123441973,0.035817022,2.236067977
+344,BP,GO:0032091,negative regulation of protein binding,5,CTSZ,1.494860669,0.035817022,2.236067977
+345,BP,GO:0032091,negative regulation of protein binding,5,DVL1,1.101623715,0.035817022,2.236067977
+346,BP,GO:0032091,negative regulation of protein binding,5,CAMK1,2.477262972,0.035817022,2.236067977
+347,BP,GO:0030163,protein catabolic process,5,PDLIM2,1.32459423,0.035817022,2.236067977
+348,BP,GO:0030163,protein catabolic process,5,CASP3,1.05470245,0.035817022,2.236067977
+349,BP,GO:0030163,protein catabolic process,5,LPCAT1,1.020988883,0.035817022,2.236067977
+350,BP,GO:0030163,protein catabolic process,5,TRAF2,1.147132307,0.035817022,2.236067977
+351,BP,GO:0030163,protein catabolic process,5,DENND3,1.96907622,0.035817022,2.236067977
+352,BP,GO:1902236,negative regulation of endoplasmic reticulum stress-induced intrinsic apoptotic signaling pathway,3,CREB3,1.188280539,0.038804076,1.732050808
+353,BP,GO:1902236,negative regulation of endoplasmic reticulum stress-induced intrinsic apoptotic signaling pathway,3,XBP1,1.502808348,0.038804076,1.732050808
+354,BP,GO:1902236,negative regulation of endoplasmic reticulum stress-induced intrinsic apoptotic signaling pathway,3,SELENOS,1.086601231,0.038804076,1.732050808
+355,BP,GO:0006650,glycerophospholipid metabolic process,3,GPAT4,1.073009902,0.038804076,1.732050808
+356,BP,GO:0006650,glycerophospholipid metabolic process,3,LPCAT1,1.020988883,0.038804076,1.732050808
+357,BP,GO:0006650,glycerophospholipid metabolic process,3,AGPAT2,1.684830051,0.038804076,1.732050808
+358,BP,GO:0043407,negative regulation of MAP kinase activity,4,UCHL1,2.13984649,0.04043626,2
+359,BP,GO:0043407,negative regulation of MAP kinase activity,4,SPRY4,1.001525635,0.04043626,2
+360,BP,GO:0043407,negative regulation of MAP kinase activity,4,SPRY2,1.94607256,0.04043626,2
+361,BP,GO:0043407,negative regulation of MAP kinase activity,4,SH2B3,2.082011917,0.04043626,2
+362,BP,GO:0010801,negative regulation of peptidyl-threonine phosphorylation,3,DGKQ,2.456190221,0.042653802,1.732050808
+363,BP,GO:0010801,negative regulation of peptidyl-threonine phosphorylation,3,DDIT4,3.420497782,0.042653802,1.732050808
+364,BP,GO:0010801,negative regulation of peptidyl-threonine phosphorylation,3,SPRY2,1.94607256,0.042653802,1.732050808
+365,BP,GO:0035914,skeletal muscle cell differentiation,4,KRAS,1.185149494,0.044987329,2
+366,BP,GO:0035914,skeletal muscle cell differentiation,4,ANKRD52,1.500601266,0.044987329,2
+367,BP,GO:0035914,skeletal muscle cell differentiation,4,LEMD2,1.086333575,0.044987329,2
+368,BP,GO:0035914,skeletal muscle cell differentiation,4,SAP30,1.566837245,0.044987329,2
+369,BP,GO:0032012,regulation of ARF protein signal transduction,3,IQSEC1,1.391872072,0.046639415,1.732050808
+370,BP,GO:0032012,regulation of ARF protein signal transduction,3,ARFGAP3,1.225391663,0.046639415,1.732050808
+371,BP,GO:0032012,regulation of ARF protein signal transduction,3,ARFGEF3,1.924103833,0.046639415,1.732050808
+372,BP,GO:0036303,lymph vessel morphogenesis,2,PKD1,3.12838686,0.048843178,1.414213562
+373,BP,GO:0036303,lymph vessel morphogenesis,2,VEGFA,1.775883712,0.048843178,1.414213562
+374,BP,GO:1902033,regulation of hematopoietic stem cell proliferation,2,ACE,3.63583652,0.048843178,1.414213562
+375,BP,GO:1902033,regulation of hematopoietic stem cell proliferation,2,EIF2AK2,1.121911985,0.048843178,1.414213562
+376,BP,GO:0006990,positive regulation of transcription from RNA polymerase II promoter involved in unfolded protein response,2,CREB3,1.188280539,0.048843178,1.414213562
+377,BP,GO:0006990,positive regulation of transcription from RNA polymerase II promoter involved in unfolded protein response,2,XBP1,1.502808348,0.048843178,1.414213562
+378,BP,GO:0055092,sterol homeostasis,2,XBP1,1.502808348,0.048843178,1.414213562
+379,BP,GO:0055092,sterol homeostasis,2,ABCD1,2.012987602,0.048843178,1.414213562
+380,CC,GO:0005829,cytosol,129,TES,1.185075415,8.51E-06,11.35781669
+381,CC,GO:0005829,cytosol,129,GOLT1A,1.8370928,8.51E-06,11.35781669
+382,CC,GO:0005829,cytosol,129,DOCK11,1.926651333,8.51E-06,11.35781669
+383,CC,GO:0005829,cytosol,129,RASSF3,1.185213773,8.51E-06,11.35781669
+384,CC,GO:0005829,cytosol,129,FTH1,1.363955007,8.51E-06,11.35781669
+385,CC,GO:0005829,cytosol,129,FPGS,1.356079376,8.51E-06,11.35781669
+386,CC,GO:0005829,cytosol,129,TRIM27,1.360869388,8.51E-06,11.35781669
+387,CC,GO:0005829,cytosol,129,SYNPO,1.246254702,8.51E-06,11.35781669
+388,CC,GO:0005829,cytosol,129,PDE8A,1.032360242,8.51E-06,11.35781669
+389,CC,GO:0005829,cytosol,129,PPFIA4,3.453177221,8.51E-06,11.35781669
+390,CC,GO:0005829,cytosol,129,FBXO9,1.255067746,8.51E-06,11.35781669
+391,CC,GO:0005829,cytosol,129,KRT8,2.767720339,8.51E-06,11.35781669
+392,CC,GO:0005829,cytosol,129,HUS1,1.466218523,8.51E-06,11.35781669
+393,CC,GO:0005829,cytosol,129,KLHL42,1.188992165,8.51E-06,11.35781669
+394,CC,GO:0005829,cytosol,129,MYL5,1.963295014,8.51E-06,11.35781669
+395,CC,GO:0005829,cytosol,129,DGKQ,2.456190221,8.51E-06,11.35781669
+396,CC,GO:0005829,cytosol,129,DDIT4,3.420497782,8.51E-06,11.35781669
+397,CC,GO:0005829,cytosol,129,HSBP1L1,1.049550792,8.51E-06,11.35781669
+398,CC,GO:0005829,cytosol,129,ULK2,1.477697091,8.51E-06,11.35781669
+399,CC,GO:0005829,cytosol,129,UPRT,1.567362336,8.51E-06,11.35781669
+400,CC,GO:0005829,cytosol,129,TRIB3,1.61216085,8.51E-06,11.35781669
+401,CC,GO:0005829,cytosol,129,DENND6A,1.371974756,8.51E-06,11.35781669
+402,CC,GO:0005829,cytosol,129,NEIL1,2.332397251,8.51E-06,11.35781669
+403,CC,GO:0005829,cytosol,129,TRIM11,1.196391419,8.51E-06,11.35781669
+404,CC,GO:0005829,cytosol,129,CARD11,1.633925676,8.51E-06,11.35781669
+405,CC,GO:0005829,cytosol,129,ZNF397,1.114297321,8.51E-06,11.35781669
+406,CC,GO:0005829,cytosol,129,PXK,1.197684457,8.51E-06,11.35781669
+407,CC,GO:0005829,cytosol,129,EIF5A2,1.917835879,8.51E-06,11.35781669
+408,CC,GO:0005829,cytosol,129,HELZ2,1.086484217,8.51E-06,11.35781669
+409,CC,GO:0005829,cytosol,129,HRH1,1.246213359,8.51E-06,11.35781669
+410,CC,GO:0005829,cytosol,129,ATXN7,1.205168273,8.51E-06,11.35781669
+411,CC,GO:0005829,cytosol,129,DVL1,1.101623715,8.51E-06,11.35781669
+412,CC,GO:0005829,cytosol,129,TNRC18,1.026136974,8.51E-06,11.35781669
+413,CC,GO:0005829,cytosol,129,RHPN2,1.85959939,8.51E-06,11.35781669
+414,CC,GO:0005829,cytosol,129,RAB6B,2.274002235,8.51E-06,11.35781669
+415,CC,GO:0005829,cytosol,129,RAB11FIP3,1.53727149,8.51E-06,11.35781669
+416,CC,GO:0005829,cytosol,129,PCK2,1.009044142,8.51E-06,11.35781669
+417,CC,GO:0005829,cytosol,129,VASP,1.660345002,8.51E-06,11.35781669
+418,CC,GO:0005829,cytosol,129,MOAP1,1.082698338,8.51E-06,11.35781669
+419,CC,GO:0005829,cytosol,129,XBP1,1.502808348,8.51E-06,11.35781669
+420,CC,GO:0005829,cytosol,129,PHETA2,1.36773852,8.51E-06,11.35781669
+421,CC,GO:0005829,cytosol,129,SMAD4,1.111311315,8.51E-06,11.35781669
+422,CC,GO:0005829,cytosol,129,SRMS,2.270221283,8.51E-06,11.35781669
+423,CC,GO:0005829,cytosol,129,ATP8B2,1.54747516,8.51E-06,11.35781669
+424,CC,GO:0005829,cytosol,129,GFPT1,1.956355318,8.51E-06,11.35781669
+425,CC,GO:0005829,cytosol,129,EIF2AK2,1.121911985,8.51E-06,11.35781669
+426,CC,GO:0005829,cytosol,129,SPART,1.033024879,8.51E-06,11.35781669
+427,CC,GO:0005829,cytosol,129,CCDC88A,1.649283327,8.51E-06,11.35781669
+428,CC,GO:0005829,cytosol,129,AGO4,1.340650782,8.51E-06,11.35781669
+429,CC,GO:0005829,cytosol,129,NOXA1,1.276017818,8.51E-06,11.35781669
+430,CC,GO:0005829,cytosol,129,CAPRIN2,1.313527779,8.51E-06,11.35781669
+431,CC,GO:0005829,cytosol,129,SPIRE1,1.304672153,8.51E-06,11.35781669
+432,CC,GO:0005829,cytosol,129,CORO7,1.187762011,8.51E-06,11.35781669
+433,CC,GO:0005829,cytosol,129,MAP3K11,1.469992671,8.51E-06,11.35781669
+434,CC,GO:0005829,cytosol,129,USP35,1.292461975,8.51E-06,11.35781669
+435,CC,GO:0005829,cytosol,129,DOCK9,1.224664632,8.51E-06,11.35781669
+436,CC,GO:0005829,cytosol,129,CEP164,1.025218524,8.51E-06,11.35781669
+437,CC,GO:0005829,cytosol,129,SLC2A1,1.540415578,8.51E-06,11.35781669
+438,CC,GO:0005829,cytosol,129,HCCS,1.032100351,8.51E-06,11.35781669
+439,CC,GO:0005829,cytosol,129,LIMD1,1.60682939,8.51E-06,11.35781669
+440,CC,GO:0005829,cytosol,129,LARP1B,1.163700974,8.51E-06,11.35781669
+441,CC,GO:0005829,cytosol,129,CDC73,1.027492233,8.51E-06,11.35781669
+442,CC,GO:0005829,cytosol,129,LIMD2,3.835951731,8.51E-06,11.35781669
+443,CC,GO:0005829,cytosol,129,WDR44,1.004694116,8.51E-06,11.35781669
+444,CC,GO:0005829,cytosol,129,UCHL1,2.13984649,8.51E-06,11.35781669
+445,CC,GO:0005829,cytosol,129,PPP3CC,1.798428499,8.51E-06,11.35781669
+446,CC,GO:0005829,cytosol,129,IMPA1,1.14435296,8.51E-06,11.35781669
+447,CC,GO:0005829,cytosol,129,RASGEF1A,2.070404766,8.51E-06,11.35781669
+448,CC,GO:0005829,cytosol,129,AIFM2,3.515573125,8.51E-06,11.35781669
+449,CC,GO:0005829,cytosol,129,SNAPC2,1.496589132,8.51E-06,11.35781669
+450,CC,GO:0005829,cytosol,129,UBE2Q2,1.41839072,8.51E-06,11.35781669
+451,CC,GO:0005829,cytosol,129,CASP3,1.05470245,8.51E-06,11.35781669
+452,CC,GO:0005829,cytosol,129,DGCR8,1.009551556,8.51E-06,11.35781669
+453,CC,GO:0005829,cytosol,129,MAN1A1,1.00761655,8.51E-06,11.35781669
+454,CC,GO:0005829,cytosol,129,C19ORF12,1.481581714,8.51E-06,11.35781669
+455,CC,GO:0005829,cytosol,129,LRRFIP1,1.964244425,8.51E-06,11.35781669
+456,CC,GO:0005829,cytosol,129,NINL,2.318249822,8.51E-06,11.35781669
+457,CC,GO:0005829,cytosol,129,ABCD1,2.012987602,8.51E-06,11.35781669
+458,CC,GO:0005829,cytosol,129,KLF12,2.767188072,8.51E-06,11.35781669
+459,CC,GO:0005829,cytosol,129,VPS9D1,2.506346309,8.51E-06,11.35781669
+460,CC,GO:0005829,cytosol,129,PARP4,1.441891917,8.51E-06,11.35781669
+461,CC,GO:0005829,cytosol,129,SPHK2,1.411713019,8.51E-06,11.35781669
+462,CC,GO:0005829,cytosol,129,ARHGEF16,1.433717196,8.51E-06,11.35781669
+463,CC,GO:0005829,cytosol,129,TRAF2,1.147132307,8.51E-06,11.35781669
+464,CC,GO:0005829,cytosol,129,ARFGAP3,1.225391663,8.51E-06,11.35781669
+465,CC,GO:0005829,cytosol,129,RENBP,3.151401144,8.51E-06,11.35781669
+466,CC,GO:0005829,cytosol,129,VAV2,1.148022521,8.51E-06,11.35781669
+467,CC,GO:0005829,cytosol,129,PTP4A2,1.316284249,8.51E-06,11.35781669
+468,CC,GO:0005829,cytosol,129,SLC7A5,1.055899473,8.51E-06,11.35781669
+469,CC,GO:0005829,cytosol,129,CREB3,1.188280539,8.51E-06,11.35781669
+470,CC,GO:0005829,cytosol,129,PITPNM1,1.161897792,8.51E-06,11.35781669
+471,CC,GO:0005829,cytosol,129,GAN,1.497592462,8.51E-06,11.35781669
+472,CC,GO:0005829,cytosol,129,TRAF5,3.108006786,8.51E-06,11.35781669
+473,CC,GO:0005829,cytosol,129,IRF5,1.445874726,8.51E-06,11.35781669
+474,CC,GO:0005829,cytosol,129,SYNC,1.575655704,8.51E-06,11.35781669
+475,CC,GO:0005829,cytosol,129,PAFAH1B2,1.212264012,8.51E-06,11.35781669
+476,CC,GO:0005829,cytosol,129,TRIM56,1.14757533,8.51E-06,11.35781669
+477,CC,GO:0005829,cytosol,129,RNF34,1.211244319,8.51E-06,11.35781669
+478,CC,GO:0005829,cytosol,129,TRIM16L,1.636482094,8.51E-06,11.35781669
+479,CC,GO:0005829,cytosol,129,DENND3,1.96907622,8.51E-06,11.35781669
+480,CC,GO:0005829,cytosol,129,MTHFD1L,1.025794583,8.51E-06,11.35781669
+481,CC,GO:0005829,cytosol,129,CBS,2.911018365,8.51E-06,11.35781669
+482,CC,GO:0005829,cytosol,129,TRIM47,2.363855207,8.51E-06,11.35781669
+483,CC,GO:0005829,cytosol,129,WHAMM,1.015156222,8.51E-06,11.35781669
+484,CC,GO:0005829,cytosol,129,ANKRD52,1.500601266,8.51E-06,11.35781669
+485,CC,GO:0005829,cytosol,129,SH2B3,2.082011917,8.51E-06,11.35781669
+486,CC,GO:0005829,cytosol,129,PDLIM7,1.407161692,8.51E-06,11.35781669
+487,CC,GO:0005829,cytosol,129,SNCA,1.721141724,8.51E-06,11.35781669
+488,CC,GO:0005829,cytosol,129,KDM4B,1.387031438,8.51E-06,11.35781669
+489,CC,GO:0005829,cytosol,129,FKRP,1.089941806,8.51E-06,11.35781669
+490,CC,GO:0005829,cytosol,129,CDC42BPG,1.344976019,8.51E-06,11.35781669
+491,CC,GO:0005829,cytosol,129,TXNRD1,3.743775923,8.51E-06,11.35781669
+492,CC,GO:0005829,cytosol,129,GSR,1.209604163,8.51E-06,11.35781669
+493,CC,GO:0005829,cytosol,129,SPRY4,1.001525635,8.51E-06,11.35781669
+494,CC,GO:0005829,cytosol,129,DDHD2,1.063834176,8.51E-06,11.35781669
+495,CC,GO:0005829,cytosol,129,CDC42BPB,1.025286988,8.51E-06,11.35781669
+496,CC,GO:0005829,cytosol,129,PLEKHA8,1.169680519,8.51E-06,11.35781669
+497,CC,GO:0005829,cytosol,129,KLF8,1.351097239,8.51E-06,11.35781669
+498,CC,GO:0005829,cytosol,129,KLHL9,1.031125532,8.51E-06,11.35781669
+499,CC,GO:0005829,cytosol,129,ITCH,1.074303954,8.51E-06,11.35781669
+500,CC,GO:0005829,cytosol,129,NOL4L,3.384262524,8.51E-06,11.35781669
+501,CC,GO:0005829,cytosol,129,SPRY2,1.94607256,8.51E-06,11.35781669
+502,CC,GO:0005829,cytosol,129,KRAS,1.185149494,8.51E-06,11.35781669
+503,CC,GO:0005829,cytosol,129,TACC1,1.487615792,8.51E-06,11.35781669
+504,CC,GO:0005829,cytosol,129,CAMK1,2.477262972,8.51E-06,11.35781669
+505,CC,GO:0005829,cytosol,129,PKN1,1.987067782,8.51E-06,11.35781669
+506,CC,GO:0005829,cytosol,129,SEC24D,1.066444445,8.51E-06,11.35781669
+507,CC,GO:0005829,cytosol,129,SIPA1,2.381848047,8.51E-06,11.35781669
+508,CC,GO:0005829,cytosol,129,TNRC6A,1.077306321,8.51E-06,11.35781669
+509,CC,GO:0016020,membrane,88,ANKRD13B,1.588150668,0.000124,9.38083152
+510,CC,GO:0016020,membrane,88,TMEM200B,2.559397688,0.000124,9.38083152
+511,CC,GO:0016020,membrane,88,DOCK9,1.224664632,0.000124,9.38083152
+512,CC,GO:0016020,membrane,88,GOLT1A,1.8370928,0.000124,9.38083152
+513,CC,GO:0016020,membrane,88,LPCAT1,1.020988883,0.000124,9.38083152
+514,CC,GO:0016020,membrane,88,SLC2A1,1.540415578,0.000124,9.38083152
+515,CC,GO:0016020,membrane,88,SNX10,2.834422686,0.000124,9.38083152
+516,CC,GO:0016020,membrane,88,HCCS,1.032100351,0.000124,9.38083152
+517,CC,GO:0016020,membrane,88,SLC2A3,1.413331009,0.000124,9.38083152
+518,CC,GO:0016020,membrane,88,VLDLR,1.385800133,0.000124,9.38083152
+519,CC,GO:0016020,membrane,88,SLC4A2,1.088043828,0.000124,9.38083152
+520,CC,GO:0016020,membrane,88,CELSR1,1.410772692,0.000124,9.38083152
+521,CC,GO:0016020,membrane,88,PEAR1,1.883842399,0.000124,9.38083152
+522,CC,GO:0016020,membrane,88,PKD1,3.12838686,0.000124,9.38083152
+523,CC,GO:0016020,membrane,88,TMEM263,1.812830461,0.000124,9.38083152
+524,CC,GO:0016020,membrane,88,PRSS21,1.673950639,0.000124,9.38083152
+525,CC,GO:0016020,membrane,88,MRC2,1.077459937,0.000124,9.38083152
+526,CC,GO:0016020,membrane,88,STBD1,1.160669294,0.000124,9.38083152
+527,CC,GO:0016020,membrane,88,FLVCR1,1.89925569,0.000124,9.38083152
+528,CC,GO:0016020,membrane,88,MAN1A1,1.00761655,0.000124,9.38083152
+529,CC,GO:0016020,membrane,88,CLCC1,1.083136732,0.000124,9.38083152
+530,CC,GO:0016020,membrane,88,ABCD1,2.012987602,0.000124,9.38083152
+531,CC,GO:0016020,membrane,88,SLFN12L,2.858618188,0.000124,9.38083152
+532,CC,GO:0016020,membrane,88,ABCC3,2.071175994,0.000124,9.38083152
+533,CC,GO:0016020,membrane,88,SLC38A1,1.071911154,0.000124,9.38083152
+534,CC,GO:0016020,membrane,88,PARP4,1.441891917,0.000124,9.38083152
+535,CC,GO:0016020,membrane,88,SPHK2,1.411713019,0.000124,9.38083152
+536,CC,GO:0016020,membrane,88,CSGALNACT2,1.572438247,0.000124,9.38083152
+537,CC,GO:0016020,membrane,88,ARFGAP3,1.225391663,0.000124,9.38083152
+538,CC,GO:0016020,membrane,88,LEMD2,1.086333575,0.000124,9.38083152
+539,CC,GO:0016020,membrane,88,FRS3,2.86450267,0.000124,9.38083152
+540,CC,GO:0016020,membrane,88,SLC7A5,1.055899473,0.000124,9.38083152
+541,CC,GO:0016020,membrane,88,CREB3,1.188280539,0.000124,9.38083152
+542,CC,GO:0016020,membrane,88,PITPNM1,1.161897792,0.000124,9.38083152
+543,CC,GO:0016020,membrane,88,CERS2,1.652787092,0.000124,9.38083152
+544,CC,GO:0016020,membrane,88,TLCD5,2.912565046,0.000124,9.38083152
+545,CC,GO:0016020,membrane,88,SMIM24,2.482391742,0.000124,9.38083152
+546,CC,GO:0016020,membrane,88,KDM3A,1.211597239,0.000124,9.38083152
+547,CC,GO:0016020,membrane,88,RGS19,1.180476593,0.000124,9.38083152
+548,CC,GO:0016020,membrane,88,LRP1,1.124225932,0.000124,9.38083152
+549,CC,GO:0016020,membrane,88,CBFB,1.165740464,0.000124,9.38083152
+550,CC,GO:0016020,membrane,88,SDC3,1.015089319,0.000124,9.38083152
+551,CC,GO:0016020,membrane,88,ADCY4,3.008967977,0.000124,9.38083152
+552,CC,GO:0016020,membrane,88,ADCY3,1.281745516,0.000124,9.38083152
+553,CC,GO:0016020,membrane,88,SLC1A4,1.253917931,0.000124,9.38083152
+554,CC,GO:0016020,membrane,88,ITPRIPL2,1.870012312,0.000124,9.38083152
+555,CC,GO:0016020,membrane,88,PCNX3,1.293941043,0.000124,9.38083152
+556,CC,GO:0016020,membrane,88,HELZ2,1.086484217,0.000124,9.38083152
+557,CC,GO:0016020,membrane,88,APH1B,1.245236665,0.000124,9.38083152
+558,CC,GO:0016020,membrane,88,MTHFD1L,1.025794583,0.000124,9.38083152
+559,CC,GO:0016020,membrane,88,GPAT4,1.073009902,0.000124,9.38083152
+560,CC,GO:0016020,membrane,88,FAM241B,3.161351783,0.000124,9.38083152
+561,CC,GO:0016020,membrane,88,SNCA,1.721141724,0.000124,9.38083152
+562,CC,GO:0016020,membrane,88,CD276,1.305206418,0.000124,9.38083152
+563,CC,GO:0016020,membrane,88,TM4SF19,1.322805175,0.000124,9.38083152
+564,CC,GO:0016020,membrane,88,SLC37A1,2.116495343,0.000124,9.38083152
+565,CC,GO:0016020,membrane,88,ACE,3.63583652,0.000124,9.38083152
+566,CC,GO:0016020,membrane,88,CMTM4,2.44845815,0.000124,9.38083152
+567,CC,GO:0016020,membrane,88,IQSEC1,1.391872072,0.000124,9.38083152
+568,CC,GO:0016020,membrane,88,PLEKHA2,1.298801602,0.000124,9.38083152
+569,CC,GO:0016020,membrane,88,TPBG,1.415348831,0.000124,9.38083152
+570,CC,GO:0016020,membrane,88,TNK1,1.068708238,0.000124,9.38083152
+571,CC,GO:0016020,membrane,88,SPRY4,1.001525635,0.000124,9.38083152
+572,CC,GO:0016020,membrane,88,DDHD2,1.063834176,0.000124,9.38083152
+573,CC,GO:0016020,membrane,88,EIF2AK2,1.121911985,0.000124,9.38083152
+574,CC,GO:0016020,membrane,88,LHFPL2,1.177320308,0.000124,9.38083152
+575,CC,GO:0016020,membrane,88,CDC42BPB,1.025286988,0.000124,9.38083152
+576,CC,GO:0016020,membrane,88,ATP2B1,1.208471061,0.000124,9.38083152
+577,CC,GO:0016020,membrane,88,TMCO3,1.540967918,0.000124,9.38083152
+578,CC,GO:0016020,membrane,88,DLK2,2.288340458,0.000124,9.38083152
+579,CC,GO:0016020,membrane,88,PLEKHA8,1.169680519,0.000124,9.38083152
+580,CC,GO:0016020,membrane,88,VEGFA,1.775883712,0.000124,9.38083152
+581,CC,GO:0016020,membrane,88,CCDC88A,1.649283327,0.000124,9.38083152
+582,CC,GO:0016020,membrane,88,ITCH,1.074303954,0.000124,9.38083152
+583,CC,GO:0016020,membrane,88,SLC6A9,1.685787623,0.000124,9.38083152
+584,CC,GO:0016020,membrane,88,P4HA1,1.889195711,0.000124,9.38083152
+585,CC,GO:0016020,membrane,88,ABHD17A,1.012078369,0.000124,9.38083152
+586,CC,GO:0016020,membrane,88,AGO4,1.340650782,0.000124,9.38083152
+587,CC,GO:0016020,membrane,88,TSPAN17,1.492443133,0.000124,9.38083152
+588,CC,GO:0016020,membrane,88,UST,1.374228065,0.000124,9.38083152
+589,CC,GO:0016020,membrane,88,SPRY2,1.94607256,0.000124,9.38083152
+590,CC,GO:0016020,membrane,88,KRAS,1.185149494,0.000124,9.38083152
+591,CC,GO:0016020,membrane,88,EPPK1,1.027001296,0.000124,9.38083152
+592,CC,GO:0016020,membrane,88,TACC1,1.487615792,0.000124,9.38083152
+593,CC,GO:0016020,membrane,88,CORO7,1.187762011,0.000124,9.38083152
+594,CC,GO:0016020,membrane,88,MAP3K11,1.469992671,0.000124,9.38083152
+595,CC,GO:0016020,membrane,88,SIPA1,2.381848047,0.000124,9.38083152
+596,CC,GO:0016020,membrane,88,CDS2,1.092451805,0.000124,9.38083152
+597,CC,GO:0000139,Golgi membrane,23,FKRP,1.089941806,0.002244005,4.795831523
+598,CC,GO:0000139,Golgi membrane,23,GALNT4,1.682378005,0.002244005,4.795831523
+599,CC,GO:0000139,Golgi membrane,23,GOLT1A,1.8370928,0.002244005,4.795831523
+600,CC,GO:0000139,Golgi membrane,23,FUT11,2.213718341,0.002244005,4.795831523
+601,CC,GO:0000139,Golgi membrane,23,CSGALNACT2,1.572438247,0.002244005,4.795831523
+602,CC,GO:0000139,Golgi membrane,23,LPCAT1,1.020988883,0.002244005,4.795831523
+603,CC,GO:0000139,Golgi membrane,23,SLC2A1,1.540415578,0.002244005,4.795831523
+604,CC,GO:0000139,Golgi membrane,23,ARFGAP3,1.225391663,0.002244005,4.795831523
+605,CC,GO:0000139,Golgi membrane,23,FUT2,1.691169165,0.002244005,4.795831523
+606,CC,GO:0000139,Golgi membrane,23,PKD1,3.12838686,0.002244005,4.795831523
+607,CC,GO:0000139,Golgi membrane,23,PLEKHA8,1.169680519,0.002244005,4.795831523
+608,CC,GO:0000139,Golgi membrane,23,CREB3,1.188280539,0.002244005,4.795831523
+609,CC,GO:0000139,Golgi membrane,23,APH1B,1.245236665,0.002244005,4.795831523
+610,CC,GO:0000139,Golgi membrane,23,MAN2A2,1.914540739,0.002244005,4.795831523
+611,CC,GO:0000139,Golgi membrane,23,UST,1.374228065,0.002244005,4.795831523
+612,CC,GO:0000139,Golgi membrane,23,KRAS,1.185149494,0.002244005,4.795831523
+613,CC,GO:0000139,Golgi membrane,23,MAN1A1,1.00761655,0.002244005,4.795831523
+614,CC,GO:0000139,Golgi membrane,23,CORO7,1.187762011,0.002244005,4.795831523
+615,CC,GO:0000139,Golgi membrane,23,WHAMM,1.015156222,0.002244005,4.795831523
+616,CC,GO:0000139,Golgi membrane,23,CLCC1,1.083136732,0.002244005,4.795831523
+617,CC,GO:0000139,Golgi membrane,23,RAB6B,2.274002235,0.002244005,4.795831523
+618,CC,GO:0000139,Golgi membrane,23,RAB11FIP3,1.53727149,0.002244005,4.795831523
+619,CC,GO:0000139,Golgi membrane,23,CHST3,1.319533019,0.002244005,4.795831523
+620,CC,GO:0031463,Cul3-RING ubiquitin ligase complex,5,KLHL9,1.031125532,0.003287401,2.236067977
+621,CC,GO:0031463,Cul3-RING ubiquitin ligase complex,5,GAN,1.497592462,0.003287401,2.236067977
+622,CC,GO:0031463,Cul3-RING ubiquitin ligase complex,5,ENC1,1.381408849,0.003287401,2.236067977
+623,CC,GO:0031463,Cul3-RING ubiquitin ligase complex,5,LZTR1,1.487543375,0.003287401,2.236067977
+624,CC,GO:0031463,Cul3-RING ubiquitin ligase complex,5,KLHL42,1.188992165,0.003287401,2.236067977
+625,CC,GO:0016323,basolateral plasma membrane,12,ABCC3,2.071175994,0.003814359,3.464101615
+626,CC,GO:0016323,basolateral plasma membrane,12,SLC7A5,1.055899473,0.003814359,3.464101615
+627,CC,GO:0016323,basolateral plasma membrane,12,SLC38A1,1.071911154,0.003814359,3.464101615
+628,CC,GO:0016323,basolateral plasma membrane,12,LRP1,1.124225932,0.003814359,3.464101615
+629,CC,GO:0016323,basolateral plasma membrane,12,SLC6A9,1.685787623,0.003814359,3.464101615
+630,CC,GO:0016323,basolateral plasma membrane,12,CLDN7,2.214630701,0.003814359,3.464101615
+631,CC,GO:0016323,basolateral plasma membrane,12,SLC2A1,1.540415578,0.003814359,3.464101615
+632,CC,GO:0016323,basolateral plasma membrane,12,EPPK1,1.027001296,0.003814359,3.464101615
+633,CC,GO:0016323,basolateral plasma membrane,12,SLC4A2,1.088043828,0.003814359,3.464101615
+634,CC,GO:0016323,basolateral plasma membrane,12,ATP2B1,1.208471061,0.003814359,3.464101615
+635,CC,GO:0016323,basolateral plasma membrane,12,RAB17,2.481924269,0.003814359,3.464101615
+636,CC,GO:0016323,basolateral plasma membrane,12,PKD1,3.12838686,0.003814359,3.464101615
+637,CC,GO:0012505,endomembrane system,9,NRBP2,1.666829684,0.007296059,3
+638,CC,GO:0012505,endomembrane system,9,RNF34,1.211244319,0.007296059,3
+639,CC,GO:0012505,endomembrane system,9,ATP8B2,1.54747516,0.007296059,3
+640,CC,GO:0012505,endomembrane system,9,DOCK9,1.224664632,0.007296059,3
+641,CC,GO:0012505,endomembrane system,9,BIK,1.564083906,0.007296059,3
+642,CC,GO:0012505,endomembrane system,9,RAB17,2.481924269,0.007296059,3
+643,CC,GO:0012505,endomembrane system,9,LZTR1,1.487543375,0.007296059,3
+644,CC,GO:0012505,endomembrane system,9,GDPD5,3.211057638,0.007296059,3
+645,CC,GO:0012505,endomembrane system,9,RAB6B,2.274002235,0.007296059,3
+646,CC,GO:0016328,lateral plasma membrane,6,SLC6A9,1.685787623,0.008880106,2.449489743
+647,CC,GO:0016328,lateral plasma membrane,6,CLDN7,2.214630701,0.008880106,2.449489743
+648,CC,GO:0016328,lateral plasma membrane,6,DVL1,1.101623715,0.008880106,2.449489743
+649,CC,GO:0016328,lateral plasma membrane,6,DSG2,2.098334684,0.008880106,2.449489743
+650,CC,GO:0016328,lateral plasma membrane,6,ATP2B1,1.208471061,0.008880106,2.449489743
+651,CC,GO:0016328,lateral plasma membrane,6,PKD1,3.12838686,0.008880106,2.449489743
+652,CC,GO:0005634,nucleus,120,TES,1.185075415,0.01107964,10.95445115
+653,CC,GO:0005634,nucleus,120,SMC5,1.462494949,0.01107964,10.95445115
+654,CC,GO:0005634,nucleus,120,ZDBF2,1.621739127,0.01107964,10.95445115
+655,CC,GO:0005634,nucleus,120,RASSF1,1.375498834,0.01107964,10.95445115
+656,CC,GO:0005634,nucleus,120,RASSF3,1.185213773,0.01107964,10.95445115
+657,CC,GO:0005634,nucleus,120,ZMIZ2,1.212084178,0.01107964,10.95445115
+658,CC,GO:0005634,nucleus,120,FTH1,1.363955007,0.01107964,10.95445115
+659,CC,GO:0005634,nucleus,120,SCMH1,1.252215628,0.01107964,10.95445115
+660,CC,GO:0005634,nucleus,120,TRIM27,1.360869388,0.01107964,10.95445115
+661,CC,GO:0005634,nucleus,120,SYNPO,1.246254702,0.01107964,10.95445115
+662,CC,GO:0005634,nucleus,120,CDKL2,2.79006747,0.01107964,10.95445115
+663,CC,GO:0005634,nucleus,120,ZNF284,1.342966478,0.01107964,10.95445115
+664,CC,GO:0005634,nucleus,120,ZNF282,1.113319467,0.01107964,10.95445115
+665,CC,GO:0005634,nucleus,120,ZNF160,1.338489131,0.01107964,10.95445115
+666,CC,GO:0005634,nucleus,120,KRT8,2.767720339,0.01107964,10.95445115
+667,CC,GO:0005634,nucleus,120,HUS1,1.466218523,0.01107964,10.95445115
+668,CC,GO:0005634,nucleus,120,SAP30,1.566837245,0.01107964,10.95445115
+669,CC,GO:0005634,nucleus,120,OVOL2,1.997308805,0.01107964,10.95445115
+670,CC,GO:0005634,nucleus,120,MOB3C,1.443194177,0.01107964,10.95445115
+671,CC,GO:0005634,nucleus,120,DGKQ,2.456190221,0.01107964,10.95445115
+672,CC,GO:0005634,nucleus,120,ZNF319,1.57132456,0.01107964,10.95445115
+673,CC,GO:0005634,nucleus,120,HSBP1L1,1.049550792,0.01107964,10.95445115
+674,CC,GO:0005634,nucleus,120,HOXB2,1.17038667,0.01107964,10.95445115
+675,CC,GO:0005634,nucleus,120,TRIB3,1.61216085,0.01107964,10.95445115
+676,CC,GO:0005634,nucleus,120,NEIL1,2.332397251,0.01107964,10.95445115
+677,CC,GO:0005634,nucleus,120,BCORL1,1.267301586,0.01107964,10.95445115
+678,CC,GO:0005634,nucleus,120,KCTD15,1.260858288,0.01107964,10.95445115
+679,CC,GO:0005634,nucleus,120,ZNF397,1.114297321,0.01107964,10.95445115
+680,CC,GO:0005634,nucleus,120,L3MBTL1,1.863367877,0.01107964,10.95445115
+681,CC,GO:0005634,nucleus,120,ZNF275,2.18759023,0.01107964,10.95445115
+682,CC,GO:0005634,nucleus,120,PXK,1.197684457,0.01107964,10.95445115
+683,CC,GO:0005634,nucleus,120,CBFB,1.165740464,0.01107964,10.95445115
+684,CC,GO:0005634,nucleus,120,CTBP2,1.25571814,0.01107964,10.95445115
+685,CC,GO:0005634,nucleus,120,CTBP1,1.142562066,0.01107964,10.95445115
+686,CC,GO:0005634,nucleus,120,EIF5A2,1.917835879,0.01107964,10.95445115
+687,CC,GO:0005634,nucleus,120,MED30,1.714866217,0.01107964,10.95445115
+688,CC,GO:0005634,nucleus,120,DEAF1,1.220831697,0.01107964,10.95445115
+689,CC,GO:0005634,nucleus,120,ATXN7,1.205168273,0.01107964,10.95445115
+690,CC,GO:0005634,nucleus,120,NACC2,1.680651854,0.01107964,10.95445115
+691,CC,GO:0005634,nucleus,120,ZKSCAN2,1.576432276,0.01107964,10.95445115
+692,CC,GO:0005634,nucleus,120,ZNF664,1.124912218,0.01107964,10.95445115
+693,CC,GO:0005634,nucleus,120,PLK3,1.176796238,0.01107964,10.95445115
+694,CC,GO:0005634,nucleus,120,XBP1,1.502808348,0.01107964,10.95445115
+695,CC,GO:0005634,nucleus,120,SMAD4,1.111311315,0.01107964,10.95445115
+696,CC,GO:0005634,nucleus,120,EIF2AK2,1.121911985,0.01107964,10.95445115
+697,CC,GO:0005634,nucleus,120,MEX3D,1.096646487,0.01107964,10.95445115
+698,CC,GO:0005634,nucleus,120,SMARCA1,1.929628541,0.01107964,10.95445115
+699,CC,GO:0005634,nucleus,120,ZNF37A,1.776778011,0.01107964,10.95445115
+700,CC,GO:0005634,nucleus,120,AGO4,1.340650782,0.01107964,10.95445115
+701,CC,GO:0005634,nucleus,120,BHLHE40,1.130222959,0.01107964,10.95445115
+702,CC,GO:0005634,nucleus,120,ZNF416,1.074474986,0.01107964,10.95445115
+703,CC,GO:0005634,nucleus,120,ZNF778,1.771428092,0.01107964,10.95445115
+704,CC,GO:0005634,nucleus,120,RBAK,1.428049258,0.01107964,10.95445115
+705,CC,GO:0005634,nucleus,120,RCOR1,1.350458626,0.01107964,10.95445115
+706,CC,GO:0005634,nucleus,120,MUS81,1.084181337,0.01107964,10.95445115
+707,CC,GO:0005634,nucleus,120,USP35,1.292461975,0.01107964,10.95445115
+708,CC,GO:0005634,nucleus,120,ZNF251,1.541876182,0.01107964,10.95445115
+709,CC,GO:0005634,nucleus,120,CHD7,1.021629009,0.01107964,10.95445115
+710,CC,GO:0005634,nucleus,120,SNX10,2.834422686,0.01107964,10.95445115
+711,CC,GO:0005634,nucleus,120,LIMD1,1.60682939,0.01107964,10.95445115
+712,CC,GO:0005634,nucleus,120,PKD1,3.12838686,0.01107964,10.95445115
+713,CC,GO:0005634,nucleus,120,LARP1B,1.163700974,0.01107964,10.95445115
+714,CC,GO:0005634,nucleus,120,CDC73,1.027492233,0.01107964,10.95445115
+715,CC,GO:0005634,nucleus,120,ZNF805,1.463501778,0.01107964,10.95445115
+716,CC,GO:0005634,nucleus,120,AIFM2,3.515573125,0.01107964,10.95445115
+717,CC,GO:0005634,nucleus,120,SNAPC2,1.496589132,0.01107964,10.95445115
+718,CC,GO:0005634,nucleus,120,ZC3H7B,1.004282723,0.01107964,10.95445115
+719,CC,GO:0005634,nucleus,120,UBE2Q2,1.41839072,0.01107964,10.95445115
+720,CC,GO:0005634,nucleus,120,CASP3,1.05470245,0.01107964,10.95445115
+721,CC,GO:0005634,nucleus,120,ENC1,1.381408849,0.01107964,10.95445115
+722,CC,GO:0005634,nucleus,120,SPEG,2.082986642,0.01107964,10.95445115
+723,CC,GO:0005634,nucleus,120,DGCR8,1.009551556,0.01107964,10.95445115
+724,CC,GO:0005634,nucleus,120,LRRFIP1,1.964244425,0.01107964,10.95445115
+725,CC,GO:0005634,nucleus,120,ACADS,1.454670576,0.01107964,10.95445115
+726,CC,GO:0005634,nucleus,120,EID2B,2.23367179,0.01107964,10.95445115
+727,CC,GO:0005634,nucleus,120,TGIF1,1.132479571,0.01107964,10.95445115
+728,CC,GO:0005634,nucleus,120,CERS5,1.498437183,0.01107964,10.95445115
+729,CC,GO:0005634,nucleus,120,PARP4,1.441891917,0.01107964,10.95445115
+730,CC,GO:0005634,nucleus,120,KLF13,1.238143053,0.01107964,10.95445115
+731,CC,GO:0005634,nucleus,120,SPHK2,1.411713019,0.01107964,10.95445115
+732,CC,GO:0005634,nucleus,120,PTP4A2,1.316284249,0.01107964,10.95445115
+733,CC,GO:0005634,nucleus,120,MED22,1.110333548,0.01107964,10.95445115
+734,CC,GO:0005634,nucleus,120,CREB3,1.188280539,0.01107964,10.95445115
+735,CC,GO:0005634,nucleus,120,PTP4A3,4.08549018,0.01107964,10.95445115
+736,CC,GO:0005634,nucleus,120,NPEPL1,1.788958302,0.01107964,10.95445115
+737,CC,GO:0005634,nucleus,120,KIFC2,1.376396194,0.01107964,10.95445115
+738,CC,GO:0005634,nucleus,120,ZNF514,1.671528334,0.01107964,10.95445115
+739,CC,GO:0005634,nucleus,120,IRF5,1.445874726,0.01107964,10.95445115
+740,CC,GO:0005634,nucleus,120,JDP2,3.126936093,0.01107964,10.95445115
+741,CC,GO:0005634,nucleus,120,KDM7A,1.214637146,0.01107964,10.95445115
+742,CC,GO:0005634,nucleus,120,CERS2,1.652787092,0.01107964,10.95445115
+743,CC,GO:0005634,nucleus,120,LAMA5,1.153519405,0.01107964,10.95445115
+744,CC,GO:0005634,nucleus,120,KDM3A,1.211597239,0.01107964,10.95445115
+745,CC,GO:0005634,nucleus,120,RNF34,1.211244319,0.01107964,10.95445115
+746,CC,GO:0005634,nucleus,120,LRP1,1.124225932,0.01107964,10.95445115
+747,CC,GO:0005634,nucleus,120,PPM1M,1.819841324,0.01107964,10.95445115
+748,CC,GO:0005634,nucleus,120,MLLT6,1.05354506,0.01107964,10.95445115
+749,CC,GO:0005634,nucleus,120,PDLIM2,1.32459423,0.01107964,10.95445115
+750,CC,GO:0005634,nucleus,120,CBS,2.911018365,0.01107964,10.95445115
+751,CC,GO:0005634,nucleus,120,TRIM47,2.363855207,0.01107964,10.95445115
+752,CC,GO:0005634,nucleus,120,ANKRD52,1.500601266,0.01107964,10.95445115
+753,CC,GO:0005634,nucleus,120,ZNF224,1.473187991,0.01107964,10.95445115
+754,CC,GO:0005634,nucleus,120,ZNF587,1.306556905,0.01107964,10.95445115
+755,CC,GO:0005634,nucleus,120,SNCA,1.721141724,0.01107964,10.95445115
+756,CC,GO:0005634,nucleus,120,KDM4B,1.387031438,0.01107964,10.95445115
+757,CC,GO:0005634,nucleus,120,PLEKHA2,1.298801602,0.01107964,10.95445115
+758,CC,GO:0005634,nucleus,120,BNIP3,1.675952671,0.01107964,10.95445115
+759,CC,GO:0005634,nucleus,120,WTIP,2.0124801,0.01107964,10.95445115
+760,CC,GO:0005634,nucleus,120,VEGFA,1.775883712,0.01107964,10.95445115
+761,CC,GO:0005634,nucleus,120,SHLD2,1.297977248,0.01107964,10.95445115
+762,CC,GO:0005634,nucleus,120,RPA4,2.864628838,0.01107964,10.95445115
+763,CC,GO:0005634,nucleus,120,SPRY2,1.94607256,0.01107964,10.95445115
+764,CC,GO:0005634,nucleus,120,ZNF337,1.048689011,0.01107964,10.95445115
+765,CC,GO:0005634,nucleus,120,TACC1,1.487615792,0.01107964,10.95445115
+766,CC,GO:0005634,nucleus,120,CAMK1,2.477262972,0.01107964,10.95445115
+767,CC,GO:0005634,nucleus,120,BCOR,1.147086185,0.01107964,10.95445115
+768,CC,GO:0005634,nucleus,120,PKN1,1.987067782,0.01107964,10.95445115
+769,CC,GO:0005634,nucleus,120,SIPA1,2.381848047,0.01107964,10.95445115
+770,CC,GO:0005634,nucleus,120,ZFP28,1.859448972,0.01107964,10.95445115
+771,CC,GO:0005634,nucleus,120,ZNF354B,1.247448134,0.01107964,10.95445115
+772,CC,GO:0030496,midbody,9,KLHL9,1.031125532,0.012454998,3
+773,CC,GO:0030496,midbody,9,SPART,1.033024879,0.012454998,3
+774,CC,GO:0030496,midbody,9,RALB,1.123441973,0.012454998,3
+775,CC,GO:0030496,midbody,9,PITPNM1,1.161897792,0.012454998,3
+776,CC,GO:0030496,midbody,9,KATNAL1,1.851539147,0.012454998,3
+777,CC,GO:0030496,midbody,9,SLC2A1,1.540415578,0.012454998,3
+778,CC,GO:0030496,midbody,9,TACC1,1.487615792,0.012454998,3
+779,CC,GO:0030496,midbody,9,PKN1,1.987067782,0.012454998,3
+780,CC,GO:0030496,midbody,9,RAB11FIP3,1.53727149,0.012454998,3
+781,CC,GO:0005874,microtubule,12,SHTN1,1.063595032,0.019968861,3.464101615
+782,CC,GO:0005874,microtubule,12,EML5,1.942633747,0.019968861,3.464101615
+783,CC,GO:0005874,microtubule,12,RASSF1,1.375498834,0.019968861,3.464101615
+784,CC,GO:0005874,microtubule,12,RASSF3,1.185213773,0.019968861,3.464101615
+785,CC,GO:0005874,microtubule,12,KATNAL1,1.851539147,0.019968861,3.464101615
+786,CC,GO:0005874,microtubule,12,KIFC2,1.376396194,0.019968861,3.464101615
+787,CC,GO:0005874,microtubule,12,DVL1,1.101623715,0.019968861,3.464101615
+788,CC,GO:0005874,microtubule,12,KIF12,2.803625742,0.019968861,3.464101615
+789,CC,GO:0005874,microtubule,12,WHAMM,1.015156222,0.019968861,3.464101615
+790,CC,GO:0005874,microtubule,12,NINL,2.318249822,0.019968861,3.464101615
+791,CC,GO:0005874,microtubule,12,MID2,1.066639271,0.019968861,3.464101615
+792,CC,GO:0005874,microtubule,12,MAP3K11,1.469992671,0.019968861,3.464101615
+793,CC,GO:0005737,cytoplasm,112,ANKRD13B,1.588150668,0.022305705,10.58300524
+794,CC,GO:0005737,cytoplasm,112,TES,1.185075415,0.022305705,10.58300524
+795,CC,GO:0005737,cytoplasm,112,SMC5,1.462494949,0.022305705,10.58300524
+796,CC,GO:0005737,cytoplasm,112,ALDH1L2,2.061335122,0.022305705,10.58300524
+797,CC,GO:0005737,cytoplasm,112,PTPDC1,1.297343275,0.022305705,10.58300524
+798,CC,GO:0005737,cytoplasm,112,NRBP2,1.666829684,0.022305705,10.58300524
+799,CC,GO:0005737,cytoplasm,112,RASSF1,1.375498834,0.022305705,10.58300524
+800,CC,GO:0005737,cytoplasm,112,RASSF3,1.185213773,0.022305705,10.58300524
+801,CC,GO:0005737,cytoplasm,112,CFL2,1.217922611,0.022305705,10.58300524
+802,CC,GO:0005737,cytoplasm,112,FTH1,1.363955007,0.022305705,10.58300524
+803,CC,GO:0005737,cytoplasm,112,FPGS,1.356079376,0.022305705,10.58300524
+804,CC,GO:0005737,cytoplasm,112,DZIP1L,2.652820923,0.022305705,10.58300524
+805,CC,GO:0005737,cytoplasm,112,TRIM27,1.360869388,0.022305705,10.58300524
+806,CC,GO:0005737,cytoplasm,112,PPFIA4,3.453177221,0.022305705,10.58300524
+807,CC,GO:0005737,cytoplasm,112,FBXO9,1.255067746,0.022305705,10.58300524
+808,CC,GO:0005737,cytoplasm,112,TNS1,2.160138003,0.022305705,10.58300524
+809,CC,GO:0005737,cytoplasm,112,CDKL2,2.79006747,0.022305705,10.58300524
+810,CC,GO:0005737,cytoplasm,112,KRT8,2.767720339,0.022305705,10.58300524
+811,CC,GO:0005737,cytoplasm,112,FRS3,2.86450267,0.022305705,10.58300524
+812,CC,GO:0005737,cytoplasm,112,MID2,1.066639271,0.022305705,10.58300524
+813,CC,GO:0005737,cytoplasm,112,MYL5,1.963295014,0.022305705,10.58300524
+814,CC,GO:0005737,cytoplasm,112,SHTN1,1.063595032,0.022305705,10.58300524
+815,CC,GO:0005737,cytoplasm,112,EML5,1.942633747,0.022305705,10.58300524
+816,CC,GO:0005737,cytoplasm,112,MOB3C,1.443194177,0.022305705,10.58300524
+817,CC,GO:0005737,cytoplasm,112,KATNAL1,1.851539147,0.022305705,10.58300524
+818,CC,GO:0005737,cytoplasm,112,DGKQ,2.456190221,0.022305705,10.58300524
+819,CC,GO:0005737,cytoplasm,112,DDIT4,3.420497782,0.022305705,10.58300524
+820,CC,GO:0005737,cytoplasm,112,ULK2,1.477697091,0.022305705,10.58300524
+821,CC,GO:0005737,cytoplasm,112,UPRT,1.567362336,0.022305705,10.58300524
+822,CC,GO:0005737,cytoplasm,112,DENND6A,1.371974756,0.022305705,10.58300524
+823,CC,GO:0005737,cytoplasm,112,NEIL1,2.332397251,0.022305705,10.58300524
+824,CC,GO:0005737,cytoplasm,112,TRIM11,1.196391419,0.022305705,10.58300524
+825,CC,GO:0005737,cytoplasm,112,CARD11,1.633925676,0.022305705,10.58300524
+826,CC,GO:0005737,cytoplasm,112,ZNF397,1.114297321,0.022305705,10.58300524
+827,CC,GO:0005737,cytoplasm,112,PXK,1.197684457,0.022305705,10.58300524
+828,CC,GO:0005737,cytoplasm,112,HELZ2,1.086484217,0.022305705,10.58300524
+829,CC,GO:0005737,cytoplasm,112,DEAF1,1.220831697,0.022305705,10.58300524
+830,CC,GO:0005737,cytoplasm,112,VASP,1.660345002,0.022305705,10.58300524
+831,CC,GO:0005737,cytoplasm,112,MOAP1,1.082698338,0.022305705,10.58300524
+832,CC,GO:0005737,cytoplasm,112,PLK3,1.176796238,0.022305705,10.58300524
+833,CC,GO:0005737,cytoplasm,112,XBP1,1.502808348,0.022305705,10.58300524
+834,CC,GO:0005737,cytoplasm,112,SMAD4,1.111311315,0.022305705,10.58300524
+835,CC,GO:0005737,cytoplasm,112,SRMS,2.270221283,0.022305705,10.58300524
+836,CC,GO:0005737,cytoplasm,112,TNK1,1.068708238,0.022305705,10.58300524
+837,CC,GO:0005737,cytoplasm,112,EIF2AK2,1.121911985,0.022305705,10.58300524
+838,CC,GO:0005737,cytoplasm,112,TDRD7,1.152209715,0.022305705,10.58300524
+839,CC,GO:0005737,cytoplasm,112,SPART,1.033024879,0.022305705,10.58300524
+840,CC,GO:0005737,cytoplasm,112,MFHAS1,1.389830722,0.022305705,10.58300524
+841,CC,GO:0005737,cytoplasm,112,CCDC88A,1.649283327,0.022305705,10.58300524
+842,CC,GO:0005737,cytoplasm,112,AGO4,1.340650782,0.022305705,10.58300524
+843,CC,GO:0005737,cytoplasm,112,BHLHE40,1.130222959,0.022305705,10.58300524
+844,CC,GO:0005737,cytoplasm,112,CAPRIN2,1.313527779,0.022305705,10.58300524
+845,CC,GO:0005737,cytoplasm,112,CDC42SE2,1.075427024,0.022305705,10.58300524
+846,CC,GO:0005737,cytoplasm,112,KIF12,2.803625742,0.022305705,10.58300524
+847,CC,GO:0005737,cytoplasm,112,ADM,1.353968202,0.022305705,10.58300524
+848,CC,GO:0005737,cytoplasm,112,LIMD1,1.60682939,0.022305705,10.58300524
+849,CC,GO:0005737,cytoplasm,112,PKD1,3.12838686,0.022305705,10.58300524
+850,CC,GO:0005737,cytoplasm,112,PRSS21,1.673950639,0.022305705,10.58300524
+851,CC,GO:0005737,cytoplasm,112,UCHL1,2.13984649,0.022305705,10.58300524
+852,CC,GO:0005737,cytoplasm,112,PPP3CC,1.798428499,0.022305705,10.58300524
+853,CC,GO:0005737,cytoplasm,112,IMPA1,1.14435296,0.022305705,10.58300524
+854,CC,GO:0005737,cytoplasm,112,AIFM2,3.515573125,0.022305705,10.58300524
+855,CC,GO:0005737,cytoplasm,112,CASP3,1.05470245,0.022305705,10.58300524
+856,CC,GO:0005737,cytoplasm,112,ENC1,1.381408849,0.022305705,10.58300524
+857,CC,GO:0005737,cytoplasm,112,DGCR8,1.009551556,0.022305705,10.58300524
+858,CC,GO:0005737,cytoplasm,112,LRRFIP1,1.964244425,0.022305705,10.58300524
+859,CC,GO:0005737,cytoplasm,112,ABCD1,2.012987602,0.022305705,10.58300524
+860,CC,GO:0005737,cytoplasm,112,PARP4,1.441891917,0.022305705,10.58300524
+861,CC,GO:0005737,cytoplasm,112,SPHK2,1.411713019,0.022305705,10.58300524
+862,CC,GO:0005737,cytoplasm,112,VAV2,1.148022521,0.022305705,10.58300524
+863,CC,GO:0005737,cytoplasm,112,ANO1,1.617218379,0.022305705,10.58300524
+864,CC,GO:0005737,cytoplasm,112,PTP4A2,1.316284249,0.022305705,10.58300524
+865,CC,GO:0005737,cytoplasm,112,MED22,1.110333548,0.022305705,10.58300524
+866,CC,GO:0005737,cytoplasm,112,CREB3,1.188280539,0.022305705,10.58300524
+867,CC,GO:0005737,cytoplasm,112,PTP4A3,4.08549018,0.022305705,10.58300524
+868,CC,GO:0005737,cytoplasm,112,NPEPL1,1.788958302,0.022305705,10.58300524
+869,CC,GO:0005737,cytoplasm,112,KIFC2,1.376396194,0.022305705,10.58300524
+870,CC,GO:0005737,cytoplasm,112,PITPNM1,1.161897792,0.022305705,10.58300524
+871,CC,GO:0005737,cytoplasm,112,GAN,1.497592462,0.022305705,10.58300524
+872,CC,GO:0005737,cytoplasm,112,IRF5,1.445874726,0.022305705,10.58300524
+873,CC,GO:0005737,cytoplasm,112,DBN1,1.747094039,0.022305705,10.58300524
+874,CC,GO:0005737,cytoplasm,112,PAFAH1B2,1.212264012,0.022305705,10.58300524
+875,CC,GO:0005737,cytoplasm,112,TRIM56,1.14757533,0.022305705,10.58300524
+876,CC,GO:0005737,cytoplasm,112,KDM3A,1.211597239,0.022305705,10.58300524
+877,CC,GO:0005737,cytoplasm,112,RNF34,1.211244319,0.022305705,10.58300524
+878,CC,GO:0005737,cytoplasm,112,TP53I13,1.919882145,0.022305705,10.58300524
+879,CC,GO:0005737,cytoplasm,112,TRIM16L,1.636482094,0.022305705,10.58300524
+880,CC,GO:0005737,cytoplasm,112,ADCY4,3.008967977,0.022305705,10.58300524
+881,CC,GO:0005737,cytoplasm,112,ADCY3,1.281745516,0.022305705,10.58300524
+882,CC,GO:0005737,cytoplasm,112,CBS,2.911018365,0.022305705,10.58300524
+883,CC,GO:0005737,cytoplasm,112,WHAMM,1.015156222,0.022305705,10.58300524
+884,CC,GO:0005737,cytoplasm,112,MICA,1.097844957,0.022305705,10.58300524
+885,CC,GO:0005737,cytoplasm,112,SNCA,1.721141724,0.022305705,10.58300524
+886,CC,GO:0005737,cytoplasm,112,CCDC57,1.645248793,0.022305705,10.58300524
+887,CC,GO:0005737,cytoplasm,112,PLEKHA2,1.298801602,0.022305705,10.58300524
+888,CC,GO:0005737,cytoplasm,112,CDC42BPG,1.344976019,0.022305705,10.58300524
+889,CC,GO:0005737,cytoplasm,112,TXNRD1,3.743775923,0.022305705,10.58300524
+890,CC,GO:0005737,cytoplasm,112,BNIP3,1.675952671,0.022305705,10.58300524
+891,CC,GO:0005737,cytoplasm,112,SPRY4,1.001525635,0.022305705,10.58300524
+892,CC,GO:0005737,cytoplasm,112,DDHD2,1.063834176,0.022305705,10.58300524
+893,CC,GO:0005737,cytoplasm,112,CDC42BPB,1.025286988,0.022305705,10.58300524
+894,CC,GO:0005737,cytoplasm,112,SPATA2L,1.704858189,0.022305705,10.58300524
+895,CC,GO:0005737,cytoplasm,112,VEGFA,1.775883712,0.022305705,10.58300524
+896,CC,GO:0005737,cytoplasm,112,ITCH,1.074303954,0.022305705,10.58300524
+897,CC,GO:0005737,cytoplasm,112,DBNDD2,1.075593205,0.022305705,10.58300524
+898,CC,GO:0005737,cytoplasm,112,SPRY2,1.94607256,0.022305705,10.58300524
+899,CC,GO:0005737,cytoplasm,112,PTPN9,1.185751214,0.022305705,10.58300524
+900,CC,GO:0005737,cytoplasm,112,KRAS,1.185149494,0.022305705,10.58300524
+901,CC,GO:0005737,cytoplasm,112,EPPK1,1.027001296,0.022305705,10.58300524
+902,CC,GO:0005737,cytoplasm,112,TACC1,1.487615792,0.022305705,10.58300524
+903,CC,GO:0005737,cytoplasm,112,PKN1,1.987067782,0.022305705,10.58300524
+904,CC,GO:0005737,cytoplasm,112,SIPA1,2.381848047,0.022305705,10.58300524
+905,CC,GO:0030018,Z disc,7,PDLIM2,1.32459423,0.024011152,2.645751311
+906,CC,GO:0030018,Z disc,7,CFL2,1.217922611,0.024011152,2.645751311
+907,CC,GO:0030018,Z disc,7,KRT8,2.767720339,0.024011152,2.645751311
+908,CC,GO:0030018,Z disc,7,SLC2A1,1.540415578,0.024011152,2.645751311
+909,CC,GO:0030018,Z disc,7,SYNPO,1.246254702,0.024011152,2.645751311
+910,CC,GO:0030018,Z disc,7,SYNC,1.575655704,0.024011152,2.645751311
+911,CC,GO:0030018,Z disc,7,PDLIM7,1.407161692,0.024011152,2.645751311
+912,CC,GO:0005783,endoplasmic reticulum,29,GOLT1A,1.8370928,0.028186671,5.385164807
+913,CC,GO:0005783,endoplasmic reticulum,29,CTSZ,1.494860669,0.028186671,5.385164807
+914,CC,GO:0005783,endoplasmic reticulum,29,SEMA3B,2.31006407,0.028186671,5.385164807
+915,CC,GO:0005783,endoplasmic reticulum,29,LPCAT1,1.020988883,0.028186671,5.385164807
+916,CC,GO:0005783,endoplasmic reticulum,29,PLOD2,2.960249661,0.028186671,5.385164807
+917,CC,GO:0005783,endoplasmic reticulum,29,SNX10,2.834422686,0.028186671,5.385164807
+918,CC,GO:0005783,endoplasmic reticulum,29,AGPAT2,1.684830051,0.028186671,5.385164807
+919,CC,GO:0005783,endoplasmic reticulum,29,PKD1,3.12838686,0.028186671,5.385164807
+920,CC,GO:0005783,endoplasmic reticulum,29,APH1B,1.245236665,0.028186671,5.385164807
+921,CC,GO:0005783,endoplasmic reticulum,29,GPAT4,1.073009902,0.028186671,5.385164807
+922,CC,GO:0005783,endoplasmic reticulum,29,STBD1,1.160669294,0.028186671,5.385164807
+923,CC,GO:0005783,endoplasmic reticulum,29,MAN1A1,1.00761655,0.028186671,5.385164807
+924,CC,GO:0005783,endoplasmic reticulum,29,C19ORF12,1.481581714,0.028186671,5.385164807
+925,CC,GO:0005783,endoplasmic reticulum,29,CLCC1,1.083136732,0.028186671,5.385164807
+926,CC,GO:0005783,endoplasmic reticulum,29,TMED5,1.653612303,0.028186671,5.385164807
+927,CC,GO:0005783,endoplasmic reticulum,29,CERS5,1.498437183,0.028186671,5.385164807
+928,CC,GO:0005783,endoplasmic reticulum,29,XBP1,1.502808348,0.028186671,5.385164807
+929,CC,GO:0005783,endoplasmic reticulum,29,SPHK2,1.411713019,0.028186671,5.385164807
+930,CC,GO:0005783,endoplasmic reticulum,29,BNIP3,1.675952671,0.028186671,5.385164807
+931,CC,GO:0005783,endoplasmic reticulum,29,TPBG,1.415348831,0.028186671,5.385164807
+932,CC,GO:0005783,endoplasmic reticulum,29,CGRRF1,1.453796583,0.028186671,5.385164807
+933,CC,GO:0005783,endoplasmic reticulum,29,LEMD2,1.086333575,0.028186671,5.385164807
+934,CC,GO:0005783,endoplasmic reticulum,29,VEGFA,1.775883712,0.028186671,5.385164807
+935,CC,GO:0005783,endoplasmic reticulum,29,CCDC88A,1.649283327,0.028186671,5.385164807
+936,CC,GO:0005783,endoplasmic reticulum,29,CREB3,1.188280539,0.028186671,5.385164807
+937,CC,GO:0005783,endoplasmic reticulum,29,SELENOS,1.086601231,0.028186671,5.385164807
+938,CC,GO:0005783,endoplasmic reticulum,29,P4HA1,1.889195711,0.028186671,5.385164807
+939,CC,GO:0005783,endoplasmic reticulum,29,CERS2,1.652787092,0.028186671,5.385164807
+940,CC,GO:0005783,endoplasmic reticulum,29,CDS2,1.092451805,0.028186671,5.385164807
+941,CC,GO:0098944,postsynaptic recycling endosome membrane,2,ABHD17A,1.012078369,0.032283048,1.414213562
+942,CC,GO:0098944,postsynaptic recycling endosome membrane,2,RAB11FIP3,1.53727149,0.032283048,1.414213562
+943,CC,GO:0005769,early endosome,11,ANKRD13B,1.588150668,0.032812649,3.31662479
+944,CC,GO:0005769,early endosome,11,PTP4A2,1.316284249,0.032812649,3.31662479
+945,CC,GO:0005769,early endosome,11,PHETA2,1.36773852,0.032812649,3.31662479
+946,CC,GO:0005769,early endosome,11,PXK,1.197684457,0.032812649,3.31662479
+947,CC,GO:0005769,early endosome,11,PTP4A3,4.08549018,0.032812649,3.31662479
+948,CC,GO:0005769,early endosome,11,ITCH,1.074303954,0.032812649,3.31662479
+949,CC,GO:0005769,early endosome,11,LRP1,1.124225932,0.032812649,3.31662479
+950,CC,GO:0005769,early endosome,11,TRIM27,1.360869388,0.032812649,3.31662479
+951,CC,GO:0005769,early endosome,11,RAB17,2.481924269,0.032812649,3.31662479
+952,CC,GO:0005769,early endosome,11,ATP9A,1.38320085,0.032812649,3.31662479
+953,CC,GO:0005769,early endosome,11,C1ORF210,1.022553985,0.032812649,3.31662479
+954,CC,GO:0005654,nucleoplasm,81,MUS81,1.084181337,0.036589815,9
+955,CC,GO:0005654,nucleoplasm,81,PDCD7,1.023862243,0.036589815,9
+956,CC,GO:0005654,nucleoplasm,81,CHD7,1.021629009,0.036589815,9
+957,CC,GO:0005654,nucleoplasm,81,CEP164,1.025218524,0.036589815,9
+958,CC,GO:0005654,nucleoplasm,81,SMC5,1.462494949,0.036589815,9
+959,CC,GO:0005654,nucleoplasm,81,CELSR1,1.410772692,0.036589815,9
+960,CC,GO:0005654,nucleoplasm,81,LIMD1,1.60682939,0.036589815,9
+961,CC,GO:0005654,nucleoplasm,81,ALDH1L2,2.061335122,0.036589815,9
+962,CC,GO:0005654,nucleoplasm,81,DCAF4,1.57726861,0.036589815,9
+963,CC,GO:0005654,nucleoplasm,81,PTPDC1,1.297343275,0.036589815,9
+964,CC,GO:0005654,nucleoplasm,81,CDC73,1.027492233,0.036589815,9
+965,CC,GO:0005654,nucleoplasm,81,LIMD2,3.835951731,0.036589815,9
+966,CC,GO:0005654,nucleoplasm,81,UCHL1,2.13984649,0.036589815,9
+967,CC,GO:0005654,nucleoplasm,81,SNAPC2,1.496589132,0.036589815,9
+968,CC,GO:0005654,nucleoplasm,81,ZMIZ2,1.212084178,0.036589815,9
+969,CC,GO:0005654,nucleoplasm,81,CASP3,1.05470245,0.036589815,9
+970,CC,GO:0005654,nucleoplasm,81,SCMH1,1.252215628,0.036589815,9
+971,CC,GO:0005654,nucleoplasm,81,ENC1,1.381408849,0.036589815,9
+972,CC,GO:0005654,nucleoplasm,81,DGCR8,1.009551556,0.036589815,9
+973,CC,GO:0005654,nucleoplasm,81,TRIM27,1.360869388,0.036589815,9
+974,CC,GO:0005654,nucleoplasm,81,ACADS,1.454670576,0.036589815,9
+975,CC,GO:0005654,nucleoplasm,81,EID2B,2.23367179,0.036589815,9
+976,CC,GO:0005654,nucleoplasm,81,TGIF1,1.132479571,0.036589815,9
+977,CC,GO:0005654,nucleoplasm,81,CDKL2,2.79006747,0.036589815,9
+978,CC,GO:0005654,nucleoplasm,81,KLF12,2.767188072,0.036589815,9
+979,CC,GO:0005654,nucleoplasm,81,PARP4,1.441891917,0.036589815,9
+980,CC,GO:0005654,nucleoplasm,81,SPHK2,1.411713019,0.036589815,9
+981,CC,GO:0005654,nucleoplasm,81,KRT8,2.767720339,0.036589815,9
+982,CC,GO:0005654,nucleoplasm,81,HUS1,1.466218523,0.036589815,9
+983,CC,GO:0005654,nucleoplasm,81,TRAF2,1.147132307,0.036589815,9
+984,CC,GO:0005654,nucleoplasm,81,CGRRF1,1.453796583,0.036589815,9
+985,CC,GO:0005654,nucleoplasm,81,SAP30,1.566837245,0.036589815,9
+986,CC,GO:0005654,nucleoplasm,81,ANO1,1.617218379,0.036589815,9
+987,CC,GO:0005654,nucleoplasm,81,CREB3,1.188280539,0.036589815,9
+988,CC,GO:0005654,nucleoplasm,81,HOXB2,1.17038667,0.036589815,9
+989,CC,GO:0005654,nucleoplasm,81,TRIB3,1.61216085,0.036589815,9
+990,CC,GO:0005654,nucleoplasm,81,UPRT,1.567362336,0.036589815,9
+991,CC,GO:0005654,nucleoplasm,81,NEIL1,2.332397251,0.036589815,9
+992,CC,GO:0005654,nucleoplasm,81,BCORL1,1.267301586,0.036589815,9
+993,CC,GO:0005654,nucleoplasm,81,TRIM11,1.196391419,0.036589815,9
+994,CC,GO:0005654,nucleoplasm,81,KDM7A,1.214637146,0.036589815,9
+995,CC,GO:0005654,nucleoplasm,81,TRIM56,1.14757533,0.036589815,9
+996,CC,GO:0005654,nucleoplasm,81,L3MBTL1,1.863367877,0.036589815,9
+997,CC,GO:0005654,nucleoplasm,81,KDM3A,1.211597239,0.036589815,9
+998,CC,GO:0005654,nucleoplasm,81,RNF34,1.211244319,0.036589815,9
+999,CC,GO:0005654,nucleoplasm,81,CBFB,1.165740464,0.036589815,9
+1000,CC,GO:0005654,nucleoplasm,81,CTBP1,1.142562066,0.036589815,9
+1001,CC,GO:0005654,nucleoplasm,81,HELZ2,1.086484217,0.036589815,9
+1002,CC,GO:0005654,nucleoplasm,81,MNT,1.110262551,0.036589815,9
+1003,CC,GO:0005654,nucleoplasm,81,MED30,1.714866217,0.036589815,9
+1004,CC,GO:0005654,nucleoplasm,81,DEAF1,1.220831697,0.036589815,9
+1005,CC,GO:0005654,nucleoplasm,81,ATXN7,1.205168273,0.036589815,9
+1006,CC,GO:0005654,nucleoplasm,81,TNRC18,1.026136974,0.036589815,9
+1007,CC,GO:0005654,nucleoplasm,81,RAB11FIP2,1.145348483,0.036589815,9
+1008,CC,GO:0005654,nucleoplasm,81,ZNF224,1.473187991,0.036589815,9
+1009,CC,GO:0005654,nucleoplasm,81,RAB11FIP3,1.53727149,0.036589815,9
+1010,CC,GO:0005654,nucleoplasm,81,PDLIM7,1.407161692,0.036589815,9
+1011,CC,GO:0005654,nucleoplasm,81,PLK3,1.176796238,0.036589815,9
+1012,CC,GO:0005654,nucleoplasm,81,XBP1,1.502808348,0.036589815,9
+1013,CC,GO:0005654,nucleoplasm,81,KDM4B,1.387031438,0.036589815,9
+1014,CC,GO:0005654,nucleoplasm,81,SMAD4,1.111311315,0.036589815,9
+1015,CC,GO:0005654,nucleoplasm,81,FKRP,1.089941806,0.036589815,9
+1016,CC,GO:0005654,nucleoplasm,81,TXNRD1,3.743775923,0.036589815,9
+1017,CC,GO:0005654,nucleoplasm,81,BNIP3,1.675952671,0.036589815,9
+1018,CC,GO:0005654,nucleoplasm,81,ATP2B1,1.208471061,0.036589815,9
+1019,CC,GO:0005654,nucleoplasm,81,SMARCA1,1.929628541,0.036589815,9
+1020,CC,GO:0005654,nucleoplasm,81,PLEKHA8,1.169680519,0.036589815,9
+1021,CC,GO:0005654,nucleoplasm,81,KLF8,1.351097239,0.036589815,9
+1022,CC,GO:0005654,nucleoplasm,81,ITCH,1.074303954,0.036589815,9
+1023,CC,GO:0005654,nucleoplasm,81,NOL4L,3.384262524,0.036589815,9
+1024,CC,GO:0005654,nucleoplasm,81,SHLD3,1.260460477,0.036589815,9
+1025,CC,GO:0005654,nucleoplasm,81,SHLD2,1.297977248,0.036589815,9
+1026,CC,GO:0005654,nucleoplasm,81,CAPRIN2,1.313527779,0.036589815,9
+1027,CC,GO:0005654,nucleoplasm,81,RPA4,2.864628838,0.036589815,9
+1028,CC,GO:0005654,nucleoplasm,81,PTPN9,1.185751214,0.036589815,9
+1029,CC,GO:0005654,nucleoplasm,81,SPIRE1,1.304672153,0.036589815,9
+1030,CC,GO:0005654,nucleoplasm,81,PKN1,1.987067782,0.036589815,9
+1031,CC,GO:0005654,nucleoplasm,81,BCOR,1.147086185,0.036589815,9
+1032,CC,GO:0005654,nucleoplasm,81,RBAK,1.428049258,0.036589815,9
+1033,CC,GO:0005654,nucleoplasm,81,RCOR1,1.350458626,0.036589815,9
+1034,CC,GO:0005654,nucleoplasm,81,TNRC6A,1.077306321,0.036589815,9
+1035,CC,GO:0055038,recycling endosome membrane,6,ABHD17A,1.012078369,0.037504762,2.449489743
+1036,CC,GO:0055038,recycling endosome membrane,6,RAB17,2.481924269,0.037504762,2.449489743
+1037,CC,GO:0055038,recycling endosome membrane,6,LZTR1,1.487543375,0.037504762,2.449489743
+1038,CC,GO:0055038,recycling endosome membrane,6,RAB11FIP2,1.145348483,0.037504762,2.449489743
+1039,CC,GO:0055038,recycling endosome membrane,6,RAB11FIP3,1.53727149,0.037504762,2.449489743
+1040,CC,GO:0055038,recycling endosome membrane,6,ATP9A,1.38320085,0.037504762,2.449489743
+1041,CC,GO:0005768,endosome,11,ACE,3.63583652,0.041577469,3.31662479
+1042,CC,GO:0005768,endosome,11,SLC6A9,1.685787623,0.041577469,3.31662479
+1043,CC,GO:0005768,endosome,11,SNX25,1.047242918,0.041577469,3.31662479
+1044,CC,GO:0005768,endosome,11,DGKQ,2.456190221,0.041577469,3.31662479
+1045,CC,GO:0005768,endosome,11,SNX10,2.834422686,0.041577469,3.31662479
+1046,CC,GO:0005768,endosome,11,PKN1,1.987067782,0.041577469,3.31662479
+1047,CC,GO:0005768,endosome,11,TRIM27,1.360869388,0.041577469,3.31662479
+1048,CC,GO:0005768,endosome,11,RAB17,2.481924269,0.041577469,3.31662479
+1049,CC,GO:0005768,endosome,11,RAB11FIP2,1.145348483,0.041577469,3.31662479
+1050,CC,GO:0005768,endosome,11,RAB11FIP3,1.53727149,0.041577469,3.31662479
+1051,CC,GO:0005768,endosome,11,ATP9A,1.38320085,0.041577469,3.31662479
+1052,CC,GO:0043231,intracellular membrane-bounded organelle,25,ANKRD13B,1.588150668,0.043088895,5
+1053,CC,GO:0043231,intracellular membrane-bounded organelle,25,EIF5A2,1.917835879,0.043088895,5
+1054,CC,GO:0043231,intracellular membrane-bounded organelle,25,CEP164,1.025218524,0.043088895,5
+1055,CC,GO:0043231,intracellular membrane-bounded organelle,25,CTSZ,1.494860669,0.043088895,5
+1056,CC,GO:0043231,intracellular membrane-bounded organelle,25,FAM241B,3.161351783,0.043088895,5
+1057,CC,GO:0043231,intracellular membrane-bounded organelle,25,SNX25,1.047242918,0.043088895,5
+1058,CC,GO:0043231,intracellular membrane-bounded organelle,25,CLCC1,1.083136732,0.043088895,5
+1059,CC,GO:0043231,intracellular membrane-bounded organelle,25,RAB11FIP2,1.145348483,0.043088895,5
+1060,CC,GO:0043231,intracellular membrane-bounded organelle,25,RAB11FIP3,1.53727149,0.043088895,5
+1061,CC,GO:0043231,intracellular membrane-bounded organelle,25,IQSEC1,1.391872072,0.043088895,5
+1062,CC,GO:0043231,intracellular membrane-bounded organelle,25,SPHK2,1.411713019,0.043088895,5
+1063,CC,GO:0043231,intracellular membrane-bounded organelle,25,ATP2B1,1.208471061,0.043088895,5
+1064,CC,GO:0043231,intracellular membrane-bounded organelle,25,SMARCA1,1.929628541,0.043088895,5
+1065,CC,GO:0043231,intracellular membrane-bounded organelle,25,CGRRF1,1.453796583,0.043088895,5
+1066,CC,GO:0043231,intracellular membrane-bounded organelle,25,SPART,1.033024879,0.043088895,5
+1067,CC,GO:0043231,intracellular membrane-bounded organelle,25,SLC7A5,1.055899473,0.043088895,5
+1068,CC,GO:0043231,intracellular membrane-bounded organelle,25,ITCH,1.074303954,0.043088895,5
+1069,CC,GO:0043231,intracellular membrane-bounded organelle,25,PITPNM1,1.161897792,0.043088895,5
+1070,CC,GO:0043231,intracellular membrane-bounded organelle,25,P4HA1,1.889195711,0.043088895,5
+1071,CC,GO:0043231,intracellular membrane-bounded organelle,25,ABHD17A,1.012078369,0.043088895,5
+1072,CC,GO:0043231,intracellular membrane-bounded organelle,25,UPRT,1.567362336,0.043088895,5
+1073,CC,GO:0043231,intracellular membrane-bounded organelle,25,DSG2,2.098334684,0.043088895,5
+1074,CC,GO:0043231,intracellular membrane-bounded organelle,25,DENND6A,1.371974756,0.043088895,5
+1075,CC,GO:0043231,intracellular membrane-bounded organelle,25,SEC24D,1.066444445,0.043088895,5
+1076,CC,GO:0043231,intracellular membrane-bounded organelle,25,TNRC6A,1.077306321,0.043088895,5
+1077,CC,GO:0035861,site of double-strand break,5,SHLD3,1.260460477,0.055511892,2.236067977
+1078,CC,GO:0035861,site of double-strand break,5,SHLD2,1.297977248,0.055511892,2.236067977
+1079,CC,GO:0035861,site of double-strand break,5,RPA4,2.864628838,0.055511892,2.236067977
+1080,CC,GO:0035861,site of double-strand break,5,HUS1,1.466218523,0.055511892,2.236067977
+1081,CC,GO:0035861,site of double-strand break,5,SMC5,1.462494949,0.055511892,2.236067977
+1082,CC,GO:0016327,apicolateral plasma membrane,3,CLDN7,2.214630701,0.057605564,1.732050808
+1083,CC,GO:0016327,apicolateral plasma membrane,3,KRT8,2.767720339,0.057605564,1.732050808
+1084,CC,GO:0016327,apicolateral plasma membrane,3,EPPK1,1.027001296,0.057605564,1.732050808
+1085,CC,GO:0032154,cleavage furrow,4,PITPNM1,1.161897792,0.060309918,2
+1086,CC,GO:0032154,cleavage furrow,4,SPIRE1,1.304672153,0.060309918,2
+1087,CC,GO:0032154,cleavage furrow,4,PKN1,1.987067782,0.060309918,2
+1088,CC,GO:0032154,cleavage furrow,4,RAB11FIP3,1.53727149,0.060309918,2
+1089,CC,GO:0015629,actin cytoskeleton,9,VASP,1.660345002,0.071293617,3
+1090,CC,GO:0015629,actin cytoskeleton,9,CFL2,1.217922611,0.071293617,3
+1091,CC,GO:0015629,actin cytoskeleton,9,SHLD2,1.297977248,0.071293617,3
+1092,CC,GO:0015629,actin cytoskeleton,9,SPRY2,1.94607256,0.071293617,3
+1093,CC,GO:0015629,actin cytoskeleton,9,SYNPO,1.246254702,0.071293617,3
+1094,CC,GO:0015629,actin cytoskeleton,9,DBN1,1.747094039,0.071293617,3
+1095,CC,GO:0015629,actin cytoskeleton,9,PDLIM7,1.407161692,0.071293617,3
+1096,CC,GO:0015629,actin cytoskeleton,9,LIMD2,3.835951731,0.071293617,3
+1097,CC,GO:0015629,actin cytoskeleton,9,SNCA,1.721141724,0.071293617,3
+1098,CC,GO:0005856,cytoskeleton,15,VASP,1.660345002,0.072479625,3.872983346
+1099,CC,GO:0005856,cytoskeleton,15,FAAH,2.546457935,0.072479625,3.872983346
+1100,CC,GO:0005856,cytoskeleton,15,LRP1,1.124225932,0.072479625,3.872983346
+1101,CC,GO:0005856,cytoskeleton,15,CDC42BPG,1.344976019,0.072479625,3.872983346
+1102,CC,GO:0005856,cytoskeleton,15,CDC42BPB,1.025286988,0.072479625,3.872983346
+1103,CC,GO:0005856,cytoskeleton,15,GAN,1.497592462,0.072479625,3.872983346
+1104,CC,GO:0005856,cytoskeleton,15,DGKQ,2.456190221,0.072479625,3.872983346
+1105,CC,GO:0005856,cytoskeleton,15,ENC1,1.381408849,0.072479625,3.872983346
+1106,CC,GO:0005856,cytoskeleton,15,SPIRE1,1.304672153,0.072479625,3.872983346
+1107,CC,GO:0005856,cytoskeleton,15,SPRY2,1.94607256,0.072479625,3.872983346
+1108,CC,GO:0005856,cytoskeleton,15,EPPK1,1.027001296,0.072479625,3.872983346
+1109,CC,GO:0005856,cytoskeleton,15,LRRFIP1,1.964244425,0.072479625,3.872983346
+1110,CC,GO:0005856,cytoskeleton,15,DBN1,1.747094039,0.072479625,3.872983346
+1111,CC,GO:0005856,cytoskeleton,15,TNS1,2.160138003,0.072479625,3.872983346
+1112,CC,GO:0005856,cytoskeleton,15,CDC42SE2,1.075427024,0.072479625,3.872983346
+1113,CC,GO:0001891,phagocytic cup,3,RAB11FIP2,1.145348483,0.075651042,1.732050808
+1114,CC,GO:0001891,phagocytic cup,3,PEAR1,1.883842399,0.075651042,1.732050808
+1115,CC,GO:0001891,phagocytic cup,3,CDC42SE2,1.075427024,0.075651042,1.732050808
+1116,CC,GO:0017053,transcriptional repressor complex,4,CTBP2,1.25571814,0.080158505,2
+1117,CC,GO:0017053,transcriptional repressor complex,4,CTBP1,1.142562066,0.080158505,2
+1118,CC,GO:0017053,transcriptional repressor complex,4,ZNF224,1.473187991,0.080158505,2
+1119,CC,GO:0017053,transcriptional repressor complex,4,RCOR1,1.350458626,0.080158505,2
+1120,CC,GO:0055037,recycling endosome,6,PHETA2,1.36773852,0.080802269,2.449489743
+1121,CC,GO:0055037,recycling endosome,6,DENND6A,1.371974756,0.080802269,2.449489743
+1122,CC,GO:0055037,recycling endosome,6,RAB17,2.481924269,0.080802269,2.449489743
+1123,CC,GO:0055037,recycling endosome,6,RAB11FIP3,1.53727149,0.080802269,2.449489743
+1124,CC,GO:0055037,recycling endosome,6,ATP9A,1.38320085,0.080802269,2.449489743
+1125,CC,GO:0055037,recycling endosome,6,C1ORF210,1.022553985,0.080802269,2.449489743
+1126,CC,GO:0098978,glutamatergic synapse,12,LAMA5,1.153519405,0.089339581,3.464101615
+1127,CC,GO:0098978,glutamatergic synapse,12,PPP3CC,1.798428499,0.089339581,3.464101615
+1128,CC,GO:0098978,glutamatergic synapse,12,CTBP2,1.25571814,0.089339581,3.464101615
+1129,CC,GO:0098978,glutamatergic synapse,12,ABHD17A,1.012078369,0.089339581,3.464101615
+1130,CC,GO:0098978,glutamatergic synapse,12,CTBP1,1.142562066,0.089339581,3.464101615
+1131,CC,GO:0098978,glutamatergic synapse,12,DGKQ,2.456190221,0.089339581,3.464101615
+1132,CC,GO:0098978,glutamatergic synapse,12,DVL1,1.101623715,0.089339581,3.464101615
+1133,CC,GO:0098978,glutamatergic synapse,12,DGCR8,1.009551556,0.089339581,3.464101615
+1134,CC,GO:0098978,glutamatergic synapse,12,CAMK1,2.477262972,0.089339581,3.464101615
+1135,CC,GO:0098978,glutamatergic synapse,12,ATP2B1,1.208471061,0.089339581,3.464101615
+1136,CC,GO:0098978,glutamatergic synapse,12,RAB17,2.481924269,0.089339581,3.464101615
+1137,CC,GO:0098978,glutamatergic synapse,12,DBN1,1.747094039,0.089339581,3.464101615
+1138,CC,GO:0005813,centrosome,15,CDKL2,2.79006747,0.089554032,3.872983346
+1139,CC,GO:0005813,centrosome,15,PLK3,1.176796238,0.089554032,3.872983346
+1140,CC,GO:0005813,centrosome,15,SMAD4,1.111311315,0.089554032,3.872983346
+1141,CC,GO:0005813,centrosome,15,CCDC57,1.645248793,0.089554032,3.872983346
+1142,CC,GO:0005813,centrosome,15,CEP164,1.025218524,0.089554032,3.872983346
+1143,CC,GO:0005813,centrosome,15,SLC1A4,1.253917931,0.089554032,3.872983346
+1144,CC,GO:0005813,centrosome,15,SNX10,2.834422686,0.089554032,3.872983346
+1145,CC,GO:0005813,centrosome,15,CCDC88A,1.649283327,0.089554032,3.872983346
+1146,CC,GO:0005813,centrosome,15,KATNAL1,1.851539147,0.089554032,3.872983346
+1147,CC,GO:0005813,centrosome,15,TRAF5,3.108006786,0.089554032,3.872983346
+1148,CC,GO:0005813,centrosome,15,CAPRIN2,1.313527779,0.089554032,3.872983346
+1149,CC,GO:0005813,centrosome,15,ACADS,1.454670576,0.089554032,3.872983346
+1150,CC,GO:0005813,centrosome,15,NINL,2.318249822,0.089554032,3.872983346
+1151,CC,GO:0005813,centrosome,15,RAB11FIP3,1.53727149,0.089554032,3.872983346
+1152,CC,GO:0005813,centrosome,15,MAP3K11,1.469992671,0.089554032,3.872983346
+1153,CC,GO:0005802,trans-Golgi network,7,PHETA2,1.36773852,0.090426911,2.645751311
+1154,CC,GO:0005802,trans-Golgi network,7,ATP8B2,1.54747516,0.090426911,2.645751311
+1155,CC,GO:0005802,trans-Golgi network,7,GOLT1A,1.8370928,0.090426911,2.645751311
+1156,CC,GO:0005802,trans-Golgi network,7,CORO7,1.187762011,0.090426911,2.645751311
+1157,CC,GO:0005802,trans-Golgi network,7,ATP9A,1.38320085,0.090426911,2.645751311
+1158,CC,GO:0005802,trans-Golgi network,7,PLEKHA8,1.169680519,0.090426911,2.645751311
+1159,CC,GO:0005802,trans-Golgi network,7,CHST3,1.319533019,0.090426911,2.645751311
+1160,CC,GO:0098802,plasma membrane receptor complex,2,TRAF5,3.108006786,0.093764919,1.414213562
+1161,CC,GO:0098802,plasma membrane receptor complex,2,TRAF2,1.147132307,0.093764919,1.414213562
+1162,CC,GO:0098591,external side of apical plasma membrane,2,SLC7A5,1.055899473,0.093764919,1.414213562
+1163,CC,GO:0098591,external side of apical plasma membrane,2,SLC38A1,1.071911154,0.093764919,1.414213562
+1164,CC,GO:0005925,focal adhesion,12,VASP,1.660345002,0.097878439,3.464101615
+1165,CC,GO:0005925,focal adhesion,12,MRC2,1.077459937,0.097878439,3.464101615
+1166,CC,GO:0005925,focal adhesion,12,TES,1.185075415,0.097878439,3.464101615
+1167,CC,GO:0005925,focal adhesion,12,SDC4,1.100705282,0.097878439,3.464101615
+1168,CC,GO:0005925,focal adhesion,12,LRP1,1.124225932,0.097878439,3.464101615
+1169,CC,GO:0005925,focal adhesion,12,SPRY4,1.001525635,0.097878439,3.464101615
+1170,CC,GO:0005925,focal adhesion,12,KRAS,1.185149494,0.097878439,3.464101615
+1171,CC,GO:0005925,focal adhesion,12,SLC4A2,1.088043828,0.097878439,3.464101615
+1172,CC,GO:0005925,focal adhesion,12,LIMD1,1.60682939,0.097878439,3.464101615
+1173,CC,GO:0005925,focal adhesion,12,HSPG2,1.023314262,0.097878439,3.464101615
+1174,CC,GO:0005925,focal adhesion,12,PDLIM7,1.407161692,0.097878439,3.464101615
+1175,CC,GO:0005925,focal adhesion,12,TNS1,2.160138003,0.097878439,3.464101615
+1176,MF,GO:0005515,protein binding,251,FAAH,2.546457935,4.91E-05,15.84297952
+1177,MF,GO:0005515,protein binding,251,TES,1.185075415,4.91E-05,15.84297952
+1178,MF,GO:0005515,protein binding,251,TLNRD1,1.358987452,4.91E-05,15.84297952
+1179,MF,GO:0005515,protein binding,251,SERPINE1,1.292521858,4.91E-05,15.84297952
+1180,MF,GO:0005515,protein binding,251,SMC5,1.462494949,4.91E-05,15.84297952
+1181,MF,GO:0005515,protein binding,251,DCAF4,1.57726861,4.91E-05,15.84297952
+1182,MF,GO:0005515,protein binding,251,PTPDC1,1.297343275,4.91E-05,15.84297952
+1183,MF,GO:0005515,protein binding,251,IL27RA,2.16184421,4.91E-05,15.84297952
+1184,MF,GO:0005515,protein binding,251,RASSF1,1.375498834,4.91E-05,15.84297952
+1185,MF,GO:0005515,protein binding,251,RASSF3,1.185213773,4.91E-05,15.84297952
+1186,MF,GO:0005515,protein binding,251,ZMIZ2,1.212084178,4.91E-05,15.84297952
+1187,MF,GO:0005515,protein binding,251,FTH1,1.363955007,4.91E-05,15.84297952
+1188,MF,GO:0005515,protein binding,251,DZIP1L,2.652820923,4.91E-05,15.84297952
+1189,MF,GO:0005515,protein binding,251,TRIM27,1.360869388,4.91E-05,15.84297952
+1190,MF,GO:0005515,protein binding,251,SYNPO,1.246254702,4.91E-05,15.84297952
+1191,MF,GO:0005515,protein binding,251,PDK1,2.072438177,4.91E-05,15.84297952
+1192,MF,GO:0005515,protein binding,251,FBXO9,1.255067746,4.91E-05,15.84297952
+1193,MF,GO:0005515,protein binding,251,TNS1,2.160138003,4.91E-05,15.84297952
+1194,MF,GO:0005515,protein binding,251,KRT8,2.767720339,4.91E-05,15.84297952
+1195,MF,GO:0005515,protein binding,251,HUS1,1.466218523,4.91E-05,15.84297952
+1196,MF,GO:0005515,protein binding,251,FRS3,2.86450267,4.91E-05,15.84297952
+1197,MF,GO:0005515,protein binding,251,HSPG2,1.023314262,4.91E-05,15.84297952
+1198,MF,GO:0005515,protein binding,251,OVOL2,1.997308805,4.91E-05,15.84297952
+1199,MF,GO:0005515,protein binding,251,SHTN1,1.063595032,4.91E-05,15.84297952
+1200,MF,GO:0005515,protein binding,251,KATNAL1,1.851539147,4.91E-05,15.84297952
+1201,MF,GO:0005515,protein binding,251,MTHFD2,1.008049755,4.91E-05,15.84297952
+1202,MF,GO:0005515,protein binding,251,HSBP1L1,1.049550792,4.91E-05,15.84297952
+1203,MF,GO:0005515,protein binding,251,DDIT4,3.420497782,4.91E-05,15.84297952
+1204,MF,GO:0005515,protein binding,251,CLDN7,2.214630701,4.91E-05,15.84297952
+1205,MF,GO:0005515,protein binding,251,ULK2,1.477697091,4.91E-05,15.84297952
+1206,MF,GO:0005515,protein binding,251,HOXB2,1.17038667,4.91E-05,15.84297952
+1207,MF,GO:0005515,protein binding,251,UPRT,1.567362336,4.91E-05,15.84297952
+1208,MF,GO:0005515,protein binding,251,TRIB3,1.61216085,4.91E-05,15.84297952
+1209,MF,GO:0005515,protein binding,251,NEIL1,2.332397251,4.91E-05,15.84297952
+1210,MF,GO:0005515,protein binding,251,TRIM11,1.196391419,4.91E-05,15.84297952
+1211,MF,GO:0005515,protein binding,251,KCTD15,1.260858288,4.91E-05,15.84297952
+1212,MF,GO:0005515,protein binding,251,ZNF397,1.114297321,4.91E-05,15.84297952
+1213,MF,GO:0005515,protein binding,251,L3MBTL1,1.863367877,4.91E-05,15.84297952
+1214,MF,GO:0005515,protein binding,251,ZNF275,2.18759023,4.91E-05,15.84297952
+1215,MF,GO:0005515,protein binding,251,SDC4,1.100705282,4.91E-05,15.84297952
+1216,MF,GO:0005515,protein binding,251,CTBP2,1.25571814,4.91E-05,15.84297952
+1217,MF,GO:0005515,protein binding,251,CTBP1,1.142562066,4.91E-05,15.84297952
+1218,MF,GO:0005515,protein binding,251,EIF5A2,1.917835879,4.91E-05,15.84297952
+1219,MF,GO:0005515,protein binding,251,FUT11,2.213718341,4.91E-05,15.84297952
+1220,MF,GO:0005515,protein binding,251,SDC3,1.015089319,4.91E-05,15.84297952
+1221,MF,GO:0005515,protein binding,251,HELZ2,1.086484217,4.91E-05,15.84297952
+1222,MF,GO:0005515,protein binding,251,APH1B,1.245236665,4.91E-05,15.84297952
+1223,MF,GO:0005515,protein binding,251,RAB11FIP2,1.145348483,4.91E-05,15.84297952
+1224,MF,GO:0005515,protein binding,251,RAB11FIP3,1.53727149,4.91E-05,15.84297952
+1225,MF,GO:0005515,protein binding,251,PCK2,1.009044142,4.91E-05,15.84297952
+1226,MF,GO:0005515,protein binding,251,PPP1R26,2.076821211,4.91E-05,15.84297952
+1227,MF,GO:0005515,protein binding,251,VASP,1.660345002,4.91E-05,15.84297952
+1228,MF,GO:0005515,protein binding,251,PLK3,1.176796238,4.91E-05,15.84297952
+1229,MF,GO:0005515,protein binding,251,XBP1,1.502808348,4.91E-05,15.84297952
+1230,MF,GO:0005515,protein binding,251,PHETA2,1.36773852,4.91E-05,15.84297952
+1231,MF,GO:0005515,protein binding,251,SRMS,2.270221283,4.91E-05,15.84297952
+1232,MF,GO:0005515,protein binding,251,IQSEC1,1.391872072,4.91E-05,15.84297952
+1233,MF,GO:0005515,protein binding,251,EIF2AK2,1.121911985,4.91E-05,15.84297952
+1234,MF,GO:0005515,protein binding,251,PYCR2,1.005663497,4.91E-05,15.84297952
+1235,MF,GO:0005515,protein binding,251,SMARCA1,1.929628541,4.91E-05,15.84297952
+1236,MF,GO:0005515,protein binding,251,SPART,1.033024879,4.91E-05,15.84297952
+1237,MF,GO:0005515,protein binding,251,AGO4,1.340650782,4.91E-05,15.84297952
+1238,MF,GO:0005515,protein binding,251,CYSTM1,1.149805818,4.91E-05,15.84297952
+1239,MF,GO:0005515,protein binding,251,CORO7,1.187762011,4.91E-05,15.84297952
+1240,MF,GO:0005515,protein binding,251,RBAK,1.428049258,4.91E-05,15.84297952
+1241,MF,GO:0005515,protein binding,251,RCOR1,1.350458626,4.91E-05,15.84297952
+1242,MF,GO:0005515,protein binding,251,CDS2,1.092451805,4.91E-05,15.84297952
+1243,MF,GO:0005515,protein binding,251,CDC42SE2,1.075427024,4.91E-05,15.84297952
+1244,MF,GO:0005515,protein binding,251,ZNF251,1.541876182,4.91E-05,15.84297952
+1245,MF,GO:0005515,protein binding,251,CTSZ,1.494860669,4.91E-05,15.84297952
+1246,MF,GO:0005515,protein binding,251,SNX10,2.834422686,4.91E-05,15.84297952
+1247,MF,GO:0005515,protein binding,251,HCCS,1.032100351,4.91E-05,15.84297952
+1248,MF,GO:0005515,protein binding,251,VLDLR,1.385800133,4.91E-05,15.84297952
+1249,MF,GO:0005515,protein binding,251,PEAR1,1.883842399,4.91E-05,15.84297952
+1250,MF,GO:0005515,protein binding,251,LIMD1,1.60682939,4.91E-05,15.84297952
+1251,MF,GO:0005515,protein binding,251,LARP1B,1.163700974,4.91E-05,15.84297952
+1252,MF,GO:0005515,protein binding,251,PRSS21,1.673950639,4.91E-05,15.84297952
+1253,MF,GO:0005515,protein binding,251,WDR44,1.004694116,4.91E-05,15.84297952
+1254,MF,GO:0005515,protein binding,251,LIMD2,3.835951731,4.91E-05,15.84297952
+1255,MF,GO:0005515,protein binding,251,MRC2,1.077459937,4.91E-05,15.84297952
+1256,MF,GO:0005515,protein binding,251,UCHL1,2.13984649,4.91E-05,15.84297952
+1257,MF,GO:0005515,protein binding,251,PPP3CC,1.798428499,4.91E-05,15.84297952
+1258,MF,GO:0005515,protein binding,251,IMPA1,1.14435296,4.91E-05,15.84297952
+1259,MF,GO:0005515,protein binding,251,AIFM2,3.515573125,4.91E-05,15.84297952
+1260,MF,GO:0005515,protein binding,251,STBD1,1.160669294,4.91E-05,15.84297952
+1261,MF,GO:0005515,protein binding,251,ENC1,1.381408849,4.91E-05,15.84297952
+1262,MF,GO:0005515,protein binding,251,FLVCR1,1.89925569,4.91E-05,15.84297952
+1263,MF,GO:0005515,protein binding,251,NINL,2.318249822,4.91E-05,15.84297952
+1264,MF,GO:0005515,protein binding,251,TMED5,1.653612303,4.91E-05,15.84297952
+1265,MF,GO:0005515,protein binding,251,PARP4,1.441891917,4.91E-05,15.84297952
+1266,MF,GO:0005515,protein binding,251,SPHK2,1.411713019,4.91E-05,15.84297952
+1267,MF,GO:0005515,protein binding,251,RENBP,3.151401144,4.91E-05,15.84297952
+1268,MF,GO:0005515,protein binding,251,VAV2,1.148022521,4.91E-05,15.84297952
+1269,MF,GO:0005515,protein binding,251,MED22,1.110333548,4.91E-05,15.84297952
+1270,MF,GO:0005515,protein binding,251,ANO1,1.617218379,4.91E-05,15.84297952
+1271,MF,GO:0005515,protein binding,251,SLC7A5,1.055899473,4.91E-05,15.84297952
+1272,MF,GO:0005515,protein binding,251,INF2,1.606247066,4.91E-05,15.84297952
+1273,MF,GO:0005515,protein binding,251,PITPNM1,1.161897792,4.91E-05,15.84297952
+1274,MF,GO:0005515,protein binding,251,GAN,1.497592462,4.91E-05,15.84297952
+1275,MF,GO:0005515,protein binding,251,KXD1,1.156645287,4.91E-05,15.84297952
+1276,MF,GO:0005515,protein binding,251,SYNC,1.575655704,4.91E-05,15.84297952
+1277,MF,GO:0005515,protein binding,251,JDP2,3.126936093,4.91E-05,15.84297952
+1278,MF,GO:0005515,protein binding,251,DBN1,1.747094039,4.91E-05,15.84297952
+1279,MF,GO:0005515,protein binding,251,PAFAH1B2,1.212264012,4.91E-05,15.84297952
+1280,MF,GO:0005515,protein binding,251,TP53I13,1.919882145,4.91E-05,15.84297952
+1281,MF,GO:0005515,protein binding,251,ADCY4,3.008967977,4.91E-05,15.84297952
+1282,MF,GO:0005515,protein binding,251,MIEF2,1.12156051,4.91E-05,15.84297952
+1283,MF,GO:0005515,protein binding,251,CRIP2,1.874098956,4.91E-05,15.84297952
+1284,MF,GO:0005515,protein binding,251,GDPD5,3.211057638,4.91E-05,15.84297952
+1285,MF,GO:0005515,protein binding,251,MNT,1.110262551,4.91E-05,15.84297952
+1286,MF,GO:0005515,protein binding,251,ANKRD52,1.500601266,4.91E-05,15.84297952
+1287,MF,GO:0005515,protein binding,251,ZNF224,1.473187991,4.91E-05,15.84297952
+1288,MF,GO:0005515,protein binding,251,ZNF587,1.306556905,4.91E-05,15.84297952
+1289,MF,GO:0005515,protein binding,251,MICA,1.097844957,4.91E-05,15.84297952
+1290,MF,GO:0005515,protein binding,251,TM4SF19,1.322805175,4.91E-05,15.84297952
+1291,MF,GO:0005515,protein binding,251,BIK,1.564083906,4.91E-05,15.84297952
+1292,MF,GO:0005515,protein binding,251,PLEKHA2,1.298801602,4.91E-05,15.84297952
+1293,MF,GO:0005515,protein binding,251,WNT7B,1.52901762,4.91E-05,15.84297952
+1294,MF,GO:0005515,protein binding,251,LHFPL2,1.177320308,4.91E-05,15.84297952
+1295,MF,GO:0005515,protein binding,251,WTIP,2.0124801,4.91E-05,15.84297952
+1296,MF,GO:0005515,protein binding,251,VEGFA,1.775883712,4.91E-05,15.84297952
+1297,MF,GO:0005515,protein binding,251,KLHL9,1.031125532,4.91E-05,15.84297952
+1298,MF,GO:0005515,protein binding,251,ITCH,1.074303954,4.91E-05,15.84297952
+1299,MF,GO:0005515,protein binding,251,NOL4L,3.384262524,4.91E-05,15.84297952
+1300,MF,GO:0005515,protein binding,251,RPA4,2.864628838,4.91E-05,15.84297952
+1301,MF,GO:0005515,protein binding,251,ZNF337,1.048689011,4.91E-05,15.84297952
+1302,MF,GO:0005515,protein binding,251,TACC1,1.487615792,4.91E-05,15.84297952
+1303,MF,GO:0005515,protein binding,251,CAMK1,2.477262972,4.91E-05,15.84297952
+1304,MF,GO:0005515,protein binding,251,PKN1,1.987067782,4.91E-05,15.84297952
+1305,MF,GO:0005515,protein binding,251,SIPA1,2.381848047,4.91E-05,15.84297952
+1306,MF,GO:0005515,protein binding,251,GOLT1A,1.8370928,4.91E-05,15.84297952
+1307,MF,GO:0005515,protein binding,251,ALDH1L2,2.061335122,4.91E-05,15.84297952
+1308,MF,GO:0005515,protein binding,251,DOCK11,1.926651333,4.91E-05,15.84297952
+1309,MF,GO:0005515,protein binding,251,CFL2,1.217922611,4.91E-05,15.84297952
+1310,MF,GO:0005515,protein binding,251,SCMH1,1.252215628,4.91E-05,15.84297952
+1311,MF,GO:0005515,protein binding,251,CLCC1,1.083136732,4.91E-05,15.84297952
+1312,MF,GO:0005515,protein binding,251,PPFIA4,3.453177221,4.91E-05,15.84297952
+1313,MF,GO:0005515,protein binding,251,SLC38A1,1.071911154,4.91E-05,15.84297952
+1314,MF,GO:0005515,protein binding,251,CSGALNACT2,1.572438247,4.91E-05,15.84297952
+1315,MF,GO:0005515,protein binding,251,CGRRF1,1.453796583,4.91E-05,15.84297952
+1316,MF,GO:0005515,protein binding,251,LEMD2,1.086333575,4.91E-05,15.84297952
+1317,MF,GO:0005515,protein binding,251,SAP30,1.566837245,4.91E-05,15.84297952
+1318,MF,GO:0005515,protein binding,251,KLHL42,1.188992165,4.91E-05,15.84297952
+1319,MF,GO:0005515,protein binding,251,CACNB1,1.843559915,4.91E-05,15.84297952
+1320,MF,GO:0005515,protein binding,251,KCTD9,1.323884066,4.91E-05,15.84297952
+1321,MF,GO:0005515,protein binding,251,MOB3C,1.443194177,4.91E-05,15.84297952
+1322,MF,GO:0005515,protein binding,251,SELENOS,1.086601231,4.91E-05,15.84297952
+1323,MF,GO:0005515,protein binding,251,LYG1,1.793643718,4.91E-05,15.84297952
+1324,MF,GO:0005515,protein binding,251,DGKQ,2.456190221,4.91E-05,15.84297952
+1325,MF,GO:0005515,protein binding,251,ZNF319,1.57132456,4.91E-05,15.84297952
+1326,MF,GO:0005515,protein binding,251,CARD11,1.633925676,4.91E-05,15.84297952
+1327,MF,GO:0005515,protein binding,251,CBFB,1.165740464,4.91E-05,15.84297952
+1328,MF,GO:0005515,protein binding,251,LTBP3,1.714907402,4.91E-05,15.84297952
+1329,MF,GO:0005515,protein binding,251,FUT2,1.691169165,4.91E-05,15.84297952
+1330,MF,GO:0005515,protein binding,251,RSKR,1.342693349,4.91E-05,15.84297952
+1331,MF,GO:0005515,protein binding,251,MED30,1.714866217,4.91E-05,15.84297952
+1332,MF,GO:0005515,protein binding,251,ATXN7,1.205168273,4.91E-05,15.84297952
+1333,MF,GO:0005515,protein binding,251,DEAF1,1.220831697,4.91E-05,15.84297952
+1334,MF,GO:0005515,protein binding,251,NACC2,1.680651854,4.91E-05,15.84297952
+1335,MF,GO:0005515,protein binding,251,DVL1,1.101623715,4.91E-05,15.84297952
+1336,MF,GO:0005515,protein binding,251,RAB6B,2.274002235,4.91E-05,15.84297952
+1337,MF,GO:0005515,protein binding,251,ZNF664,1.124912218,4.91E-05,15.84297952
+1338,MF,GO:0005515,protein binding,251,CD276,1.305206418,4.91E-05,15.84297952
+1339,MF,GO:0005515,protein binding,251,MOAP1,1.082698338,4.91E-05,15.84297952
+1340,MF,GO:0005515,protein binding,251,SMAD4,1.111311315,4.91E-05,15.84297952
+1341,MF,GO:0005515,protein binding,251,ATP8B2,1.54747516,4.91E-05,15.84297952
+1342,MF,GO:0005515,protein binding,251,TNK1,1.068708238,4.91E-05,15.84297952
+1343,MF,GO:0005515,protein binding,251,TDRD7,1.152209715,4.91E-05,15.84297952
+1344,MF,GO:0005515,protein binding,251,MFHAS1,1.389830722,4.91E-05,15.84297952
+1345,MF,GO:0005515,protein binding,251,BMP1,1.189053628,4.91E-05,15.84297952
+1346,MF,GO:0005515,protein binding,251,P4HA1,1.889195711,4.91E-05,15.84297952
+1347,MF,GO:0005515,protein binding,251,NOXA1,1.276017818,4.91E-05,15.84297952
+1348,MF,GO:0005515,protein binding,251,BHLHE40,1.130222959,4.91E-05,15.84297952
+1349,MF,GO:0005515,protein binding,251,CAPRIN2,1.313527779,4.91E-05,15.84297952
+1350,MF,GO:0005515,protein binding,251,PLXNB3,1.779466935,4.91E-05,15.84297952
+1351,MF,GO:0005515,protein binding,251,SPIRE1,1.304672153,4.91E-05,15.84297952
+1352,MF,GO:0005515,protein binding,251,ZNF778,1.771428092,4.91E-05,15.84297952
+1353,MF,GO:0005515,protein binding,251,LZTR1,1.487543375,4.91E-05,15.84297952
+1354,MF,GO:0005515,protein binding,251,MAP3K11,1.469992671,4.91E-05,15.84297952
+1355,MF,GO:0005515,protein binding,251,MUS81,1.084181337,4.91E-05,15.84297952
+1356,MF,GO:0005515,protein binding,251,DOCK9,1.224664632,4.91E-05,15.84297952
+1357,MF,GO:0005515,protein binding,251,CHD7,1.021629009,4.91E-05,15.84297952
+1358,MF,GO:0005515,protein binding,251,CEP164,1.025218524,4.91E-05,15.84297952
+1359,MF,GO:0005515,protein binding,251,SLC2A1,1.540415578,4.91E-05,15.84297952
+1360,MF,GO:0005515,protein binding,251,SLC2A3,1.413331009,4.91E-05,15.84297952
+1361,MF,GO:0005515,protein binding,251,PKD1,3.12838686,4.91E-05,15.84297952
+1362,MF,GO:0005515,protein binding,251,CDC73,1.027492233,4.91E-05,15.84297952
+1363,MF,GO:0005515,protein binding,251,ZC3H7B,1.004282723,4.91E-05,15.84297952
+1364,MF,GO:0005515,protein binding,251,UBE2Q2,1.41839072,4.91E-05,15.84297952
+1365,MF,GO:0005515,protein binding,251,CASP3,1.05470245,4.91E-05,15.84297952
+1366,MF,GO:0005515,protein binding,251,SPEG,2.082986642,4.91E-05,15.84297952
+1367,MF,GO:0005515,protein binding,251,DGCR8,1.009551556,4.91E-05,15.84297952
+1368,MF,GO:0005515,protein binding,251,LRRFIP1,1.964244425,4.91E-05,15.84297952
+1369,MF,GO:0005515,protein binding,251,ABCD1,2.012987602,4.91E-05,15.84297952
+1370,MF,GO:0005515,protein binding,251,EID2B,2.23367179,4.91E-05,15.84297952
+1371,MF,GO:0005515,protein binding,251,TGIF1,1.132479571,4.91E-05,15.84297952
+1372,MF,GO:0005515,protein binding,251,SUN2,1.178666816,4.91E-05,15.84297952
+1373,MF,GO:0005515,protein binding,251,KLF12,2.767188072,4.91E-05,15.84297952
+1374,MF,GO:0005515,protein binding,251,VPS9D1,2.506346309,4.91E-05,15.84297952
+1375,MF,GO:0005515,protein binding,251,KLF13,1.238143053,4.91E-05,15.84297952
+1376,MF,GO:0005515,protein binding,251,SH2D3A,1.206875704,4.91E-05,15.84297952
+1377,MF,GO:0005515,protein binding,251,TNFRSF18,1.62603042,4.91E-05,15.84297952
+1378,MF,GO:0005515,protein binding,251,ARHGEF16,1.433717196,4.91E-05,15.84297952
+1379,MF,GO:0005515,protein binding,251,TRAF2,1.147132307,4.91E-05,15.84297952
+1380,MF,GO:0005515,protein binding,251,ARFGAP3,1.225391663,4.91E-05,15.84297952
+1381,MF,GO:0005515,protein binding,251,CREB3,1.188280539,4.91E-05,15.84297952
+1382,MF,GO:0005515,protein binding,251,PTP4A2,1.316284249,4.91E-05,15.84297952
+1383,MF,GO:0005515,protein binding,251,PTP4A3,4.08549018,4.91E-05,15.84297952
+1384,MF,GO:0005515,protein binding,251,TRAF5,3.108006786,4.91E-05,15.84297952
+1385,MF,GO:0005515,protein binding,251,IRF5,1.445874726,4.91E-05,15.84297952
+1386,MF,GO:0005515,protein binding,251,DSG2,2.098334684,4.91E-05,15.84297952
+1387,MF,GO:0005515,protein binding,251,CUEDC1,1.316670392,4.91E-05,15.84297952
+1388,MF,GO:0005515,protein binding,251,CERS2,1.652787092,4.91E-05,15.84297952
+1389,MF,GO:0005515,protein binding,251,TRIM56,1.14757533,4.91E-05,15.84297952
+1390,MF,GO:0005515,protein binding,251,KDM3A,1.211597239,4.91E-05,15.84297952
+1391,MF,GO:0005515,protein binding,251,RGS19,1.180476593,4.91E-05,15.84297952
+1392,MF,GO:0005515,protein binding,251,RALB,1.123441973,4.91E-05,15.84297952
+1393,MF,GO:0005515,protein binding,251,RNF34,1.211244319,4.91E-05,15.84297952
+1394,MF,GO:0005515,protein binding,251,LRP1,1.124225932,4.91E-05,15.84297952
+1395,MF,GO:0005515,protein binding,251,FAM169A,1.7577698,4.91E-05,15.84297952
+1396,MF,GO:0005515,protein binding,251,MLLT6,1.05354506,4.91E-05,15.84297952
+1397,MF,GO:0005515,protein binding,251,ERICH5,2.488578121,4.91E-05,15.84297952
+1398,MF,GO:0005515,protein binding,251,PDLIM2,1.32459423,4.91E-05,15.84297952
+1399,MF,GO:0005515,protein binding,251,CBS,2.911018365,4.91E-05,15.84297952
+1400,MF,GO:0005515,protein binding,251,FAM241B,3.161351783,4.91E-05,15.84297952
+1401,MF,GO:0005515,protein binding,251,SH2B3,2.082011917,4.91E-05,15.84297952
+1402,MF,GO:0005515,protein binding,251,PDLIM7,1.407161692,4.91E-05,15.84297952
+1403,MF,GO:0005515,protein binding,251,ATP9A,1.38320085,4.91E-05,15.84297952
+1404,MF,GO:0005515,protein binding,251,SNCA,1.721141724,4.91E-05,15.84297952
+1405,MF,GO:0005515,protein binding,251,FKRP,1.089941806,4.91E-05,15.84297952
+1406,MF,GO:0005515,protein binding,251,GALNT4,1.682378005,4.91E-05,15.84297952
+1407,MF,GO:0005515,protein binding,251,CMTM4,2.44845815,4.91E-05,15.84297952
+1408,MF,GO:0005515,protein binding,251,CCDC57,1.645248793,4.91E-05,15.84297952
+1409,MF,GO:0005515,protein binding,251,TXNRD1,3.743775923,4.91E-05,15.84297952
+1410,MF,GO:0005515,protein binding,251,BNIP3,1.675952671,4.91E-05,15.84297952
+1411,MF,GO:0005515,protein binding,251,CDC42BPG,1.344976019,4.91E-05,15.84297952
+1412,MF,GO:0005515,protein binding,251,SPRY4,1.001525635,4.91E-05,15.84297952
+1413,MF,GO:0005515,protein binding,251,ATP2B1,1.208471061,4.91E-05,15.84297952
+1414,MF,GO:0005515,protein binding,251,EPOR,2.436571655,4.91E-05,15.84297952
+1415,MF,GO:0005515,protein binding,251,SPATA2L,1.704858189,4.91E-05,15.84297952
+1416,MF,GO:0005515,protein binding,251,DBNDD2,1.075593205,4.91E-05,15.84297952
+1417,MF,GO:0005515,protein binding,251,ABHD17A,1.012078369,4.91E-05,15.84297952
+1418,MF,GO:0005515,protein binding,251,SHLD3,1.260460477,4.91E-05,15.84297952
+1419,MF,GO:0005515,protein binding,251,SHLD2,1.297977248,4.91E-05,15.84297952
+1420,MF,GO:0005515,protein binding,251,SPRY2,1.94607256,4.91E-05,15.84297952
+1421,MF,GO:0005515,protein binding,251,PTPN9,1.185751214,4.91E-05,15.84297952
+1422,MF,GO:0005515,protein binding,251,KRAS,1.185149494,4.91E-05,15.84297952
+1423,MF,GO:0005515,protein binding,251,BCOR,1.147086185,4.91E-05,15.84297952
+1424,MF,GO:0005515,protein binding,251,RAB17,2.481924269,4.91E-05,15.84297952
+1425,MF,GO:0005515,protein binding,251,SEC24D,1.066444445,4.91E-05,15.84297952
+1426,MF,GO:0005515,protein binding,251,TNRC6A,1.077306321,4.91E-05,15.84297952
+1427,MF,GO:0031267,small GTPase binding,17,VPS9D1,2.506346309,7.31E-05,4.123105626
+1428,MF,GO:0031267,small GTPase binding,17,SPHK2,1.411713019,7.31E-05,4.123105626
+1429,MF,GO:0031267,small GTPase binding,17,ARHGEF16,1.433717196,7.31E-05,4.123105626
+1430,MF,GO:0031267,small GTPase binding,17,CDC42BPB,1.025286988,7.31E-05,4.123105626
+1431,MF,GO:0031267,small GTPase binding,17,WDR44,1.004694116,7.31E-05,4.123105626
+1432,MF,GO:0031267,small GTPase binding,17,DOCK11,1.926651333,7.31E-05,4.123105626
+1433,MF,GO:0031267,small GTPase binding,17,INF2,1.606247066,7.31E-05,4.123105626
+1434,MF,GO:0031267,small GTPase binding,17,RASSF3,1.185213773,7.31E-05,4.123105626
+1435,MF,GO:0031267,small GTPase binding,17,NOXA1,1.276017818,7.31E-05,4.123105626
+1436,MF,GO:0031267,small GTPase binding,17,DVL1,1.101623715,7.31E-05,4.123105626
+1437,MF,GO:0031267,small GTPase binding,17,WHAMM,1.015156222,7.31E-05,4.123105626
+1438,MF,GO:0031267,small GTPase binding,17,PKN1,1.987067782,7.31E-05,4.123105626
+1439,MF,GO:0031267,small GTPase binding,17,LZTR1,1.487543375,7.31E-05,4.123105626
+1440,MF,GO:0031267,small GTPase binding,17,RAB11FIP2,1.145348483,7.31E-05,4.123105626
+1441,MF,GO:0031267,small GTPase binding,17,RAB11FIP3,1.53727149,7.31E-05,4.123105626
+1442,MF,GO:0031267,small GTPase binding,17,MAP3K11,1.469992671,7.31E-05,4.123105626
+1443,MF,GO:0031267,small GTPase binding,17,CDC42SE2,1.075427024,7.31E-05,4.123105626
+1444,MF,GO:0042802,identical protein binding,52,FAAH,2.546457935,0.000103,7.211102551
+1445,MF,GO:0042802,identical protein binding,52,TLNRD1,1.358987452,0.000103,7.211102551
+1446,MF,GO:0042802,identical protein binding,52,SLC2A1,1.540415578,0.000103,7.211102551
+1447,MF,GO:0042802,identical protein binding,52,RASSF1,1.375498834,0.000103,7.211102551
+1448,MF,GO:0042802,identical protein binding,52,IMPA1,1.14435296,0.000103,7.211102551
+1449,MF,GO:0042802,identical protein binding,52,RASSF3,1.185213773,0.000103,7.211102551
+1450,MF,GO:0042802,identical protein binding,52,FTH1,1.363955007,0.000103,7.211102551
+1451,MF,GO:0042802,identical protein binding,52,DGCR8,1.009551556,0.000103,7.211102551
+1452,MF,GO:0042802,identical protein binding,52,TRIM27,1.360869388,0.000103,7.211102551
+1453,MF,GO:0042802,identical protein binding,52,ABCD1,2.012987602,0.000103,7.211102551
+1454,MF,GO:0042802,identical protein binding,52,EID2B,2.23367179,0.000103,7.211102551
+1455,MF,GO:0042802,identical protein binding,52,SUN2,1.178666816,0.000103,7.211102551
+1456,MF,GO:0042802,identical protein binding,52,VPS9D1,2.506346309,0.000103,7.211102551
+1457,MF,GO:0042802,identical protein binding,52,TRAF2,1.147132307,0.000103,7.211102551
+1458,MF,GO:0042802,identical protein binding,52,FRS3,2.86450267,0.000103,7.211102551
+1459,MF,GO:0042802,identical protein binding,52,RENBP,3.151401144,0.000103,7.211102551
+1460,MF,GO:0042802,identical protein binding,52,MID2,1.066639271,0.000103,7.211102551
+1461,MF,GO:0042802,identical protein binding,52,KCTD9,1.323884066,0.000103,7.211102551
+1462,MF,GO:0042802,identical protein binding,52,ANO1,1.617218379,0.000103,7.211102551
+1463,MF,GO:0042802,identical protein binding,52,SHTN1,1.063595032,0.000103,7.211102551
+1464,MF,GO:0042802,identical protein binding,52,CREB3,1.188280539,0.000103,7.211102551
+1465,MF,GO:0042802,identical protein binding,52,KATNAL1,1.851539147,0.000103,7.211102551
+1466,MF,GO:0042802,identical protein binding,52,TRAF5,3.108006786,0.000103,7.211102551
+1467,MF,GO:0042802,identical protein binding,52,CLDN7,2.214630701,0.000103,7.211102551
+1468,MF,GO:0042802,identical protein binding,52,IRF5,1.445874726,0.000103,7.211102551
+1469,MF,GO:0042802,identical protein binding,52,KCTD11,1.521469424,0.000103,7.211102551
+1470,MF,GO:0042802,identical protein binding,52,PAFAH1B2,1.212264012,0.000103,7.211102551
+1471,MF,GO:0042802,identical protein binding,52,KCTD15,1.260858288,0.000103,7.211102551
+1472,MF,GO:0042802,identical protein binding,52,L3MBTL1,1.863367877,0.000103,7.211102551
+1473,MF,GO:0042802,identical protein binding,52,CTBP2,1.25571814,0.000103,7.211102551
+1474,MF,GO:0042802,identical protein binding,52,SDC4,1.100705282,0.000103,7.211102551
+1475,MF,GO:0042802,identical protein binding,52,CTBP1,1.142562066,0.000103,7.211102551
+1476,MF,GO:0042802,identical protein binding,52,SDC3,1.015089319,0.000103,7.211102551
+1477,MF,GO:0042802,identical protein binding,52,CBS,2.911018365,0.000103,7.211102551
+1478,MF,GO:0042802,identical protein binding,52,DVL1,1.101623715,0.000103,7.211102551
+1479,MF,GO:0042802,identical protein binding,52,RAB11FIP2,1.145348483,0.000103,7.211102551
+1480,MF,GO:0042802,identical protein binding,52,RAB11FIP3,1.53727149,0.000103,7.211102551
+1481,MF,GO:0042802,identical protein binding,52,SNCA,1.721141724,0.000103,7.211102551
+1482,MF,GO:0042802,identical protein binding,52,XBP1,1.502808348,0.000103,7.211102551
+1483,MF,GO:0042802,identical protein binding,52,SMAD4,1.111311315,0.000103,7.211102551
+1484,MF,GO:0042802,identical protein binding,52,FKRP,1.089941806,0.000103,7.211102551
+1485,MF,GO:0042802,identical protein binding,52,TXNRD1,3.743775923,0.000103,7.211102551
+1486,MF,GO:0042802,identical protein binding,52,BNIP3,1.675952671,0.000103,7.211102551
+1487,MF,GO:0042802,identical protein binding,52,EIF2AK2,1.121911985,0.000103,7.211102551
+1488,MF,GO:0042802,identical protein binding,52,EPOR,2.436571655,0.000103,7.211102551
+1489,MF,GO:0042802,identical protein binding,52,DLK2,2.288340458,0.000103,7.211102551
+1490,MF,GO:0042802,identical protein binding,52,VEGFA,1.775883712,0.000103,7.211102551
+1491,MF,GO:0042802,identical protein binding,52,BMP1,1.189053628,0.000103,7.211102551
+1492,MF,GO:0042802,identical protein binding,52,P4HA1,1.889195711,0.000103,7.211102551
+1493,MF,GO:0042802,identical protein binding,52,NOXA1,1.276017818,0.000103,7.211102551
+1494,MF,GO:0042802,identical protein binding,52,KRAS,1.185149494,0.000103,7.211102551
+1495,MF,GO:0042802,identical protein binding,52,MAP3K11,1.469992671,0.000103,7.211102551
+1496,MF,GO:0046872,metal ion binding,71,MUS81,1.084181337,0.000296,8.426149773
+1497,MF,GO:0046872,metal ion binding,71,TES,1.185075415,0.000296,8.426149773
+1498,MF,GO:0046872,metal ion binding,71,ZNF251,1.541876182,0.000296,8.426149773
+1499,MF,GO:0046872,metal ion binding,71,HCCS,1.032100351,0.000296,8.426149773
+1500,MF,GO:0046872,metal ion binding,71,LIMD1,1.60682939,0.000296,8.426149773
+1501,MF,GO:0046872,metal ion binding,71,LIMD2,3.835951731,0.000296,8.426149773
+1502,MF,GO:0046872,metal ion binding,71,PPP3CC,1.798428499,0.000296,8.426149773
+1503,MF,GO:0046872,metal ion binding,71,IMPA1,1.14435296,0.000296,8.426149773
+1504,MF,GO:0046872,metal ion binding,71,ZNF805,1.463501778,0.000296,8.426149773
+1505,MF,GO:0046872,metal ion binding,71,RASSF3,1.185213773,0.000296,8.426149773
+1506,MF,GO:0046872,metal ion binding,71,ZC3H7B,1.004282723,0.000296,8.426149773
+1507,MF,GO:0046872,metal ion binding,71,FPGS,1.356079376,0.000296,8.426149773
+1508,MF,GO:0046872,metal ion binding,71,DZIP1L,2.652820923,0.000296,8.426149773
+1509,MF,GO:0046872,metal ion binding,71,DGCR8,1.009551556,0.000296,8.426149773
+1510,MF,GO:0046872,metal ion binding,71,TRIM27,1.360869388,0.000296,8.426149773
+1511,MF,GO:0046872,metal ion binding,71,PDE8A,1.032360242,0.000296,8.426149773
+1512,MF,GO:0046872,metal ion binding,71,TNS1,2.160138003,0.000296,8.426149773
+1513,MF,GO:0046872,metal ion binding,71,KLF12,2.767188072,0.000296,8.426149773
+1514,MF,GO:0046872,metal ion binding,71,KLF13,1.238143053,0.000296,8.426149773
+1515,MF,GO:0046872,metal ion binding,71,ZNF284,1.342966478,0.000296,8.426149773
+1516,MF,GO:0046872,metal ion binding,71,ZNF282,1.113319467,0.000296,8.426149773
+1517,MF,GO:0046872,metal ion binding,71,ZNF160,1.338489131,0.000296,8.426149773
+1518,MF,GO:0046872,metal ion binding,71,CSGALNACT2,1.572438247,0.000296,8.426149773
+1519,MF,GO:0046872,metal ion binding,71,TRAF2,1.147132307,0.000296,8.426149773
+1520,MF,GO:0046872,metal ion binding,71,CGRRF1,1.453796583,0.000296,8.426149773
+1521,MF,GO:0046872,metal ion binding,71,ARFGAP3,1.225391663,0.000296,8.426149773
+1522,MF,GO:0046872,metal ion binding,71,VAV2,1.148022521,0.000296,8.426149773
+1523,MF,GO:0046872,metal ion binding,71,SAP30,1.566837245,0.000296,8.426149773
+1524,MF,GO:0046872,metal ion binding,71,OVOL2,1.997308805,0.000296,8.426149773
+1525,MF,GO:0046872,metal ion binding,71,ANO1,1.617218379,0.000296,8.426149773
+1526,MF,GO:0046872,metal ion binding,71,MOB3C,1.443194177,0.000296,8.426149773
+1527,MF,GO:0046872,metal ion binding,71,PITPNM1,1.161897792,0.000296,8.426149773
+1528,MF,GO:0046872,metal ion binding,71,DGKQ,2.456190221,0.000296,8.426149773
+1529,MF,GO:0046872,metal ion binding,71,ZNF319,1.57132456,0.000296,8.426149773
+1530,MF,GO:0046872,metal ion binding,71,ZNF514,1.671528334,0.000296,8.426149773
+1531,MF,GO:0046872,metal ion binding,71,KDM7A,1.214637146,0.000296,8.426149773
+1532,MF,GO:0046872,metal ion binding,71,TRIM56,1.14757533,0.000296,8.426149773
+1533,MF,GO:0046872,metal ion binding,71,ZNF397,1.114297321,0.000296,8.426149773
+1534,MF,GO:0046872,metal ion binding,71,ZNF275,2.18759023,0.000296,8.426149773
+1535,MF,GO:0046872,metal ion binding,71,RNF34,1.211244319,0.000296,8.426149773
+1536,MF,GO:0046872,metal ion binding,71,ADCY4,3.008967977,0.000296,8.426149773
+1537,MF,GO:0046872,metal ion binding,71,ADCY3,1.281745516,0.000296,8.426149773
+1538,MF,GO:0046872,metal ion binding,71,CRIP2,1.874098956,0.000296,8.426149773
+1539,MF,GO:0046872,metal ion binding,71,MLLT6,1.05354506,0.000296,8.426149773
+1540,MF,GO:0046872,metal ion binding,71,HELZ2,1.086484217,0.000296,8.426149773
+1541,MF,GO:0046872,metal ion binding,71,PDLIM2,1.32459423,0.000296,8.426149773
+1542,MF,GO:0046872,metal ion binding,71,MAN2A2,1.914540739,0.000296,8.426149773
+1543,MF,GO:0046872,metal ion binding,71,DEAF1,1.220831697,0.000296,8.426149773
+1544,MF,GO:0046872,metal ion binding,71,CBS,2.911018365,0.000296,8.426149773
+1545,MF,GO:0046872,metal ion binding,71,ZKSCAN2,1.576432276,0.000296,8.426149773
+1546,MF,GO:0046872,metal ion binding,71,ZNF587,1.306556905,0.000296,8.426149773
+1547,MF,GO:0046872,metal ion binding,71,ZNF224,1.473187991,0.000296,8.426149773
+1548,MF,GO:0046872,metal ion binding,71,ZNF664,1.124912218,0.000296,8.426149773
+1549,MF,GO:0046872,metal ion binding,71,PDLIM7,1.407161692,0.000296,8.426149773
+1550,MF,GO:0046872,metal ion binding,71,PCK2,1.009044142,0.000296,8.426149773
+1551,MF,GO:0046872,metal ion binding,71,KDM4B,1.387031438,0.000296,8.426149773
+1552,MF,GO:0046872,metal ion binding,71,SMAD4,1.111311315,0.000296,8.426149773
+1553,MF,GO:0046872,metal ion binding,71,FKRP,1.089941806,0.000296,8.426149773
+1554,MF,GO:0046872,metal ion binding,71,ACE,3.63583652,0.000296,8.426149773
+1555,MF,GO:0046872,metal ion binding,71,DDHD2,1.063834176,0.000296,8.426149773
+1556,MF,GO:0046872,metal ion binding,71,ATP2B1,1.208471061,0.000296,8.426149773
+1557,MF,GO:0046872,metal ion binding,71,WTIP,2.0124801,0.000296,8.426149773
+1558,MF,GO:0046872,metal ion binding,71,MEX3D,1.096646487,0.000296,8.426149773
+1559,MF,GO:0046872,metal ion binding,71,KLF8,1.351097239,0.000296,8.426149773
+1560,MF,GO:0046872,metal ion binding,71,ZNF37A,1.776778011,0.000296,8.426149773
+1561,MF,GO:0046872,metal ion binding,71,CAPRIN2,1.313527779,0.000296,8.426149773
+1562,MF,GO:0046872,metal ion binding,71,ZNF416,1.074474986,0.000296,8.426149773
+1563,MF,GO:0046872,metal ion binding,71,ZNF778,1.771428092,0.000296,8.426149773
+1564,MF,GO:0046872,metal ion binding,71,ZNF337,1.048689011,0.000296,8.426149773
+1565,MF,GO:0046872,metal ion binding,71,ZFP28,1.859448972,0.000296,8.426149773
+1566,MF,GO:0046872,metal ion binding,71,ZNF354B,1.247448134,0.000296,8.426149773
+1567,MF,GO:0003714,transcription corepressor activity,12,CTBP2,1.25571814,0.000837,3.464101615
+1568,MF,GO:0003714,transcription corepressor activity,12,DEAF1,1.220831697,0.000837,3.464101615
+1569,MF,GO:0003714,transcription corepressor activity,12,CTBP1,1.142562066,0.000837,3.464101615
+1570,MF,GO:0003714,transcription corepressor activity,12,HSBP1L1,1.049550792,0.000837,3.464101615
+1571,MF,GO:0003714,transcription corepressor activity,12,TRIB3,1.61216085,0.000837,3.464101615
+1572,MF,GO:0003714,transcription corepressor activity,12,BCOR,1.147086185,0.000837,3.464101615
+1573,MF,GO:0003714,transcription corepressor activity,12,LIMD1,1.60682939,0.000837,3.464101615
+1574,MF,GO:0003714,transcription corepressor activity,12,WTIP,2.0124801,0.000837,3.464101615
+1575,MF,GO:0003714,transcription corepressor activity,12,BCORL1,1.267301586,0.000837,3.464101615
+1576,MF,GO:0003714,transcription corepressor activity,12,EID2B,2.23367179,0.000837,3.464101615
+1577,MF,GO:0003714,transcription corepressor activity,12,RCOR1,1.350458626,0.000837,3.464101615
+1578,MF,GO:0003714,transcription corepressor activity,12,SAP30,1.566837245,0.000837,3.464101615
+1579,MF,GO:0003779,actin binding,16,VASP,1.660345002,0.000903,4
+1580,MF,GO:0003779,actin binding,16,PXK,1.197684457,0.000903,4
+1581,MF,GO:0003779,actin binding,16,ACE,3.63583652,0.000903,4
+1582,MF,GO:0003779,actin binding,16,TLNRD1,1.358987452,0.000903,4
+1583,MF,GO:0003779,actin binding,16,CCDC88A,1.649283327,0.000903,4
+1584,MF,GO:0003779,actin binding,16,INF2,1.606247066,0.000903,4
+1585,MF,GO:0003779,actin binding,16,PDLIM2,1.32459423,0.000903,4
+1586,MF,GO:0003779,actin binding,16,ENC1,1.381408849,0.000903,4
+1587,MF,GO:0003779,actin binding,16,SPIRE1,1.304672153,0.000903,4
+1588,MF,GO:0003779,actin binding,16,CORO7,1.187762011,0.000903,4
+1589,MF,GO:0003779,actin binding,16,WHAMM,1.015156222,0.000903,4
+1590,MF,GO:0003779,actin binding,16,SYNPO,1.246254702,0.000903,4
+1591,MF,GO:0003779,actin binding,16,PDLIM7,1.407161692,0.000903,4
+1592,MF,GO:0003779,actin binding,16,DBN1,1.747094039,0.000903,4
+1593,MF,GO:0003779,actin binding,16,TNS1,2.160138003,0.000903,4
+1594,MF,GO:0003779,actin binding,16,SNCA,1.721141724,0.000903,4
+1595,MF,GO:0005085,guanyl-nucleotide exchange factor activity,12,DOCK11,1.926651333,0.002651452,3.464101615
+1596,MF,GO:0005085,guanyl-nucleotide exchange factor activity,12,CCDC88A,1.649283327,0.002651452,3.464101615
+1597,MF,GO:0005085,guanyl-nucleotide exchange factor activity,12,VPS9D1,2.506346309,0.002651452,3.464101615
+1598,MF,GO:0005085,guanyl-nucleotide exchange factor activity,12,RASGEF1A,2.070404766,0.002651452,3.464101615
+1599,MF,GO:0005085,guanyl-nucleotide exchange factor activity,12,IQSEC1,1.391872072,0.002651452,3.464101615
+1600,MF,GO:0005085,guanyl-nucleotide exchange factor activity,12,DOCK9,1.224664632,0.002651452,3.464101615
+1601,MF,GO:0005085,guanyl-nucleotide exchange factor activity,12,SH2D3A,1.206875704,0.002651452,3.464101615
+1602,MF,GO:0005085,guanyl-nucleotide exchange factor activity,12,ARHGEF16,1.433717196,0.002651452,3.464101615
+1603,MF,GO:0005085,guanyl-nucleotide exchange factor activity,12,DENND3,1.96907622,0.002651452,3.464101615
+1604,MF,GO:0005085,guanyl-nucleotide exchange factor activity,12,DENND6A,1.371974756,0.002651452,3.464101615
+1605,MF,GO:0005085,guanyl-nucleotide exchange factor activity,12,ARFGEF3,1.924103833,0.002651452,3.464101615
+1606,MF,GO:0005085,guanyl-nucleotide exchange factor activity,12,VAV2,1.148022521,0.002651452,3.464101615
+1607,MF,GO:0004842,ubiquitin-protein transferase activity,12,KLHL9,1.031125532,0.004251564,3.464101615
+1608,MF,GO:0004842,ubiquitin-protein transferase activity,12,ITCH,1.074303954,0.004251564,3.464101615
+1609,MF,GO:0004842,ubiquitin-protein transferase activity,12,UBE2Q2,1.41839072,0.004251564,3.464101615
+1610,MF,GO:0004842,ubiquitin-protein transferase activity,12,TSPAN17,1.492443133,0.004251564,3.464101615
+1611,MF,GO:0004842,ubiquitin-protein transferase activity,12,TRIM47,2.363855207,0.004251564,3.464101615
+1612,MF,GO:0004842,ubiquitin-protein transferase activity,12,TRAF2,1.147132307,0.004251564,3.464101615
+1613,MF,GO:0004842,ubiquitin-protein transferase activity,12,BCOR,1.147086185,0.004251564,3.464101615
+1614,MF,GO:0004842,ubiquitin-protein transferase activity,12,TRIM27,1.360869388,0.004251564,3.464101615
+1615,MF,GO:0004842,ubiquitin-protein transferase activity,12,TRIM11,1.196391419,0.004251564,3.464101615
+1616,MF,GO:0004842,ubiquitin-protein transferase activity,12,TRIM56,1.14757533,0.004251564,3.464101615
+1617,MF,GO:0004842,ubiquitin-protein transferase activity,12,KLHL42,1.188992165,0.004251564,3.464101615
+1618,MF,GO:0004842,ubiquitin-protein transferase activity,12,FBXO9,1.255067746,0.004251564,3.464101615
+1619,MF,GO:0042803,protein homodimerization activity,24,ZNF397,1.114297321,0.005313277,4.898979486
+1620,MF,GO:0042803,protein homodimerization activity,24,PHETA2,1.36773852,0.005313277,4.898979486
+1621,MF,GO:0042803,protein homodimerization activity,24,XBP1,1.502808348,0.005313277,4.898979486
+1622,MF,GO:0042803,protein homodimerization activity,24,SMAD4,1.111311315,0.005313277,4.898979486
+1623,MF,GO:0042803,protein homodimerization activity,24,BNIP3,1.675952671,0.005313277,4.898979486
+1624,MF,GO:0042803,protein homodimerization activity,24,MID2,1.066639271,0.005313277,4.898979486
+1625,MF,GO:0042803,protein homodimerization activity,24,VEGFA,1.775883712,0.005313277,4.898979486
+1626,MF,GO:0042803,protein homodimerization activity,24,ANO1,1.617218379,0.005313277,4.898979486
+1627,MF,GO:0042803,protein homodimerization activity,24,CREB3,1.188280539,0.005313277,4.898979486
+1628,MF,GO:0042803,protein homodimerization activity,24,CCDC88A,1.649283327,0.005313277,4.898979486
+1629,MF,GO:0042803,protein homodimerization activity,24,MTHFD1L,1.025794583,0.005313277,4.898979486
+1630,MF,GO:0042803,protein homodimerization activity,24,IMPA1,1.14435296,0.005313277,4.898979486
+1631,MF,GO:0042803,protein homodimerization activity,24,CBS,2.911018365,0.005313277,4.898979486
+1632,MF,GO:0042803,protein homodimerization activity,24,NACC2,1.680651854,0.005313277,4.898979486
+1633,MF,GO:0042803,protein homodimerization activity,24,BHLHE40,1.130222959,0.005313277,4.898979486
+1634,MF,GO:0042803,protein homodimerization activity,24,DGCR8,1.009551556,0.005313277,4.898979486
+1635,MF,GO:0042803,protein homodimerization activity,24,TRIM27,1.360869388,0.005313277,4.898979486
+1636,MF,GO:0042803,protein homodimerization activity,24,LRRFIP1,1.964244425,0.005313277,4.898979486
+1637,MF,GO:0042803,protein homodimerization activity,24,RAB11FIP2,1.145348483,0.005313277,4.898979486
+1638,MF,GO:0042803,protein homodimerization activity,24,ABCD1,2.012987602,0.005313277,4.898979486
+1639,MF,GO:0042803,protein homodimerization activity,24,RAB11FIP3,1.53727149,0.005313277,4.898979486
+1640,MF,GO:0042803,protein homodimerization activity,24,JDP2,3.126936093,0.005313277,4.898979486
+1641,MF,GO:0042803,protein homodimerization activity,24,MAP3K11,1.469992671,0.005313277,4.898979486
+1642,MF,GO:0042803,protein homodimerization activity,24,PAFAH1B2,1.212264012,0.005313277,4.898979486
+1643,MF,GO:0001227,"transcriptional repressor activity, RNA polymerase II transcription regulatory region sequence-specific binding",14,TGIF1,1.132479571,0.005731207,3.741657387
+1644,MF,GO:0001227,"transcriptional repressor activity, RNA polymerase II transcription regulatory region sequence-specific binding",14,KLF12,2.767188072,0.005731207,3.741657387
+1645,MF,GO:0001227,"transcriptional repressor activity, RNA polymerase II transcription regulatory region sequence-specific binding",14,ZNF282,1.113319467,0.005731207,3.741657387
+1646,MF,GO:0001227,"transcriptional repressor activity, RNA polymerase II transcription regulatory region sequence-specific binding",14,OVOL2,1.997308805,0.005731207,3.741657387
+1647,MF,GO:0001227,"transcriptional repressor activity, RNA polymerase II transcription regulatory region sequence-specific binding",14,KLF8,1.351097239,0.005731207,3.741657387
+1648,MF,GO:0001227,"transcriptional repressor activity, RNA polymerase II transcription regulatory region sequence-specific binding",14,MNT,1.110262551,0.005731207,3.741657387
+1649,MF,GO:0001227,"transcriptional repressor activity, RNA polymerase II transcription regulatory region sequence-specific binding",14,DEAF1,1.220831697,0.005731207,3.741657387
+1650,MF,GO:0001227,"transcriptional repressor activity, RNA polymerase II transcription regulatory region sequence-specific binding",14,NACC2,1.680651854,0.005731207,3.741657387
+1651,MF,GO:0001227,"transcriptional repressor activity, RNA polymerase II transcription regulatory region sequence-specific binding",14,BHLHE40,1.130222959,0.005731207,3.741657387
+1652,MF,GO:0001227,"transcriptional repressor activity, RNA polymerase II transcription regulatory region sequence-specific binding",14,ZNF778,1.771428092,0.005731207,3.741657387
+1653,MF,GO:0001227,"transcriptional repressor activity, RNA polymerase II transcription regulatory region sequence-specific binding",14,ZNF337,1.048689011,0.005731207,3.741657387
+1654,MF,GO:0001227,"transcriptional repressor activity, RNA polymerase II transcription regulatory region sequence-specific binding",14,LRRFIP1,1.964244425,0.005731207,3.741657387
+1655,MF,GO:0001227,"transcriptional repressor activity, RNA polymerase II transcription regulatory region sequence-specific binding",14,ZNF224,1.473187991,0.005731207,3.741657387
+1656,MF,GO:0001227,"transcriptional repressor activity, RNA polymerase II transcription regulatory region sequence-specific binding",14,JDP2,3.126936093,0.005731207,3.741657387
+1657,MF,GO:0000978,RNA polymerase II core promoter proximal region sequence-specific DNA binding,33,ZNF397,1.114297321,0.011851052,5.744562647
+1658,MF,GO:0000978,RNA polymerase II core promoter proximal region sequence-specific DNA binding,33,ZNF275,2.18759023,0.011851052,5.744562647
+1659,MF,GO:0000978,RNA polymerase II core promoter proximal region sequence-specific DNA binding,33,ZNF251,1.541876182,0.011851052,5.744562647
+1660,MF,GO:0000978,RNA polymerase II core promoter proximal region sequence-specific DNA binding,33,CHD7,1.021629009,0.011851052,5.744562647
+1661,MF,GO:0000978,RNA polymerase II core promoter proximal region sequence-specific DNA binding,33,MNT,1.110262551,0.011851052,5.744562647
+1662,MF,GO:0000978,RNA polymerase II core promoter proximal region sequence-specific DNA binding,33,ZNF805,1.463501778,0.011851052,5.744562647
+1663,MF,GO:0000978,RNA polymerase II core promoter proximal region sequence-specific DNA binding,33,NACC2,1.680651854,0.011851052,5.744562647
+1664,MF,GO:0000978,RNA polymerase II core promoter proximal region sequence-specific DNA binding,33,ZKSCAN2,1.576432276,0.011851052,5.744562647
+1665,MF,GO:0000978,RNA polymerase II core promoter proximal region sequence-specific DNA binding,33,LRRFIP1,1.964244425,0.011851052,5.744562647
+1666,MF,GO:0000978,RNA polymerase II core promoter proximal region sequence-specific DNA binding,33,ZNF224,1.473187991,0.011851052,5.744562647
+1667,MF,GO:0000978,RNA polymerase II core promoter proximal region sequence-specific DNA binding,33,ZNF664,1.124912218,0.011851052,5.744562647
+1668,MF,GO:0000978,RNA polymerase II core promoter proximal region sequence-specific DNA binding,33,ZNF587,1.306556905,0.011851052,5.744562647
+1669,MF,GO:0000978,RNA polymerase II core promoter proximal region sequence-specific DNA binding,33,TGIF1,1.132479571,0.011851052,5.744562647
+1670,MF,GO:0000978,RNA polymerase II core promoter proximal region sequence-specific DNA binding,33,XBP1,1.502808348,0.011851052,5.744562647
+1671,MF,GO:0000978,RNA polymerase II core promoter proximal region sequence-specific DNA binding,33,KLF12,2.767188072,0.011851052,5.744562647
+1672,MF,GO:0000978,RNA polymerase II core promoter proximal region sequence-specific DNA binding,33,SMAD4,1.111311315,0.011851052,5.744562647
+1673,MF,GO:0000978,RNA polymerase II core promoter proximal region sequence-specific DNA binding,33,KLF13,1.238143053,0.011851052,5.744562647
+1674,MF,GO:0000978,RNA polymerase II core promoter proximal region sequence-specific DNA binding,33,ZNF284,1.342966478,0.011851052,5.744562647
+1675,MF,GO:0000978,RNA polymerase II core promoter proximal region sequence-specific DNA binding,33,ZNF160,1.338489131,0.011851052,5.744562647
+1676,MF,GO:0000978,RNA polymerase II core promoter proximal region sequence-specific DNA binding,33,OVOL2,1.997308805,0.011851052,5.744562647
+1677,MF,GO:0000978,RNA polymerase II core promoter proximal region sequence-specific DNA binding,33,KLF8,1.351097239,0.011851052,5.744562647
+1678,MF,GO:0000978,RNA polymerase II core promoter proximal region sequence-specific DNA binding,33,CREB3,1.188280539,0.011851052,5.744562647
+1679,MF,GO:0000978,RNA polymerase II core promoter proximal region sequence-specific DNA binding,33,ZNF37A,1.776778011,0.011851052,5.744562647
+1680,MF,GO:0000978,RNA polymerase II core promoter proximal region sequence-specific DNA binding,33,ZNF319,1.57132456,0.011851052,5.744562647
+1681,MF,GO:0000978,RNA polymerase II core promoter proximal region sequence-specific DNA binding,33,BHLHE40,1.130222959,0.011851052,5.744562647
+1682,MF,GO:0000978,RNA polymerase II core promoter proximal region sequence-specific DNA binding,33,ZNF416,1.074474986,0.011851052,5.744562647
+1683,MF,GO:0000978,RNA polymerase II core promoter proximal region sequence-specific DNA binding,33,ZNF514,1.671528334,0.011851052,5.744562647
+1684,MF,GO:0000978,RNA polymerase II core promoter proximal region sequence-specific DNA binding,33,HOXB2,1.17038667,0.011851052,5.744562647
+1685,MF,GO:0000978,RNA polymerase II core promoter proximal region sequence-specific DNA binding,33,IRF5,1.445874726,0.011851052,5.744562647
+1686,MF,GO:0000978,RNA polymerase II core promoter proximal region sequence-specific DNA binding,33,RBAK,1.428049258,0.011851052,5.744562647
+1687,MF,GO:0000978,RNA polymerase II core promoter proximal region sequence-specific DNA binding,33,JDP2,3.126936093,0.011851052,5.744562647
+1688,MF,GO:0000978,RNA polymerase II core promoter proximal region sequence-specific DNA binding,33,ZFP28,1.859448972,0.011851052,5.744562647
+1689,MF,GO:0000978,RNA polymerase II core promoter proximal region sequence-specific DNA binding,33,ZNF354B,1.247448134,0.011851052,5.744562647
+1690,MF,GO:0000981,"RNA polymerase II transcription factor activity, sequence-specific DNA binding",34,ZNF397,1.114297321,0.013963779,5.830951895
+1691,MF,GO:0000981,"RNA polymerase II transcription factor activity, sequence-specific DNA binding",34,ZNF275,2.18759023,0.013963779,5.830951895
+1692,MF,GO:0000981,"RNA polymerase II transcription factor activity, sequence-specific DNA binding",34,ZNF251,1.541876182,0.013963779,5.830951895
+1693,MF,GO:0000981,"RNA polymerase II transcription factor activity, sequence-specific DNA binding",34,MNT,1.110262551,0.013963779,5.830951895
+1694,MF,GO:0000981,"RNA polymerase II transcription factor activity, sequence-specific DNA binding",34,ZNF805,1.463501778,0.013963779,5.830951895
+1695,MF,GO:0000981,"RNA polymerase II transcription factor activity, sequence-specific DNA binding",34,DEAF1,1.220831697,0.013963779,5.830951895
+1696,MF,GO:0000981,"RNA polymerase II transcription factor activity, sequence-specific DNA binding",34,NACC2,1.680651854,0.013963779,5.830951895
+1697,MF,GO:0000981,"RNA polymerase II transcription factor activity, sequence-specific DNA binding",34,ZKSCAN2,1.576432276,0.013963779,5.830951895
+1698,MF,GO:0000981,"RNA polymerase II transcription factor activity, sequence-specific DNA binding",34,LRRFIP1,1.964244425,0.013963779,5.830951895
+1699,MF,GO:0000981,"RNA polymerase II transcription factor activity, sequence-specific DNA binding",34,ZNF664,1.124912218,0.013963779,5.830951895
+1700,MF,GO:0000981,"RNA polymerase II transcription factor activity, sequence-specific DNA binding",34,ZNF587,1.306556905,0.013963779,5.830951895
+1701,MF,GO:0000981,"RNA polymerase II transcription factor activity, sequence-specific DNA binding",34,TGIF1,1.132479571,0.013963779,5.830951895
+1702,MF,GO:0000981,"RNA polymerase II transcription factor activity, sequence-specific DNA binding",34,XBP1,1.502808348,0.013963779,5.830951895
+1703,MF,GO:0000981,"RNA polymerase II transcription factor activity, sequence-specific DNA binding",34,KLF12,2.767188072,0.013963779,5.830951895
+1704,MF,GO:0000981,"RNA polymerase II transcription factor activity, sequence-specific DNA binding",34,SMAD4,1.111311315,0.013963779,5.830951895
+1705,MF,GO:0000981,"RNA polymerase II transcription factor activity, sequence-specific DNA binding",34,KLF13,1.238143053,0.013963779,5.830951895
+1706,MF,GO:0000981,"RNA polymerase II transcription factor activity, sequence-specific DNA binding",34,ZNF284,1.342966478,0.013963779,5.830951895
+1707,MF,GO:0000981,"RNA polymerase II transcription factor activity, sequence-specific DNA binding",34,ZNF282,1.113319467,0.013963779,5.830951895
+1708,MF,GO:0000981,"RNA polymerase II transcription factor activity, sequence-specific DNA binding",34,ZNF160,1.338489131,0.013963779,5.830951895
+1709,MF,GO:0000981,"RNA polymerase II transcription factor activity, sequence-specific DNA binding",34,OVOL2,1.997308805,0.013963779,5.830951895
+1710,MF,GO:0000981,"RNA polymerase II transcription factor activity, sequence-specific DNA binding",34,KLF8,1.351097239,0.013963779,5.830951895
+1711,MF,GO:0000981,"RNA polymerase II transcription factor activity, sequence-specific DNA binding",34,CREB3,1.188280539,0.013963779,5.830951895
+1712,MF,GO:0000981,"RNA polymerase II transcription factor activity, sequence-specific DNA binding",34,ZNF37A,1.776778011,0.013963779,5.830951895
+1713,MF,GO:0000981,"RNA polymerase II transcription factor activity, sequence-specific DNA binding",34,BHLHE40,1.130222959,0.013963779,5.830951895
+1714,MF,GO:0000981,"RNA polymerase II transcription factor activity, sequence-specific DNA binding",34,ZNF416,1.074474986,0.013963779,5.830951895
+1715,MF,GO:0000981,"RNA polymerase II transcription factor activity, sequence-specific DNA binding",34,ZNF778,1.771428092,0.013963779,5.830951895
+1716,MF,GO:0000981,"RNA polymerase II transcription factor activity, sequence-specific DNA binding",34,ZNF514,1.671528334,0.013963779,5.830951895
+1717,MF,GO:0000981,"RNA polymerase II transcription factor activity, sequence-specific DNA binding",34,HOXB2,1.17038667,0.013963779,5.830951895
+1718,MF,GO:0000981,"RNA polymerase II transcription factor activity, sequence-specific DNA binding",34,IRF5,1.445874726,0.013963779,5.830951895
+1719,MF,GO:0000981,"RNA polymerase II transcription factor activity, sequence-specific DNA binding",34,ZNF337,1.048689011,0.013963779,5.830951895
+1720,MF,GO:0000981,"RNA polymerase II transcription factor activity, sequence-specific DNA binding",34,RBAK,1.428049258,0.013963779,5.830951895
+1721,MF,GO:0000981,"RNA polymerase II transcription factor activity, sequence-specific DNA binding",34,JDP2,3.126936093,0.013963779,5.830951895
+1722,MF,GO:0000981,"RNA polymerase II transcription factor activity, sequence-specific DNA binding",34,ZFP28,1.859448972,0.013963779,5.830951895
+1723,MF,GO:0000981,"RNA polymerase II transcription factor activity, sequence-specific DNA binding",34,ZNF354B,1.247448134,0.013963779,5.830951895
+1724,MF,GO:0031434,mitogen-activated protein kinase kinase binding,3,ACE,3.63583652,0.014620775,1.732050808
+1725,MF,GO:0031434,mitogen-activated protein kinase kinase binding,3,TRIB3,1.61216085,0.014620775,1.732050808
+1726,MF,GO:0031434,mitogen-activated protein kinase kinase binding,3,MAP3K11,1.469992671,0.014620775,1.732050808
+1727,MF,GO:0030374,ligand-dependent nuclear receptor transcription coactivator activity,5,HELZ2,1.086484217,0.019662212,2.236067977
+1728,MF,GO:0030374,ligand-dependent nuclear receptor transcription coactivator activity,5,MED30,1.714866217,0.019662212,2.236067977
+1729,MF,GO:0030374,ligand-dependent nuclear receptor transcription coactivator activity,5,ZMIZ2,1.212084178,0.019662212,2.236067977
+1730,MF,GO:0030374,ligand-dependent nuclear receptor transcription coactivator activity,5,TACC1,1.487615792,0.019662212,2.236067977
+1731,MF,GO:0030374,ligand-dependent nuclear receptor transcription coactivator activity,5,PKN1,1.987067782,0.019662212,2.236067977
+1732,MF,GO:0031625,ubiquitin protein ligase binding,12,SPART,1.033024879,0.020860455,3.464101615
+1733,MF,GO:0031625,ubiquitin protein ligase binding,12,MOAP1,1.082698338,0.020860455,3.464101615
+1734,MF,GO:0031625,ubiquitin protein ligase binding,12,MFHAS1,1.389830722,0.020860455,3.464101615
+1735,MF,GO:0031625,ubiquitin protein ligase binding,12,UCHL1,2.13984649,0.020860455,3.464101615
+1736,MF,GO:0031625,ubiquitin protein ligase binding,12,XBP1,1.502808348,0.020860455,3.464101615
+1737,MF,GO:0031625,ubiquitin protein ligase binding,12,RNF34,1.211244319,0.020860455,3.464101615
+1738,MF,GO:0031625,ubiquitin protein ligase binding,12,RALB,1.123441973,0.020860455,3.464101615
+1739,MF,GO:0031625,ubiquitin protein ligase binding,12,PDLIM2,1.32459423,0.020860455,3.464101615
+1740,MF,GO:0031625,ubiquitin protein ligase binding,12,CBS,2.911018365,0.020860455,3.464101615
+1741,MF,GO:0031625,ubiquitin protein ligase binding,12,TRAF5,3.108006786,0.020860455,3.464101615
+1742,MF,GO:0031625,ubiquitin protein ligase binding,12,TRIB3,1.61216085,0.020860455,3.464101615
+1743,MF,GO:0031625,ubiquitin protein ligase binding,12,TRAF2,1.147132307,0.020860455,3.464101615
+1744,MF,GO:0032454,histone demethylase activity (H3-K9 specific),3,KDM4B,1.387031438,0.023385007,1.732050808
+1745,MF,GO:0032454,histone demethylase activity (H3-K9 specific),3,KDM3A,1.211597239,0.023385007,1.732050808
+1746,MF,GO:0032454,histone demethylase activity (H3-K9 specific),3,KDM7A,1.214637146,0.023385007,1.732050808
+1747,MF,GO:0005524,ATP binding,38,PXK,1.197684457,0.023888613,6.164414003
+1748,MF,GO:0005524,ATP binding,38,CHD7,1.021629009,0.023888613,6.164414003
+1749,MF,GO:0005524,ATP binding,38,ADCY4,3.008967977,0.023888613,6.164414003
+1750,MF,GO:0005524,ATP binding,38,ADCY3,1.281745516,0.023888613,6.164414003
+1751,MF,GO:0005524,ATP binding,38,KIF12,2.803625742,0.023888613,6.164414003
+1752,MF,GO:0005524,ATP binding,38,SMC5,1.462494949,0.023888613,6.164414003
+1753,MF,GO:0005524,ATP binding,38,RSKR,1.342693349,0.023888613,6.164414003
+1754,MF,GO:0005524,ATP binding,38,HELZ2,1.086484217,0.023888613,6.164414003
+1755,MF,GO:0005524,ATP binding,38,NRBP2,1.666829684,0.023888613,6.164414003
+1756,MF,GO:0005524,ATP binding,38,MTHFD1L,1.025794583,0.023888613,6.164414003
+1757,MF,GO:0005524,ATP binding,38,UBE2Q2,1.41839072,0.023888613,6.164414003
+1758,MF,GO:0005524,ATP binding,38,FPGS,1.356079376,0.023888613,6.164414003
+1759,MF,GO:0005524,ATP binding,38,SPEG,2.082986642,0.023888613,6.164414003
+1760,MF,GO:0005524,ATP binding,38,ABCD1,2.012987602,0.023888613,6.164414003
+1761,MF,GO:0005524,ATP binding,38,ATP9A,1.38320085,0.023888613,6.164414003
+1762,MF,GO:0005524,ATP binding,38,PDK1,2.072438177,0.023888613,6.164414003
+1763,MF,GO:0005524,ATP binding,38,ABCC3,2.071175994,0.023888613,6.164414003
+1764,MF,GO:0005524,ATP binding,38,CDKL2,2.79006747,0.023888613,6.164414003
+1765,MF,GO:0005524,ATP binding,38,PLK3,1.176796238,0.023888613,6.164414003
+1766,MF,GO:0005524,ATP binding,38,SRMS,2.270221283,0.023888613,6.164414003
+1767,MF,GO:0005524,ATP binding,38,ATP8B2,1.54747516,0.023888613,6.164414003
+1768,MF,GO:0005524,ATP binding,38,SPHK2,1.411713019,0.023888613,6.164414003
+1769,MF,GO:0005524,ATP binding,38,CDC42BPG,1.344976019,0.023888613,6.164414003
+1770,MF,GO:0005524,ATP binding,38,TNK1,1.068708238,0.023888613,6.164414003
+1771,MF,GO:0005524,ATP binding,38,EIF2AK2,1.121911985,0.023888613,6.164414003
+1772,MF,GO:0005524,ATP binding,38,CDC42BPB,1.025286988,0.023888613,6.164414003
+1773,MF,GO:0005524,ATP binding,38,ATP2B1,1.208471061,0.023888613,6.164414003
+1774,MF,GO:0005524,ATP binding,38,SMARCA1,1.929628541,0.023888613,6.164414003
+1775,MF,GO:0005524,ATP binding,38,RENBP,3.151401144,0.023888613,6.164414003
+1776,MF,GO:0005524,ATP binding,38,KATNAL1,1.851539147,0.023888613,6.164414003
+1777,MF,GO:0005524,ATP binding,38,KIFC2,1.376396194,0.023888613,6.164414003
+1778,MF,GO:0005524,ATP binding,38,DGKQ,2.456190221,0.023888613,6.164414003
+1779,MF,GO:0005524,ATP binding,38,ULK2,1.477697091,0.023888613,6.164414003
+1780,MF,GO:0005524,ATP binding,38,KRAS,1.185149494,0.023888613,6.164414003
+1781,MF,GO:0005524,ATP binding,38,TRIB3,1.61216085,0.023888613,6.164414003
+1782,MF,GO:0005524,ATP binding,38,PKN1,1.987067782,0.023888613,6.164414003
+1783,MF,GO:0005524,ATP binding,38,CAMK1,2.477262972,0.023888613,6.164414003
+1784,MF,GO:0005524,ATP binding,38,MAP3K11,1.469992671,0.023888613,6.164414003
+1785,MF,GO:0015175,neutral amino acid transmembrane transporter activity,3,SLC7A5,1.055899473,0.033790001,1.732050808
+1786,MF,GO:0015175,neutral amino acid transmembrane transporter activity,3,SLC38A1,1.071911154,0.033790001,1.732050808
+1787,MF,GO:0015175,neutral amino acid transmembrane transporter activity,3,SLC1A4,1.253917931,0.033790001,1.732050808
+1788,MF,GO:0030145,manganese ion binding,5,NPEPL1,1.788958302,0.033888564,2.236067977
+1789,MF,GO:0030145,manganese ion binding,5,GALNT4,1.682378005,0.033888564,2.236067977
+1790,MF,GO:0030145,manganese ion binding,5,IMPA1,1.14435296,0.033888564,2.236067977
+1791,MF,GO:0030145,manganese ion binding,5,PPM1M,1.819841324,0.033888564,2.236067977
+1792,MF,GO:0030145,manganese ion binding,5,PCK2,1.009044142,0.033888564,2.236067977
+1793,MF,GO:0004727,prenylated protein tyrosine phosphatase activity,2,PTP4A2,1.316284249,0.034080966,1.414213562
+1794,MF,GO:0004727,prenylated protein tyrosine phosphatase activity,2,PTP4A3,4.08549018,0.034080966,1.414213562
+1795,MF,GO:0003841,1-acylglycerol-3-phosphate O-acyltransferase activity,3,GPAT4,1.073009902,0.049893165,1.732050808
+1796,MF,GO:0003841,1-acylglycerol-3-phosphate O-acyltransferase activity,3,LPCAT1,1.020988883,0.049893165,1.732050808
+1797,MF,GO:0003841,1-acylglycerol-3-phosphate O-acyltransferase activity,3,AGPAT2,1.684830051,0.049893165,1.732050808
+1798,MF,GO:0015375,glycine:sodium symporter activity,2,SLC38A1,1.071911154,0.050684689,1.414213562
+1799,MF,GO:0015375,glycine:sodium symporter activity,2,SLC6A9,1.685787623,0.050684689,1.414213562
+1800,MF,GO:0038024,cargo receptor activity,3,LRP1,1.124225932,0.058785785,1.732050808
+1801,MF,GO:0038024,cargo receptor activity,3,STBD1,1.160669294,0.058785785,1.732050808
+1802,MF,GO:0038024,cargo receptor activity,3,VLDLR,1.385800133,0.058785785,1.732050808
+1803,MF,GO:0004672,protein kinase activity,12,CDKL2,2.79006747,0.066755179,3.464101615
+1804,MF,GO:0004672,protein kinase activity,12,NRBP2,1.666829684,0.066755179,3.464101615
+1805,MF,GO:0004672,protein kinase activity,12,PXK,1.197684457,0.066755179,3.464101615
+1806,MF,GO:0004672,protein kinase activity,12,SPEG,2.082986642,0.066755179,3.464101615
+1807,MF,GO:0004672,protein kinase activity,12,EIF2AK2,1.121911985,0.066755179,3.464101615
+1808,MF,GO:0004672,protein kinase activity,12,TRIB3,1.61216085,0.066755179,3.464101615
+1809,MF,GO:0004672,protein kinase activity,12,PKN1,1.987067782,0.066755179,3.464101615
+1810,MF,GO:0004672,protein kinase activity,12,CAMK1,2.477262972,0.066755179,3.464101615
+1811,MF,GO:0004672,protein kinase activity,12,CDC42BPB,1.025286988,0.066755179,3.464101615
+1812,MF,GO:0004672,protein kinase activity,12,MAP3K11,1.469992671,0.066755179,3.464101615
+1813,MF,GO:0004672,protein kinase activity,12,RSKR,1.342693349,0.066755179,3.464101615
+1814,MF,GO:0004672,protein kinase activity,12,PDK1,2.072438177,0.066755179,3.464101615
+1815,MF,GO:0004488,methylenetetrahydrofolate dehydrogenase (NADP+) activity,2,MTHFD1L,1.025794583,0.067003862,1.414213562
+1816,MF,GO:0004488,methylenetetrahydrofolate dehydrogenase (NADP+) activity,2,MTHFD2,1.008049755,0.067003862,1.414213562
+1817,MF,GO:0019899,enzyme binding,12,PARP4,1.441891917,0.070760815,3.464101615
+1818,MF,GO:0019899,enzyme binding,12,SELENOS,1.086601231,0.070760815,3.464101615
+1819,MF,GO:0019899,enzyme binding,12,CBS,2.911018365,0.070760815,3.464101615
+1820,MF,GO:0019899,enzyme binding,12,STBD1,1.160669294,0.070760815,3.464101615
+1821,MF,GO:0019899,enzyme binding,12,TSPAN17,1.492443133,0.070760815,3.464101615
+1822,MF,GO:0019899,enzyme binding,12,NOXA1,1.276017818,0.070760815,3.464101615
+1823,MF,GO:0019899,enzyme binding,12,DVL1,1.101623715,0.070760815,3.464101615
+1824,MF,GO:0019899,enzyme binding,12,TRAF2,1.147132307,0.070760815,3.464101615
+1825,MF,GO:0019899,enzyme binding,12,SLC4A2,1.088043828,0.070760815,3.464101615
+1826,MF,GO:0019899,enzyme binding,12,ABCD1,2.012987602,0.070760815,3.464101615
+1827,MF,GO:0019899,enzyme binding,12,RCOR1,1.350458626,0.070760815,3.464101615
+1828,MF,GO:0019899,enzyme binding,12,MID2,1.066639271,0.070760815,3.464101615
+1829,MF,GO:0005080,protein kinase C binding,4,CCDC88A,1.649283327,0.077839978,2
+1830,MF,GO:0005080,protein kinase C binding,4,SDC4,1.100705282,0.077839978,2
+1831,MF,GO:0005080,protein kinase C binding,4,ADCY4,3.008967977,0.077839978,2
+1832,MF,GO:0005080,protein kinase C binding,4,PKN1,1.987067782,0.077839978,2
+1833,MF,GO:0004712,protein serine/threonine/tyrosine kinase activity,13,CDKL2,2.79006747,0.082846309,3.605551275
+1834,MF,GO:0004712,protein serine/threonine/tyrosine kinase activity,13,PLK3,1.176796238,0.082846309,3.605551275
+1835,MF,GO:0004712,protein serine/threonine/tyrosine kinase activity,13,SRMS,2.270221283,0.082846309,3.605551275
+1836,MF,GO:0004712,protein serine/threonine/tyrosine kinase activity,13,CDC42BPG,1.344976019,0.082846309,3.605551275
+1837,MF,GO:0004712,protein serine/threonine/tyrosine kinase activity,13,TNK1,1.068708238,0.082846309,3.605551275
+1838,MF,GO:0004712,protein serine/threonine/tyrosine kinase activity,13,EIF2AK2,1.121911985,0.082846309,3.605551275
+1839,MF,GO:0004712,protein serine/threonine/tyrosine kinase activity,13,CDC42BPB,1.025286988,0.082846309,3.605551275
+1840,MF,GO:0004712,protein serine/threonine/tyrosine kinase activity,13,RSKR,1.342693349,0.082846309,3.605551275
+1841,MF,GO:0004712,protein serine/threonine/tyrosine kinase activity,13,ULK2,1.477697091,0.082846309,3.605551275
+1842,MF,GO:0004712,protein serine/threonine/tyrosine kinase activity,13,SPEG,2.082986642,0.082846309,3.605551275
+1843,MF,GO:0004712,protein serine/threonine/tyrosine kinase activity,13,PKN1,1.987067782,0.082846309,3.605551275
+1844,MF,GO:0004712,protein serine/threonine/tyrosine kinase activity,13,CAMK1,2.477262972,0.082846309,3.605551275
+1845,MF,GO:0004712,protein serine/threonine/tyrosine kinase activity,13,MAP3K11,1.469992671,0.082846309,3.605551275
+1846,MF,GO:0004674,protein serine/threonine kinase activity,12,CDKL2,2.79006747,0.08532541,3.464101615
+1847,MF,GO:0004674,protein serine/threonine kinase activity,12,NRBP2,1.666829684,0.08532541,3.464101615
+1848,MF,GO:0004674,protein serine/threonine kinase activity,12,PLK3,1.176796238,0.08532541,3.464101615
+1849,MF,GO:0004674,protein serine/threonine kinase activity,12,CDC42BPG,1.344976019,0.08532541,3.464101615
+1850,MF,GO:0004674,protein serine/threonine kinase activity,12,SPEG,2.082986642,0.08532541,3.464101615
+1851,MF,GO:0004674,protein serine/threonine kinase activity,12,ULK2,1.477697091,0.08532541,3.464101615
+1852,MF,GO:0004674,protein serine/threonine kinase activity,12,EIF2AK2,1.121911985,0.08532541,3.464101615
+1853,MF,GO:0004674,protein serine/threonine kinase activity,12,PKN1,1.987067782,0.08532541,3.464101615
+1854,MF,GO:0004674,protein serine/threonine kinase activity,12,CAMK1,2.477262972,0.08532541,3.464101615
+1855,MF,GO:0004674,protein serine/threonine kinase activity,12,CDC42BPB,1.025286988,0.08532541,3.464101615
+1856,MF,GO:0004674,protein serine/threonine kinase activity,12,MAP3K11,1.469992671,0.08532541,3.464101615
+1857,MF,GO:0004674,protein serine/threonine kinase activity,12,RSKR,1.342693349,0.08532541,3.464101615
+1858,MF,GO:0015179,L-amino acid transmembrane transporter activity,3,SLC7A5,1.055899473,0.088276433,1.732050808
+1859,MF,GO:0015179,L-amino acid transmembrane transporter activity,3,SLC38A1,1.071911154,0.088276433,1.732050808
+1860,MF,GO:0015179,L-amino acid transmembrane transporter activity,3,SLC1A4,1.253917931,0.088276433,1.732050808
+1861,MF,GO:0003682,chromatin binding,14,L3MBTL1,1.863367877,0.089919346,3.741657387
+1862,MF,GO:0003682,chromatin binding,14,SMAD4,1.111311315,0.089919346,3.741657387
+1863,MF,GO:0003682,chromatin binding,14,CTBP2,1.25571814,0.089919346,3.741657387
+1864,MF,GO:0003682,chromatin binding,14,CTBP1,1.142562066,0.089919346,3.741657387
+1865,MF,GO:0003682,chromatin binding,14,CHD7,1.021629009,0.089919346,3.741657387
+1866,MF,GO:0003682,chromatin binding,14,OVOL2,1.997308805,0.089919346,3.741657387
+1867,MF,GO:0003682,chromatin binding,14,CREB3,1.188280539,0.089919346,3.741657387
+1868,MF,GO:0003682,chromatin binding,14,MNT,1.110262551,0.089919346,3.741657387
+1869,MF,GO:0003682,chromatin binding,14,SCMH1,1.252215628,0.089919346,3.741657387
+1870,MF,GO:0003682,chromatin binding,14,TNRC18,1.026136974,0.089919346,3.741657387
+1871,MF,GO:0003682,chromatin binding,14,PKN1,1.987067782,0.089919346,3.741657387
+1872,MF,GO:0003682,chromatin binding,14,JDP2,3.126936093,0.089919346,3.741657387
+1873,MF,GO:0003682,chromatin binding,14,RCOR1,1.350458626,0.089919346,3.741657387
+1874,MF,GO:0003682,chromatin binding,14,ZNF354B,1.247448134,0.089919346,3.741657387
+1875,MF,GO:0003712,transcription cofactor activity,6,MED22,1.110333548,0.098529123,2.449489743
+1876,MF,GO:0003712,transcription cofactor activity,6,KDM3A,1.211597239,0.098529123,2.449489743
+1877,MF,GO:0003712,transcription cofactor activity,6,MED30,1.714866217,0.098529123,2.449489743
+1878,MF,GO:0003712,transcription cofactor activity,6,TFB2M,1.155658393,0.098529123,2.449489743
+1879,MF,GO:0003712,transcription cofactor activity,6,KDM7A,1.214637146,0.098529123,2.449489743
+1880,MF,GO:0003712,transcription cofactor activity,6,SAP30,1.566837245,0.098529123,2.449489743
+1881,MF,GO:0005283,sodium:amino acid symporter activity,2,SLC38A1,1.071911154,0.098807921,1.414213562
+1882,MF,GO:0005283,sodium:amino acid symporter activity,2,SLC6A9,1.685787623,0.098807921,1.414213562
+1883,MF,GO:0031491,nucleosome binding,3,L3MBTL1,1.863367877,0.098905406,1.732050808
+1884,MF,GO:0031491,nucleosome binding,3,SMARCA1,1.929628541,0.098905406,1.732050808
+1885,MF,GO:0031491,nucleosome binding,3,MLLT6,1.05354506,0.098905406,1.732050808

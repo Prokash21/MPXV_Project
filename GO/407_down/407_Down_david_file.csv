@@ -1,0 +1,1966 @@
+"","category","ID","term","count","genes","logFC","adj_pval","zscore"
+"1","BP","GO:0043066","negative regulation of apoptotic process",17,"SERPINB2",-1.643285132,0.037807731,-4.12310562561766
+"2","BP","GO:0043066","negative regulation of apoptotic process",17,"MSX2",-1.108137438,0.037807731,-4.12310562561766
+"3","BP","GO:0043066","negative regulation of apoptotic process",17,"CBX4",-1.274258813,0.037807731,-4.12310562561766
+"4","BP","GO:0043066","negative regulation of apoptotic process",17,"BCL11B",-1.688387658,0.037807731,-4.12310562561766
+"5","BP","GO:0043066","negative regulation of apoptotic process",17,"CITED2",-1.957983703,0.037807731,-4.12310562561766
+"6","BP","GO:0043066","negative regulation of apoptotic process",17,"PLK2",-1.969957039,0.037807731,-4.12310562561766
+"7","BP","GO:0043066","negative regulation of apoptotic process",17,"TENT5B",-1.687621541,0.037807731,-4.12310562561766
+"8","BP","GO:0043066","negative regulation of apoptotic process",17,"THBS1",-2.628866139,0.037807731,-4.12310562561766
+"9","BP","GO:0043066","negative regulation of apoptotic process",17,"DKK1",-2.26967081,0.037807731,-4.12310562561766
+"10","BP","GO:0043066","negative regulation of apoptotic process",17,"AURKA",-2.157863191,0.037807731,-4.12310562561766
+"11","BP","GO:0043066","negative regulation of apoptotic process",17,"HSP90B1",-1.080957784,0.037807731,-4.12310562561766
+"12","BP","GO:0043066","negative regulation of apoptotic process",17,"MIEN1",-1.055515865,0.037807731,-4.12310562561766
+"13","BP","GO:0043066","negative regulation of apoptotic process",17,"CTSH",-2.030209213,0.037807731,-4.12310562561766
+"14","BP","GO:0043066","negative regulation of apoptotic process",17,"BIRC5",-4.82778078,0.037807731,-4.12310562561766
+"15","BP","GO:0043066","negative regulation of apoptotic process",17,"NAA38",-1.422779801,0.037807731,-4.12310562561766
+"16","BP","GO:0043066","negative regulation of apoptotic process",17,"CRYAB",-1.075511568,0.037807731,-4.12310562561766
+"17","BP","GO:0043066","negative regulation of apoptotic process",17,"PPARD",-1.395993315,0.037807731,-4.12310562561766
+"18","BP","GO:0015031","protein transport",18,"BTF3",-1.086859698,0.003157091,-4.24264068711929
+"19","BP","GO:0015031","protein transport",18,"SLC15A1",-2.162547782,0.003157091,-4.24264068711929
+"20","BP","GO:0015031","protein transport",18,"NBAS",-1.196777922,0.003157091,-4.24264068711929
+"21","BP","GO:0015031","protein transport",18,"PRAF2",-1.067179941,0.003157091,-4.24264068711929
+"22","BP","GO:0015031","protein transport",18,"COMMD1",-1.05381083,0.003157091,-4.24264068711929
+"23","BP","GO:0015031","protein transport",18,"COPZ1",-1.261227883,0.003157091,-4.24264068711929
+"24","BP","GO:0015031","protein transport",18,"HSP90B1",-1.080957784,0.003157091,-4.24264068711929
+"25","BP","GO:0015031","protein transport",18,"SCAMP2",-1.113366368,0.003157091,-4.24264068711929
+"26","BP","GO:0015031","protein transport",18,"TOM1L2",-1.524092373,0.003157091,-4.24264068711929
+"27","BP","GO:0015031","protein transport",18,"SCAMP4",-1.207976491,0.003157091,-4.24264068711929
+"28","BP","GO:0015031","protein transport",18,"LMAN1",-1.068518332,0.003157091,-4.24264068711929
+"29","BP","GO:0015031","protein transport",18,"CENPF",-2.275729701,0.003157091,-4.24264068711929
+"30","BP","GO:0015031","protein transport",18,"VPS51",-1.037365547,0.003157091,-4.24264068711929
+"31","BP","GO:0015031","protein transport",18,"NACA",-1.176857262,0.003157091,-4.24264068711929
+"32","BP","GO:0015031","protein transport",18,"VPS52",-1.240656472,0.003157091,-4.24264068711929
+"33","BP","GO:0015031","protein transport",18,"CHMP2A",-1.145093747,0.003157091,-4.24264068711929
+"34","BP","GO:0015031","protein transport",18,"KIF20A",-2.786504036,0.003157091,-4.24264068711929
+"35","BP","GO:0015031","protein transport",18,"VPS35L",-1.154688929,0.003157091,-4.24264068711929
+"36","BP","GO:0006412","translation",9,"MRPS9",-1.026417912,0.046467076,-3
+"37","BP","GO:0006412","translation",9,"RPL41",-1.123259734,0.046467076,-3
+"38","BP","GO:0006412","translation",9,"NACA",-1.176857262,0.046467076,-3
+"39","BP","GO:0006412","translation",9,"RPS4Y1",-1.425424457,0.046467076,-3
+"40","BP","GO:0006412","translation",9,"RPL18",-1.850670338,0.046467076,-3
+"41","BP","GO:0006412","translation",9,"RPL39",-1.273886373,0.046467076,-3
+"42","BP","GO:0006412","translation",9,"RPS10",-1.567035363,0.046467076,-3
+"43","BP","GO:0006412","translation",9,"MRPL21",-1.395459458,0.046467076,-3
+"44","BP","GO:0006412","translation",9,"MRPL11",-1.381028276,0.046467076,-3
+"45","BP","GO:0009410","response to xenobiotic stimulus",12,"BCHE",-1.165708466,0.012500432,-3.46410161513775
+"46","BP","GO:0009410","response to xenobiotic stimulus",12,"HDAC5",-1.39987283,0.012500432,-3.46410161513775
+"47","BP","GO:0009410","response to xenobiotic stimulus",12,"CENPF",-2.275729701,0.012500432,-3.46410161513775
+"48","BP","GO:0009410","response to xenobiotic stimulus",12,"ABCD3",-1.132374803,0.012500432,-3.46410161513775
+"49","BP","GO:0009410","response to xenobiotic stimulus",12,"SEMA3C",-1.670859906,0.012500432,-3.46410161513775
+"50","BP","GO:0009410","response to xenobiotic stimulus",12,"ARG1",-1.909387625,0.012500432,-3.46410161513775
+"51","BP","GO:0009410","response to xenobiotic stimulus",12,"SCNN1B",-3.408094776,0.012500432,-3.46410161513775
+"52","BP","GO:0009410","response to xenobiotic stimulus",12,"XRCC1",-1.282590157,0.012500432,-3.46410161513775
+"53","BP","GO:0009410","response to xenobiotic stimulus",12,"BLMH",-1.846850819,0.012500432,-3.46410161513775
+"54","BP","GO:0009410","response to xenobiotic stimulus",12,"TYMS",-3.302288382,0.012500432,-3.46410161513775
+"55","BP","GO:0009410","response to xenobiotic stimulus",12,"ADD3",-1.05761241,0.012500432,-3.46410161513775
+"56","BP","GO:0009410","response to xenobiotic stimulus",12,"THBS1",-2.628866139,0.012500432,-3.46410161513775
+"57","BP","GO:0055085","transmembrane transport",11,"SLC44A5",-1.858769027,0.017172512,-3.3166247903554
+"58","BP","GO:0055085","transmembrane transport",11,"PSMB6",-1.149097968,0.017172512,-3.3166247903554
+"59","BP","GO:0055085","transmembrane transport",11,"SLC35B2",-1.498663292,0.017172512,-3.3166247903554
+"60","BP","GO:0055085","transmembrane transport",11,"SLC44A3",-2.149740043,0.017172512,-3.3166247903554
+"61","BP","GO:0055085","transmembrane transport",11,"SLC44A2",-1.389592046,0.017172512,-3.3166247903554
+"62","BP","GO:0055085","transmembrane transport",11,"PSMA2",-1.33808643,0.017172512,-3.3166247903554
+"63","BP","GO:0055085","transmembrane transport",11,"GJA5",-4.546904872,0.017172512,-3.3166247903554
+"64","BP","GO:0055085","transmembrane transport",11,"GJA9",-2.323995898,0.017172512,-3.3166247903554
+"65","BP","GO:0055085","transmembrane transport",11,"ABCA12",-1.40790804,0.017172512,-3.3166247903554
+"66","BP","GO:0055085","transmembrane transport",11,"GPR155",-2.69242839,0.017172512,-3.3166247903554
+"67","BP","GO:0055085","transmembrane transport",11,"GSDME",-1.223861174,0.017172512,-3.3166247903554
+"68","BP","GO:0071222","cellular response to lipopolysaccharide",10,"HADHB",-1.751065051,0.01028209,-3.16227766016838
+"69","BP","GO:0071222","cellular response to lipopolysaccharide",10,"IL1A",-1.70651281,0.01028209,-3.16227766016838
+"70","BP","GO:0071222","cellular response to lipopolysaccharide",10,"HDAC5",-1.39987283,0.01028209,-3.16227766016838
+"71","BP","GO:0071222","cellular response to lipopolysaccharide",10,"ARG1",-1.909387625,0.01028209,-3.16227766016838
+"72","BP","GO:0071222","cellular response to lipopolysaccharide",10,"PDCD1LG2",-5.420435633,0.01028209,-3.16227766016838
+"73","BP","GO:0071222","cellular response to lipopolysaccharide",10,"CD68",-1.452604628,0.01028209,-3.16227766016838
+"74","BP","GO:0071222","cellular response to lipopolysaccharide",10,"GBP2",-1.961905339,0.01028209,-3.16227766016838
+"75","BP","GO:0071222","cellular response to lipopolysaccharide",10,"B2M",-2.436091153,0.01028209,-3.16227766016838
+"76","BP","GO:0071222","cellular response to lipopolysaccharide",10,"PPARD",-1.395993315,0.01028209,-3.16227766016838
+"77","BP","GO:0071222","cellular response to lipopolysaccharide",10,"IL1F10",-2.238672501,0.01028209,-3.16227766016838
+"78","BP","GO:0001666","response to hypoxia",9,"DPP4",-2.491068494,0.015034382,-3
+"79","BP","GO:0001666","response to hypoxia",9,"IL1A",-1.70651281,0.015034382,-3
+"80","BP","GO:0001666","response to hypoxia",9,"CITED2",-1.957983703,0.015034382,-3
+"81","BP","GO:0001666","response to hypoxia",9,"XRCC1",-1.282590157,0.015034382,-3
+"82","BP","GO:0001666","response to hypoxia",9,"THBS1",-2.628866139,0.015034382,-3
+"83","BP","GO:0001666","response to hypoxia",9,"CRYAB",-1.075511568,0.015034382,-3
+"84","BP","GO:0001666","response to hypoxia",9,"HIF1A",-1.025051181,0.015034382,-3
+"85","BP","GO:0001666","response to hypoxia",9,"TM9SF4",-1.355452534,0.015034382,-3
+"86","BP","GO:0001666","response to hypoxia",9,"HSP90B1",-1.080957784,0.015034382,-3
+"87","BP","GO:0071456","cellular response to hypoxia",7,"CCNA2",-2.514501424,0.035193816,-2.64575131106459
+"88","BP","GO:0071456","cellular response to hypoxia",7,"EDN1",-2.600547604,0.035193816,-2.64575131106459
+"89","BP","GO:0071456","cellular response to hypoxia",7,"SDHD",-1.073238405,0.035193816,-2.64575131106459
+"90","BP","GO:0071456","cellular response to hypoxia",7,"HIF1A",-1.025051181,0.035193816,-2.64575131106459
+"91","BP","GO:0071456","cellular response to hypoxia",7,"AQP3",-1.796641483,0.035193816,-2.64575131106459
+"92","BP","GO:0071456","cellular response to hypoxia",7,"VASN",-1.609665567,0.035193816,-2.64575131106459
+"93","BP","GO:0071456","cellular response to hypoxia",7,"PPARD",-1.395993315,0.035193816,-2.64575131106459
+"94","BP","GO:0009615","response to virus",7,"PSMA2",-1.33808643,0.014964615,-2.64575131106459
+"95","BP","GO:0009615","response to virus",7,"STMN1",-1.190750809,0.014964615,-2.64575131106459
+"96","BP","GO:0009615","response to virus",7,"IFI44",-1.889240071,0.014964615,-2.64575131106459
+"97","BP","GO:0009615","response to virus",7,"ISG15",-2.361451804,0.014964615,-2.64575131106459
+"98","BP","GO:0009615","response to virus",7,"DDX60",-2.117877531,0.014964615,-2.64575131106459
+"99","BP","GO:0009615","response to virus",7,"IFIT1",-3.244996513,0.014964615,-2.64575131106459
+"100","BP","GO:0009615","response to virus",7,"OASL",-1.756696805,0.014964615,-2.64575131106459
+"101","BP","GO:0051301","cell division",27,"CDCA5",-2.598041784,8.63e-09,-5.19615242270663
+"102","BP","GO:0051301","cell division",27,"NCAPG2",-1.982152002,8.63e-09,-5.19615242270663
+"103","BP","GO:0051301","cell division",27,"NCAPG",-3.081687148,8.63e-09,-5.19615242270663
+"104","BP","GO:0051301","cell division",27,"BUB1B",-2.431458242,8.63e-09,-5.19615242270663
+"105","BP","GO:0051301","cell division",27,"KIF11",-2.72901755,8.63e-09,-5.19615242270663
+"106","BP","GO:0051301","cell division",27,"SKA3",-4.726603201,8.63e-09,-5.19615242270663
+"107","BP","GO:0051301","cell division",27,"SKA1",-2.186731221,8.63e-09,-5.19615242270663
+"108","BP","GO:0051301","cell division",27,"AURKA",-2.157863191,8.63e-09,-5.19615242270663
+"109","BP","GO:0051301","cell division",27,"CDC20",-1.821017204,8.63e-09,-5.19615242270663
+"110","BP","GO:0051301","cell division",27,"CCNB2",-1.603112433,8.63e-09,-5.19615242270663
+"111","BP","GO:0051301","cell division",27,"CCNB1",-2.684593035,8.63e-09,-5.19615242270663
+"112","BP","GO:0051301","cell division",27,"CDC23",-1.342356163,8.63e-09,-5.19615242270663
+"113","BP","GO:0051301","cell division",27,"BUB1",-2.28040653,8.63e-09,-5.19615242270663
+"114","BP","GO:0051301","cell division",27,"SAC3D1",-1.954837022,8.63e-09,-5.19615242270663
+"115","BP","GO:0051301","cell division",27,"CDT1",-2.35889532,8.63e-09,-5.19615242270663
+"116","BP","GO:0051301","cell division",27,"UBE2C",-1.563087107,8.63e-09,-5.19615242270663
+"117","BP","GO:0051301","cell division",27,"SMC1A",-1.119516728,8.63e-09,-5.19615242270663
+"118","BP","GO:0051301","cell division",27,"NDC80",-2.0257484,8.63e-09,-5.19615242270663
+"119","BP","GO:0051301","cell division",27,"CCNA2",-2.514501424,8.63e-09,-5.19615242270663
+"120","BP","GO:0051301","cell division",27,"ASPM",-2.052538855,8.63e-09,-5.19615242270663
+"121","BP","GO:0051301","cell division",27,"TPX2",-1.131678158,8.63e-09,-5.19615242270663
+"122","BP","GO:0051301","cell division",27,"CENPF",-2.275729701,8.63e-09,-5.19615242270663
+"123","BP","GO:0051301","cell division",27,"WEE1",-1.286557803,8.63e-09,-5.19615242270663
+"124","BP","GO:0051301","cell division",27,"PRC1",-1.59537456,8.63e-09,-5.19615242270663
+"125","BP","GO:0051301","cell division",27,"BIRC5",-4.82778078,8.63e-09,-5.19615242270663
+"126","BP","GO:0051301","cell division",27,"MCM5",-1.96770465,8.63e-09,-5.19615242270663
+"127","BP","GO:0051301","cell division",27,"KIF2C",-1.573249981,8.63e-09,-5.19615242270663
+"128","BP","GO:0010595","positive regulation of endothelial cell migration",5,"SCARB1",-1.170384899,0.034730526,-2.23606797749979
+"129","BP","GO:0010595","positive regulation of endothelial cell migration",5,"EDN1",-2.600547604,0.034730526,-2.23606797749979
+"130","BP","GO:0010595","positive regulation of endothelial cell migration",5,"NRP2",-2.21298347,0.034730526,-2.23606797749979
+"131","BP","GO:0010595","positive regulation of endothelial cell migration",5,"THBS1",-2.628866139,0.034730526,-2.23606797749979
+"132","BP","GO:0010595","positive regulation of endothelial cell migration",5,"RHOB",-1.290393131,0.034730526,-2.23606797749979
+"133","BP","GO:0030216","keratinocyte differentiation",5,"FLG",-1.861645474,0.033143241,-2.23606797749979
+"134","BP","GO:0030216","keratinocyte differentiation",5,"SPRR3",-2.395550882,0.033143241,-2.23606797749979
+"135","BP","GO:0030216","keratinocyte differentiation",5,"CDSN",-1.461986019,0.033143241,-2.23606797749979
+"136","BP","GO:0030216","keratinocyte differentiation",5,"MAFB",-1.064133743,0.033143241,-2.23606797749979
+"137","BP","GO:0030216","keratinocyte differentiation",5,"TGM3",-3.110713324,0.033143241,-2.23606797749979
+"138","BP","GO:0007346","regulation of mitotic cell cycle",5,"CDC20",-1.821017204,0.033143241,-2.23606797749979
+"139","BP","GO:0007346","regulation of mitotic cell cycle",5,"CDC23",-1.342356163,0.033143241,-2.23606797749979
+"140","BP","GO:0007346","regulation of mitotic cell cycle",5,"GMNN",-2.486087765,0.033143241,-2.23606797749979
+"141","BP","GO:0007346","regulation of mitotic cell cycle",5,"BIRC5",-4.82778078,0.033143241,-2.23606797749979
+"142","BP","GO:0007346","regulation of mitotic cell cycle",5,"DLGAP5",-2.765225513,0.033143241,-2.23606797749979
+"143","BP","GO:0042776","mitochondrial ATP synthesis coupled proton transport",5,"NDUFA11",-1.064419922,0.030098628,-2.23606797749979
+"144","BP","GO:0042776","mitochondrial ATP synthesis coupled proton transport",5,"ATP5PB",-1.697656649,0.030098628,-2.23606797749979
+"145","BP","GO:0042776","mitochondrial ATP synthesis coupled proton transport",5,"NDUFB11",-1.77577287,0.030098628,-2.23606797749979
+"146","BP","GO:0042776","mitochondrial ATP synthesis coupled proton transport",5,"NDUFS3",-1.156225535,0.030098628,-2.23606797749979
+"147","BP","GO:0042776","mitochondrial ATP synthesis coupled proton transport",5,"SDHD",-1.073238405,0.030098628,-2.23606797749979
+"148","BP","GO:0030855","epithelial cell differentiation",8,"EHF",-1.789242368,0.002404082,-2.82842712474619
+"149","BP","GO:0030855","epithelial cell differentiation",8,"DHRS9",-1.18783787,0.002404082,-2.82842712474619
+"150","BP","GO:0030855","epithelial cell differentiation",8,"KRT4",-4.458252913,0.002404082,-2.82842712474619
+"151","BP","GO:0030855","epithelial cell differentiation",8,"DLX5",-1.977683911,0.002404082,-2.82842712474619
+"152","BP","GO:0030855","epithelial cell differentiation",8,"KRT15",-2.668777092,0.002404082,-2.82842712474619
+"153","BP","GO:0030855","epithelial cell differentiation",8,"KRT24",-4.182758059,0.002404082,-2.82842712474619
+"154","BP","GO:0030855","epithelial cell differentiation",8,"KRT23",-2.325895748,0.002404082,-2.82842712474619
+"155","BP","GO:0030855","epithelial cell differentiation",8,"KRT9",-2.829013809,0.002404082,-2.82842712474619
+"156","BP","GO:0045109","intermediate filament organization",6,"KRT80",-2.12731786,0.007746691,-2.44948974278318
+"157","BP","GO:0045109","intermediate filament organization",6,"KRT4",-4.458252913,0.007746691,-2.44948974278318
+"158","BP","GO:0045109","intermediate filament organization",6,"KRT15",-2.668777092,0.007746691,-2.44948974278318
+"159","BP","GO:0045109","intermediate filament organization",6,"KRT24",-4.182758059,0.007746691,-2.44948974278318
+"160","BP","GO:0045109","intermediate filament organization",6,"KRT23",-2.325895748,0.007746691,-2.44948974278318
+"161","BP","GO:0045109","intermediate filament organization",6,"KRT9",-2.829013809,0.007746691,-2.44948974278318
+"162","BP","GO:0007059","chromosome segregation",9,"CDT1",-2.35889532,0.000379,-3
+"163","BP","GO:0007059","chromosome segregation",9,"CENPF",-2.275729701,0.000379,-3
+"164","BP","GO:0007059","chromosome segregation",9,"HJURP",-3.64232181,0.000379,-3
+"165","BP","GO:0007059","chromosome segregation",9,"BIRC5",-4.82778078,0.000379,-3
+"166","BP","GO:0007059","chromosome segregation",9,"SKA3",-4.726603201,0.000379,-3
+"167","BP","GO:0007059","chromosome segregation",9,"BUB1",-2.28040653,0.000379,-3
+"168","BP","GO:0007059","chromosome segregation",9,"NDC80",-2.0257484,0.000379,-3
+"169","BP","GO:0007059","chromosome segregation",9,"SKA1",-2.186731221,0.000379,-3
+"170","BP","GO:0007059","chromosome segregation",9,"DLGAP5",-2.765225513,0.000379,-3
+"171","BP","GO:0045333","cellular respiration",4,"COX7B",-1.363199979,0.040128413,-2
+"172","BP","GO:0045333","cellular respiration",4,"COX4I1",-1.116529179,0.040128413,-2
+"173","BP","GO:0045333","cellular respiration",4,"COX7A2",-1.337102314,0.040128413,-2
+"174","BP","GO:0045333","cellular respiration",4,"COX6A1",-1.399900045,0.040128413,-2
+"175","BP","GO:0031424","keratinization",9,"LCE2B",-1.284258893,0.000245,-3
+"176","BP","GO:0031424","keratinization",9,"IL1A",-1.70651281,0.000245,-3
+"177","BP","GO:0031424","keratinization",9,"SPRR3",-2.395550882,0.000245,-3
+"178","BP","GO:0031424","keratinization",9,"KRT80",-2.12731786,0.000245,-3
+"179","BP","GO:0031424","keratinization",9,"KRT4",-4.458252913,0.000245,-3
+"180","BP","GO:0031424","keratinization",9,"CNFN",-1.717754922,0.000245,-3
+"181","BP","GO:0031424","keratinization",9,"ABCA12",-1.40790804,0.000245,-3
+"182","BP","GO:0031424","keratinization",9,"TGM3",-3.110713324,0.000245,-3
+"183","BP","GO:0031424","keratinization",9,"SPRR2D",-2.390796129,0.000245,-3
+"184","BP","GO:0050919","negative chemotaxis",4,"DPP4",-2.491068494,0.035450796,-2
+"185","BP","GO:0050919","negative chemotaxis",4,"SEMA4A",-2.671254889,0.035450796,-2
+"186","BP","GO:0050919","negative chemotaxis",4,"NRP2",-2.21298347,0.035450796,-2
+"187","BP","GO:0050919","negative chemotaxis",4,"SEMA3C",-1.670859906,0.035450796,-2
+"188","BP","GO:0000281","mitotic cytokinesis",7,"KIF4A",-2.267898968,0.001433171,-2.64575131106459
+"189","BP","GO:0000281","mitotic cytokinesis",7,"STMN1",-1.190750809,0.001433171,-2.64575131106459
+"190","BP","GO:0000281","mitotic cytokinesis",7,"BIRC5",-4.82778078,0.001433171,-2.64575131106459
+"191","BP","GO:0000281","mitotic cytokinesis",7,"KIF20A",-2.786504036,0.001433171,-2.64575131106459
+"192","BP","GO:0000281","mitotic cytokinesis",7,"CEP55",-5.160597801,0.001433171,-2.64575131106459
+"193","BP","GO:0000281","mitotic cytokinesis",7,"RHOB",-1.290393131,0.001433171,-2.64575131106459
+"194","BP","GO:0000281","mitotic cytokinesis",7,"ZNF365",-1.332327732,0.001433171,-2.64575131106459
+"195","BP","GO:0048538","thymus development",5,"CCNB2",-1.603112433,0.010965937,-2.23606797749979
+"196","BP","GO:0048538","thymus development",5,"MAFB",-1.064133743,0.010965937,-2.23606797749979
+"197","BP","GO:0048538","thymus development",5,"BCL11B",-1.688387658,0.010965937,-2.23606797749979
+"198","BP","GO:0048538","thymus development",5,"CITED2",-1.957983703,0.010965937,-2.23606797749979
+"199","BP","GO:0048538","thymus development",5,"EPHB3",-1.444204795,0.010965937,-2.23606797749979
+"200","BP","GO:0031145","anaphase-promoting complex-dependent catabolic process",5,"PSMB6",-1.149097968,0.010194233,-2.23606797749979
+"201","BP","GO:0031145","anaphase-promoting complex-dependent catabolic process",5,"CDC20",-1.821017204,0.010194233,-2.23606797749979
+"202","BP","GO:0031145","anaphase-promoting complex-dependent catabolic process",5,"CDC23",-1.342356163,0.010194233,-2.23606797749979
+"203","BP","GO:0031145","anaphase-promoting complex-dependent catabolic process",5,"PSMA2",-1.33808643,0.010194233,-2.23606797749979
+"204","BP","GO:0031145","anaphase-promoting complex-dependent catabolic process",5,"UBE2C",-1.563087107,0.010194233,-2.23606797749979
+"205","BP","GO:0002052","positive regulation of neuroblast proliferation",4,"ASPM",-2.052538855,0.028998244,-2
+"206","BP","GO:0002052","positive regulation of neuroblast proliferation",4,"ID4",-2.318190195,0.028998244,-2
+"207","BP","GO:0002052","positive regulation of neuroblast proliferation",4,"WDR62",-1.504383964,0.028998244,-2
+"208","BP","GO:0002052","positive regulation of neuroblast proliferation",4,"HIF1A",-1.025051181,0.028998244,-2
+"209","BP","GO:0001916","positive regulation of T cell mediated cytotoxicity",4,"RAET1L",-1.123282974,0.026999407,-2
+"210","BP","GO:0001916","positive regulation of T cell mediated cytotoxicity",4,"HLA-A",-1.295197926,0.026999407,-2
+"211","BP","GO:0001916","positive regulation of T cell mediated cytotoxicity",4,"B2M",-2.436091153,0.026999407,-2
+"212","BP","GO:0001916","positive regulation of T cell mediated cytotoxicity",4,"HLA-E",-1.132489067,0.026999407,-2
+"213","BP","GO:0008544","epidermis development",10,"COL17A1",-1.96877789,2.54e-05,-3.16227766016838
+"214","BP","GO:0008544","epidermis development",10,"LCE2B",-1.284258893,2.54e-05,-3.16227766016838
+"215","BP","GO:0008544","epidermis development",10,"SPRR3",-2.395550882,2.54e-05,-3.16227766016838
+"216","BP","GO:0008544","epidermis development",10,"CDSN",-1.461986019,2.54e-05,-3.16227766016838
+"217","BP","GO:0008544","epidermis development",10,"KRT15",-2.668777092,2.54e-05,-3.16227766016838
+"218","BP","GO:0008544","epidermis development",10,"YBX1",-1.211529865,2.54e-05,-3.16227766016838
+"219","BP","GO:0008544","epidermis development",10,"GRHL1",-1.733399076,2.54e-05,-3.16227766016838
+"220","BP","GO:0008544","epidermis development",10,"TGM5",-3.147235824,2.54e-05,-3.16227766016838
+"221","BP","GO:0008544","epidermis development",10,"KRT9",-2.829013809,2.54e-05,-3.16227766016838
+"222","BP","GO:0008544","epidermis development",10,"SPRR2D",-2.390796129,2.54e-05,-3.16227766016838
+"223","BP","GO:0000278","mitotic cell cycle",18,"CDT1",-2.35889532,2.98e-09,-4.24264068711929
+"224","BP","GO:0000278","mitotic cell cycle",18,"CDCA5",-2.598041784,2.98e-09,-4.24264068711929
+"225","BP","GO:0000278","mitotic cell cycle",18,"PLK2",-1.969957039,2.98e-09,-4.24264068711929
+"226","BP","GO:0000278","mitotic cell cycle",18,"DCTN3",-1.250277975,2.98e-09,-4.24264068711929
+"227","BP","GO:0000278","mitotic cell cycle",18,"NOLC1",-1.3825692,2.98e-09,-4.24264068711929
+"228","BP","GO:0000278","mitotic cell cycle",18,"KIF11",-2.72901755,2.98e-09,-4.24264068711929
+"229","BP","GO:0000278","mitotic cell cycle",18,"SKA3",-4.726603201,2.98e-09,-4.24264068711929
+"230","BP","GO:0000278","mitotic cell cycle",18,"NDC80",-2.0257484,2.98e-09,-4.24264068711929
+"231","BP","GO:0000278","mitotic cell cycle",18,"SKA1",-2.186731221,2.98e-09,-4.24264068711929
+"232","BP","GO:0000278","mitotic cell cycle",18,"AURKA",-2.157863191,2.98e-09,-4.24264068711929
+"233","BP","GO:0000278","mitotic cell cycle",18,"TPX2",-1.131678158,2.98e-09,-4.24264068711929
+"234","BP","GO:0000278","mitotic cell cycle",18,"CENPF",-2.275729701,2.98e-09,-4.24264068711929
+"235","BP","GO:0000278","mitotic cell cycle",18,"WEE1",-1.286557803,2.98e-09,-4.24264068711929
+"236","BP","GO:0000278","mitotic cell cycle",18,"TUBB2A",-1.393593431,2.98e-09,-4.24264068711929
+"237","BP","GO:0000278","mitotic cell cycle",18,"CDC23",-1.342356163,2.98e-09,-4.24264068711929
+"238","BP","GO:0000278","mitotic cell cycle",18,"PBK",-1.950818524,2.98e-09,-4.24264068711929
+"239","BP","GO:0000278","mitotic cell cycle",18,"BIRC5",-4.82778078,2.98e-09,-4.24264068711929
+"240","BP","GO:0000278","mitotic cell cycle",18,"MYBL2",-2.627598643,2.98e-09,-4.24264068711929
+"241","BP","GO:0032465","regulation of cytokinesis",5,"PRC1",-1.59537456,0.006863402,-2.23606797749979
+"242","BP","GO:0032465","regulation of cytokinesis",5,"PLK2",-1.969957039,0.006863402,-2.23606797749979
+"243","BP","GO:0032465","regulation of cytokinesis",5,"CALM3",-1.072241542,0.006863402,-2.23606797749979
+"244","BP","GO:0032465","regulation of cytokinesis",5,"KIF20A",-2.786504036,0.006863402,-2.23606797749979
+"245","BP","GO:0032465","regulation of cytokinesis",5,"AURKA",-2.157863191,0.006863402,-2.23606797749979
+"246","BP","GO:0007080","mitotic metaphase plate congression",5,"CCNB1",-2.684593035,0.006863402,-2.23606797749979
+"247","BP","GO:0007080","mitotic metaphase plate congression",5,"CDC23",-1.342356163,0.006863402,-2.23606797749979
+"248","BP","GO:0007080","mitotic metaphase plate congression",5,"CDCA5",-2.598041784,0.006863402,-2.23606797749979
+"249","BP","GO:0007080","mitotic metaphase plate congression",5,"CHMP2A",-1.145093747,0.006863402,-2.23606797749979
+"250","BP","GO:0007080","mitotic metaphase plate congression",5,"KIF2C",-1.573249981,0.006863402,-2.23606797749979
+"251","BP","GO:0000086","G2/M transition of mitotic cell cycle",7,"CCNA2",-2.514501424,0.000616,-2.64575131106459
+"252","BP","GO:0000086","G2/M transition of mitotic cell cycle",7,"WEE1",-1.286557803,0.000616,-2.64575131106459
+"253","BP","GO:0000086","G2/M transition of mitotic cell cycle",7,"CCNB1",-2.684593035,0.000616,-2.64575131106459
+"254","BP","GO:0000086","G2/M transition of mitotic cell cycle",7,"BIRC5",-4.82778078,0.000616,-2.64575131106459
+"255","BP","GO:0000086","G2/M transition of mitotic cell cycle",7,"CALM3",-1.072241542,0.000616,-2.64575131106459
+"256","BP","GO:0000086","G2/M transition of mitotic cell cycle",7,"FOXM1",-2.905928005,0.000616,-2.64575131106459
+"257","BP","GO:0000086","G2/M transition of mitotic cell cycle",7,"AURKA",-2.157863191,0.000616,-2.64575131106459
+"258","BP","GO:0090307","mitotic spindle assembly",5,"CDC20",-1.821017204,0.006297896,-2.23606797749979
+"259","BP","GO:0090307","mitotic spindle assembly",5,"TPX2",-1.131678158,0.006297896,-2.23606797749979
+"260","BP","GO:0090307","mitotic spindle assembly",5,"MYBL2",-2.627598643,0.006297896,-2.23606797749979
+"261","BP","GO:0090307","mitotic spindle assembly",5,"KIF11",-2.72901755,0.006297896,-2.23606797749979
+"262","BP","GO:0090307","mitotic spindle assembly",5,"SMC1A",-1.119516728,0.006297896,-2.23606797749979
+"263","BP","GO:0051445","regulation of meiotic cell cycle",3,"CDC20",-1.821017204,0.050063299,-1.73205080756888
+"264","BP","GO:0051445","regulation of meiotic cell cycle",3,"ASPM",-2.052538855,0.050063299,-1.73205080756888
+"265","BP","GO:0051445","regulation of meiotic cell cycle",3,"CDC23",-1.342356163,0.050063299,-1.73205080756888
+"266","BP","GO:0051231","spindle elongation",2,"KIF4A",-2.267898968,0.053311026,-1.41421356237309
+"267","BP","GO:0051231","spindle elongation",2,"KIF11",-2.72901755,0.053311026,-1.41421356237309
+"268","BP","GO:0030335","positive regulation of cell migration",10,"SEMA4A",-2.671254889,0.054821168,-3.16227766016838
+"269","BP","GO:0030335","positive regulation of cell migration",10,"EDN1",-2.600547604,0.054821168,-3.16227766016838
+"270","BP","GO:0030335","positive regulation of cell migration",10,"CLDN4",-1.801860443,0.054821168,-3.16227766016838
+"271","BP","GO:0030335","positive regulation of cell migration",10,"CEMIP",-2.552323128,0.054821168,-3.16227766016838
+"272","BP","GO:0030335","positive regulation of cell migration",10,"MIEN1",-1.055515865,0.054821168,-3.16227766016838
+"273","BP","GO:0030335","positive regulation of cell migration",10,"SEMA3C",-1.670859906,0.054821168,-3.16227766016838
+"274","BP","GO:0030335","positive regulation of cell migration",10,"FAM89B",-2.065784604,0.054821168,-3.16227766016838
+"275","BP","GO:0030335","positive regulation of cell migration",10,"CTSH",-2.030209213,0.054821168,-3.16227766016838
+"276","BP","GO:0030335","positive regulation of cell migration",10,"HPSE",-1.202283221,0.054821168,-3.16227766016838
+"277","BP","GO:0030335","positive regulation of cell migration",10,"THBS1",-2.628866139,0.054821168,-3.16227766016838
+"278","BP","GO:0001755","neural crest cell migration",4,"SEMA4A",-2.671254889,0.055913759,-2
+"279","BP","GO:0001755","neural crest cell migration",4,"KITLG",-1.676600062,0.055913759,-2
+"280","BP","GO:0001755","neural crest cell migration",4,"SEMA3C",-1.670859906,0.055913759,-2
+"281","BP","GO:0001755","neural crest cell migration",4,"HIF1A",-1.025051181,0.055913759,-2
+"282","BP","GO:0006091","generation of precursor metabolites and energy",4,"COX4I1",-1.116529179,0.055913759,-2
+"283","BP","GO:0006091","generation of precursor metabolites and energy",4,"ACO2",-1.186643572,0.055913759,-2
+"284","BP","GO:0006091","generation of precursor metabolites and energy",4,"COX6A1",-1.399900045,0.055913759,-2
+"285","BP","GO:0006091","generation of precursor metabolites and energy",4,"PPARD",-1.395993315,0.055913759,-2
+"286","BP","GO:0021762","substantia nigra development",4,"ATP5PB",-1.697656649,0.055913759,-2
+"287","BP","GO:0021762","substantia nigra development",4,"NDUFS3",-1.156225535,0.055913759,-2
+"288","BP","GO:0021762","substantia nigra development",4,"CALM3",-1.072241542,0.055913759,-2
+"289","BP","GO:0021762","substantia nigra development",4,"CKB",-1.620763286,0.055913759,-2
+"290","BP","GO:0002244","hematopoietic progenitor cell differentiation",5,"KITLG",-1.676600062,0.057169972,-2.23606797749979
+"291","BP","GO:0002244","hematopoietic progenitor cell differentiation",5,"CITED2",-1.957983703,0.057169972,-2.23606797749979
+"292","BP","GO:0002244","hematopoietic progenitor cell differentiation",5,"FST",-2.404934922,0.057169972,-2.23606797749979
+"293","BP","GO:0002244","hematopoietic progenitor cell differentiation",5,"EEF2",-1.450918315,0.057169972,-2.23606797749979
+"294","BP","GO:0002244","hematopoietic progenitor cell differentiation",5,"SSBP3",-1.395013855,0.057169972,-2.23606797749979
+"295","BP","GO:0046628","positive regulation of insulin receptor signaling pathway",3,"SERPINA12",-2.687359887,0.059455273,-1.73205080756888
+"296","BP","GO:0046628","positive regulation of insulin receptor signaling pathway",3,"ADIPOR1",-1.058440721,0.059455273,-1.73205080756888
+"297","BP","GO:0046628","positive regulation of insulin receptor signaling pathway",3,"SORL1",-1.518726004,0.059455273,-1.73205080756888
+"298","BP","GO:0006656","phosphatidylcholine biosynthetic process",3,"SLC44A5",-1.858769027,0.069395723,-1.73205080756888
+"299","BP","GO:0006656","phosphatidylcholine biosynthetic process",3,"SLC44A3",-2.149740043,0.069395723,-1.73205080756888
+"300","BP","GO:0006656","phosphatidylcholine biosynthetic process",3,"SLC44A2",-1.389592046,0.069395723,-1.73205080756888
+"301","BP","GO:0006883","cellular sodium ion homeostasis",3,"IL1A",-1.70651281,0.069395723,-1.73205080756888
+"302","BP","GO:0006883","cellular sodium ion homeostasis",3,"SCNN1G",-2.232669958,0.069395723,-1.73205080756888
+"303","BP","GO:0006883","cellular sodium ion homeostasis",3,"SCNN1B",-3.408094776,0.069395723,-1.73205080756888
+"304","BP","GO:0007049","cell cycle",12,"FANCI",-1.54434662,0.070329606,-3.46410161513775
+"305","BP","GO:0007049","cell cycle",12,"CDT1",-2.35889532,0.070329606,-3.46410161513775
+"306","BP","GO:0007049","cell cycle",12,"RGS2",-2.817782122,0.070329606,-3.46410161513775
+"307","BP","GO:0007049","cell cycle",12,"MCM7",-1.091952331,0.070329606,-3.46410161513775
+"308","BP","GO:0007049","cell cycle",12,"CDCA5",-2.598041784,0.070329606,-3.46410161513775
+"309","BP","GO:0007049","cell cycle",12,"HJURP",-3.64232181,0.070329606,-3.46410161513775
+"310","BP","GO:0007049","cell cycle",12,"BIRC5",-4.82778078,0.070329606,-3.46410161513775
+"311","BP","GO:0007049","cell cycle",12,"MCM5",-1.96770465,0.070329606,-3.46410161513775
+"312","BP","GO:0007049","cell cycle",12,"MAP3K8",-1.169600565,0.070329606,-3.46410161513775
+"313","BP","GO:0007049","cell cycle",12,"KIF11",-2.72901755,0.070329606,-3.46410161513775
+"314","BP","GO:0007049","cell cycle",12,"AURKA",-2.157863191,0.070329606,-3.46410161513775
+"315","BP","GO:0007049","cell cycle",12,"CDKN3",-2.049376083,0.070329606,-3.46410161513775
+"316","BP","GO:0002605","negative regulation of dendritic cell antigen processing and presentation",2,"CD68",-1.452604628,0.070443906,-1.41421356237309
+"317","BP","GO:0002605","negative regulation of dendritic cell antigen processing and presentation",2,"THBS1",-2.628866139,0.070443906,-1.41421356237309
+"318","BP","GO:0050914","sensory perception of salty taste",2,"SCNN1G",-2.232669958,0.070443906,-1.41421356237309
+"319","BP","GO:0050914","sensory perception of salty taste",2,"SCNN1B",-3.408094776,0.070443906,-1.41421356237309
+"320","BP","GO:0036037","CD8-positive, alpha-beta T cell activation",2,"HLA-A",-1.295197926,0.070443906,-1.41421356237309
+"321","BP","GO:0036037","CD8-positive, alpha-beta T cell activation",2,"HLA-E",-1.132489067,0.070443906,-1.41421356237309
+"322","BP","GO:0036018","cellular response to erythropoietin",2,"MT2A",-1.969428476,0.070443906,-1.41421356237309
+"323","BP","GO:0036018","cellular response to erythropoietin",2,"MT1X",-1.60863761,0.070443906,-1.41421356237309
+"324","BP","GO:0002455","humoral immune response mediated by circulating immunoglobulin",2,"EXO1",-4.482640167,0.070443906,-1.41421356237309
+"325","BP","GO:0002455","humoral immune response mediated by circulating immunoglobulin",2,"CD81",-1.046762265,0.070443906,-1.41421356237309
+"326","BP","GO:2000566","positive regulation of CD8-positive, alpha-beta T cell proliferation",2,"HLA-A",-1.295197926,0.070443906,-1.41421356237309
+"327","BP","GO:2000566","positive regulation of CD8-positive, alpha-beta T cell proliferation",2,"HLA-E",-1.132489067,0.070443906,-1.41421356237309
+"328","BP","GO:0036254","cellular response to amiloride",2,"SCNN1G",-2.232669958,0.070443906,-1.41421356237309
+"329","BP","GO:0036254","cellular response to amiloride",2,"SCNN1B",-3.408094776,0.070443906,-1.41421356237309
+"330","BP","GO:0019884","antigen processing and presentation of exogenous antigen",2,"PSME1",-1.975073203,0.070443906,-1.41421356237309
+"331","BP","GO:0019884","antigen processing and presentation of exogenous antigen",2,"PSME2",-1.422399127,0.070443906,-1.41421356237309
+"332","BP","GO:1905342","positive regulation of protein localization to kinetochore",2,"CDT1",-2.35889532,0.070443906,-1.41421356237309
+"333","BP","GO:1905342","positive regulation of protein localization to kinetochore",2,"NDC80",-2.0257484,0.070443906,-1.41421356237309
+"334","BP","GO:1905448","positive regulation of mitochondrial ATP synthesis coupled electron transport",2,"CHCHD2",-1.591962218,0.070443906,-1.41421356237309
+"335","BP","GO:1905448","positive regulation of mitochondrial ATP synthesis coupled electron transport",2,"CCNB1",-2.684593035,0.070443906,-1.41421356237309
+"336","BP","GO:0099638","endosome to plasma membrane protein transport",2,"ATP6AP1",-1.045449619,0.070443906,-1.41421356237309
+"337","BP","GO:0099638","endosome to plasma membrane protein transport",2,"SORL1",-1.518726004,0.070443906,-1.41421356237309
+"338","BP","GO:0006260","DNA replication",6,"POLA2",-2.339056029,0.070920767,-2.44948974278318
+"339","BP","GO:0006260","DNA replication",6,"RRM2",-2.568059954,0.070920767,-2.44948974278318
+"340","BP","GO:0006260","DNA replication",6,"MCM7",-1.091952331,0.070920767,-2.44948974278318
+"341","BP","GO:0006260","DNA replication",6,"NAP1L1",-1.12538441,0.070920767,-2.44948974278318
+"342","BP","GO:0006260","DNA replication",6,"MCM5",-1.96770465,0.070920767,-2.44948974278318
+"343","BP","GO:0006260","DNA replication",6,"SSRP1",-1.192686714,0.070920767,-2.44948974278318
+"344","BP","GO:0008284","positive regulation of cell proliferation",16,"EDN1",-2.600547604,0.071793498,-4
+"345","BP","GO:0008284","positive regulation of cell proliferation",16,"CD81",-1.046762265,0.071793498,-4
+"346","BP","GO:0008284","positive regulation of cell proliferation",16,"NOLC1",-1.3825692,0.071793498,-4
+"347","BP","GO:0008284","positive regulation of cell proliferation",16,"NAP1L1",-1.12538441,0.071793498,-4
+"348","BP","GO:0008284","positive regulation of cell proliferation",16,"FOXM1",-2.905928005,0.071793498,-4
+"349","BP","GO:0008284","positive regulation of cell proliferation",16,"THBS1",-2.628866139,0.071793498,-4
+"350","BP","GO:0008284","positive regulation of cell proliferation",16,"DPP4",-2.491068494,0.071793498,-4
+"351","BP","GO:0008284","positive regulation of cell proliferation",16,"CDC20",-1.821017204,0.071793498,-4
+"352","BP","GO:0008284","positive regulation of cell proliferation",16,"KITLG",-1.676600062,0.071793498,-4
+"353","BP","GO:0008284","positive regulation of cell proliferation",16,"SAPCD2",-4.003650157,0.071793498,-4
+"354","BP","GO:0008284","positive regulation of cell proliferation",16,"PRC1",-1.59537456,0.071793498,-4
+"355","BP","GO:0008284","positive regulation of cell proliferation",16,"ID4",-2.318190195,0.071793498,-4
+"356","BP","GO:0008284","positive regulation of cell proliferation",16,"CTSH",-2.030209213,0.071793498,-4
+"357","BP","GO:0008284","positive regulation of cell proliferation",16,"BIRC5",-4.82778078,0.071793498,-4
+"358","BP","GO:0008284","positive regulation of cell proliferation",16,"HPSE",-1.202283221,0.071793498,-4
+"359","BP","GO:0008284","positive regulation of cell proliferation",16,"SSBP3",-1.395013855,0.071793498,-4
+"360","BP","GO:0000079","regulation of cyclin-dependent protein serine/threonine kinase activity",4,"CCNA2",-2.514501424,0.074194235,-2
+"361","BP","GO:0000079","regulation of cyclin-dependent protein serine/threonine kinase activity",4,"CCNB2",-1.603112433,0.074194235,-2
+"362","BP","GO:0000079","regulation of cyclin-dependent protein serine/threonine kinase activity",4,"CCNB1",-2.684593035,0.074194235,-2
+"363","BP","GO:0000079","regulation of cyclin-dependent protein serine/threonine kinase activity",4,"CDKN3",-2.049376083,0.074194235,-2
+"364","BP","GO:0044772","mitotic cell cycle phase transition",3,"CCNA2",-2.514501424,0.074555519,-1.73205080756888
+"365","BP","GO:0044772","mitotic cell cycle phase transition",3,"CCNB2",-1.603112433,0.074555519,-1.73205080756888
+"366","BP","GO:0044772","mitotic cell cycle phase transition",3,"CCNB1",-2.684593035,0.074555519,-1.73205080756888
+"367","BP","GO:0051000","positive regulation of nitric-oxide synthase activity",3,"SCARB1",-1.170384899,0.074555519,-1.73205080756888
+"368","BP","GO:0051000","positive regulation of nitric-oxide synthase activity",3,"CALM3",-1.072241542,0.074555519,-1.73205080756888
+"369","BP","GO:0051000","positive regulation of nitric-oxide synthase activity",3,"HIF1A",-1.025051181,0.074555519,-1.73205080756888
+"370","BP","GO:0045786","negative regulation of cell cycle",4,"CDT1",-2.35889532,0.077469306,-2
+"371","BP","GO:0045786","negative regulation of cell cycle",4,"GMNN",-2.486087765,0.077469306,-2
+"372","BP","GO:0045786","negative regulation of cell cycle",4,"TENT5B",-1.687621541,0.077469306,-2
+"373","BP","GO:0045786","negative regulation of cell cycle",4,"RHOB",-1.290393131,0.077469306,-2
+"374","BP","GO:0045766","positive regulation of angiogenesis",7,"IL1A",-1.70651281,0.081585939,-2.64575131106459
+"375","BP","GO:0045766","positive regulation of angiogenesis",7,"GAB1",-1.4096689,0.081585939,-2.64575131106459
+"376","BP","GO:0045766","positive regulation of angiogenesis",7,"CTSH",-2.030209213,0.081585939,-2.64575131106459
+"377","BP","GO:0045766","positive regulation of angiogenesis",7,"HPSE",-1.202283221,0.081585939,-2.64575131106459
+"378","BP","GO:0045766","positive regulation of angiogenesis",7,"THBS1",-2.628866139,0.081585939,-2.64575131106459
+"379","BP","GO:0045766","positive regulation of angiogenesis",7,"HIF1A",-1.025051181,0.081585939,-2.64575131106459
+"380","BP","GO:0045766","positive regulation of angiogenesis",7,"RHOB",-1.290393131,0.081585939,-2.64575131106459
+"381","BP","GO:0043616","keratinocyte proliferation",3,"FST",-2.404934922,0.085223664,-1.73205080756888
+"382","BP","GO:0043616","keratinocyte proliferation",3,"OVOL1",-1.769348052,0.085223664,-1.73205080756888
+"383","BP","GO:0043616","keratinocyte proliferation",3,"PPARD",-1.395993315,0.085223664,-1.73205080756888
+"384","BP","GO:0051754","meiotic sister chromatid cohesion, centromeric",2,"BUB1B",-2.431458242,0.087267586,-1.41421356237309
+"385","BP","GO:0051754","meiotic sister chromatid cohesion, centromeric",2,"BUB1",-2.28040653,0.087267586,-1.41421356237309
+"386","BP","GO:0006196","AMP catabolic process",2,"NT5E",-1.549835425,0.087267586,-1.41421356237309
+"387","BP","GO:0006196","AMP catabolic process",2,"XDH",-1.289665508,0.087267586,-1.41421356237309
+"388","BP","GO:0002248","connective tissue replacement involved in inflammatory response wound healing",2,"IL1A",-1.70651281,0.087267586,-1.41421356237309
+"389","BP","GO:0002248","connective tissue replacement involved in inflammatory response wound healing",2,"HIF1A",-1.025051181,0.087267586,-1.41421356237309
+"390","BP","GO:0036343","psychomotor behavior",2,"DPP4",-2.491068494,0.087267586,-1.41421356237309
+"391","BP","GO:0036343","psychomotor behavior",2,"C12ORF57",-1.225694921,0.087267586,-1.41421356237309
+"392","BP","GO:0035307","positive regulation of protein dephosphorylation",3,"PPP1R7",-1.32746383,0.090720313,-1.73205080756888
+"393","BP","GO:0035307","positive regulation of protein dephosphorylation",3,"CALM3",-1.072241542,0.090720313,-1.73205080756888
+"394","BP","GO:0035307","positive regulation of protein dephosphorylation",3,"SPPL3",-1.407346071,0.090720313,-1.73205080756888
+"395","CC","GO:0005634","nucleus",147,"EHF",-1.789242368,3.96e-05,-12.1243556529821
+"396","CC","GO:0005634","nucleus",147,"GMNN",-2.486087765,3.96e-05,-12.1243556529821
+"397","CC","GO:0005634","nucleus",147,"MT1M",-2.056889318,3.96e-05,-12.1243556529821
+"398","CC","GO:0005634","nucleus",147,"CTNND1",-1.41642079,3.96e-05,-12.1243556529821
+"399","CC","GO:0005634","nucleus",147,"HJURP",-3.64232181,3.96e-05,-12.1243556529821
+"400","CC","GO:0005634","nucleus",147,"TESK2",-1.716306795,3.96e-05,-12.1243556529821
+"401","CC","GO:0005634","nucleus",147,"BUB1B",-2.431458242,3.96e-05,-12.1243556529821
+"402","CC","GO:0005634","nucleus",147,"MT1X",-1.60863761,3.96e-05,-12.1243556529821
+"403","CC","GO:0005634","nucleus",147,"IPO4",-1.134928104,3.96e-05,-12.1243556529821
+"404","CC","GO:0005634","nucleus",147,"RGS2",-2.817782122,3.96e-05,-12.1243556529821
+"405","CC","GO:0005634","nucleus",147,"MT2A",-1.969428476,3.96e-05,-12.1243556529821
+"406","CC","GO:0005634","nucleus",147,"CHCHD2",-1.591962218,3.96e-05,-12.1243556529821
+"407","CC","GO:0005634","nucleus",147,"ZSCAN31",-1.568817147,3.96e-05,-12.1243556529821
+"408","CC","GO:0005634","nucleus",147,"SESN3",-1.155057082,3.96e-05,-12.1243556529821
+"409","CC","GO:0005634","nucleus",147,"RASSF5",-1.662901138,3.96e-05,-12.1243556529821
+"410","CC","GO:0005634","nucleus",147,"COTL1",-1.895838907,3.96e-05,-12.1243556529821
+"411","CC","GO:0005634","nucleus",147,"CHP1",-1.070573012,3.96e-05,-12.1243556529821
+"412","CC","GO:0005634","nucleus",147,"KRT4",-4.458252913,3.96e-05,-12.1243556529821
+"413","CC","GO:0005634","nucleus",147,"MSX2",-1.108137438,3.96e-05,-12.1243556529821
+"414","CC","GO:0005634","nucleus",147,"FST",-2.404934922,3.96e-05,-12.1243556529821
+"415","CC","GO:0005634","nucleus",147,"LMO7",-1.657564928,3.96e-05,-12.1243556529821
+"416","CC","GO:0005634","nucleus",147,"OVOL1",-1.769348052,3.96e-05,-12.1243556529821
+"417","CC","GO:0005634","nucleus",147,"JMJD8",-1.595740804,3.96e-05,-12.1243556529821
+"418","CC","GO:0005634","nucleus",147,"KRT9",-2.829013809,3.96e-05,-12.1243556529821
+"419","CC","GO:0005634","nucleus",147,"OLFM2",-1.116971634,3.96e-05,-12.1243556529821
+"420","CC","GO:0005634","nucleus",147,"NCL",-1.298388981,3.96e-05,-12.1243556529821
+"421","CC","GO:0005634","nucleus",147,"RBP1",-5.622330943,3.96e-05,-12.1243556529821
+"422","CC","GO:0005634","nucleus",147,"HAT1",-1.007231052,3.96e-05,-12.1243556529821
+"423","CC","GO:0005634","nucleus",147,"MT1F",-1.803003006,3.96e-05,-12.1243556529821
+"424","CC","GO:0005634","nucleus",147,"MT1H",-1.769156201,3.96e-05,-12.1243556529821
+"425","CC","GO:0005634","nucleus",147,"KIF20A",-2.786504036,3.96e-05,-12.1243556529821
+"426","CC","GO:0005634","nucleus",147,"SNRPF",-1.013021811,3.96e-05,-12.1243556529821
+"427","CC","GO:0005634","nucleus",147,"MT1E",-2.340707108,3.96e-05,-12.1243556529821
+"428","CC","GO:0005634","nucleus",147,"FLG",-1.861645474,3.96e-05,-12.1243556529821
+"429","CC","GO:0005634","nucleus",147,"CEMIP",-2.552323128,3.96e-05,-12.1243556529821
+"430","CC","GO:0005634","nucleus",147,"PSMD13",-1.110225223,3.96e-05,-12.1243556529821
+"431","CC","GO:0005634","nucleus",147,"DLX5",-1.977683911,3.96e-05,-12.1243556529821
+"432","CC","GO:0005634","nucleus",147,"CDCA5",-2.598041784,3.96e-05,-12.1243556529821
+"433","CC","GO:0005634","nucleus",147,"NCAPG",-3.081687148,3.96e-05,-12.1243556529821
+"434","CC","GO:0005634","nucleus",147,"WDR62",-1.504383964,3.96e-05,-12.1243556529821
+"435","CC","GO:0005634","nucleus",147,"RPS4Y1",-1.425424457,3.96e-05,-12.1243556529821
+"436","CC","GO:0005634","nucleus",147,"HIF1A",-1.025051181,3.96e-05,-12.1243556529821
+"437","CC","GO:0005634","nucleus",147,"GLIS1",-2.065154303,3.96e-05,-12.1243556529821
+"438","CC","GO:0005634","nucleus",147,"HSP90B1",-1.080957784,3.96e-05,-12.1243556529821
+"439","CC","GO:0005634","nucleus",147,"CCNB2",-1.603112433,3.96e-05,-12.1243556529821
+"440","CC","GO:0005634","nucleus",147,"CCNB1",-2.684593035,3.96e-05,-12.1243556529821
+"441","CC","GO:0005634","nucleus",147,"PDZD2",-1.477018252,3.96e-05,-12.1243556529821
+"442","CC","GO:0005634","nucleus",147,"NTHL1",-2.231204467,3.96e-05,-12.1243556529821
+"443","CC","GO:0005634","nucleus",147,"SERF2",-1.491131941,3.96e-05,-12.1243556529821
+"444","CC","GO:0005634","nucleus",147,"SAC3D1",-1.954837022,3.96e-05,-12.1243556529821
+"445","CC","GO:0005634","nucleus",147,"ZBTB7C",-2.507242384,3.96e-05,-12.1243556529821
+"446","CC","GO:0005634","nucleus",147,"MFAP3L",-2.010162163,3.96e-05,-12.1243556529821
+"447","CC","GO:0005634","nucleus",147,"BTF3",-1.086859698,3.96e-05,-12.1243556529821
+"448","CC","GO:0005634","nucleus",147,"CDT1",-2.35889532,3.96e-05,-12.1243556529821
+"449","CC","GO:0005634","nucleus",147,"TFAP2C",-1.18423657,3.96e-05,-12.1243556529821
+"450","CC","GO:0005634","nucleus",147,"CBX4",-1.274258813,3.96e-05,-12.1243556529821
+"451","CC","GO:0005634","nucleus",147,"BCL11B",-1.688387658,3.96e-05,-12.1243556529821
+"452","CC","GO:0005634","nucleus",147,"UBE2C",-1.563087107,3.96e-05,-12.1243556529821
+"453","CC","GO:0005634","nucleus",147,"PLK2",-1.969957039,3.96e-05,-12.1243556529821
+"454","CC","GO:0005634","nucleus",147,"XRCC1",-1.282590157,3.96e-05,-12.1243556529821
+"455","CC","GO:0005634","nucleus",147,"ISG15",-2.361451804,3.96e-05,-12.1243556529821
+"456","CC","GO:0005634","nucleus",147,"MT4",-3.622877963,3.96e-05,-12.1243556529821
+"457","CC","GO:0005634","nucleus",147,"EEF2",-1.450918315,3.96e-05,-12.1243556529821
+"458","CC","GO:0005634","nucleus",147,"NDC80",-2.0257484,3.96e-05,-12.1243556529821
+"459","CC","GO:0005634","nucleus",147,"TPX2",-1.131678158,3.96e-05,-12.1243556529821
+"460","CC","GO:0005634","nucleus",147,"POLA2",-2.339056029,3.96e-05,-12.1243556529821
+"461","CC","GO:0005634","nucleus",147,"MAFB",-1.064133743,3.96e-05,-12.1243556529821
+"462","CC","GO:0005634","nucleus",147,"DIAPH3",-1.641180252,3.96e-05,-12.1243556529821
+"463","CC","GO:0005634","nucleus",147,"NACA",-1.176857262,3.96e-05,-12.1243556529821
+"464","CC","GO:0005634","nucleus",147,"ID4",-2.318190195,3.96e-05,-12.1243556529821
+"465","CC","GO:0005634","nucleus",147,"CALM3",-1.072241542,3.96e-05,-12.1243556529821
+"466","CC","GO:0005634","nucleus",147,"BLMH",-1.846850819,3.96e-05,-12.1243556529821
+"467","CC","GO:0005634","nucleus",147,"HPSE",-1.202283221,3.96e-05,-12.1243556529821
+"468","CC","GO:0005634","nucleus",147,"COPS8",-1.104877039,3.96e-05,-12.1243556529821
+"469","CC","GO:0005634","nucleus",147,"MCM7",-1.091952331,3.96e-05,-12.1243556529821
+"470","CC","GO:0005634","nucleus",147,"CITED2",-1.957983703,3.96e-05,-12.1243556529821
+"471","CC","GO:0005634","nucleus",147,"ZFAS1",-1.664785082,3.96e-05,-12.1243556529821
+"472","CC","GO:0005634","nucleus",147,"HSPB8",-1.089837736,3.96e-05,-12.1243556529821
+"473","CC","GO:0005634","nucleus",147,"TECR",-1.324569629,3.96e-05,-12.1243556529821
+"474","CC","GO:0005634","nucleus",147,"NCAPG2",-1.982152002,3.96e-05,-12.1243556529821
+"475","CC","GO:0005634","nucleus",147,"ZBTB8OS",-1.224379697,3.96e-05,-12.1243556529821
+"476","CC","GO:0005634","nucleus",147,"MCM10",-2.71408145,3.96e-05,-12.1243556529821
+"477","CC","GO:0005634","nucleus",147,"YBX1",-1.211529865,3.96e-05,-12.1243556529821
+"478","CC","GO:0005634","nucleus",147,"KIF11",-2.72901755,3.96e-05,-12.1243556529821
+"479","CC","GO:0005634","nucleus",147,"FOXM1",-2.905928005,3.96e-05,-12.1243556529821
+"480","CC","GO:0005634","nucleus",147,"NAT14",-1.802976909,3.96e-05,-12.1243556529821
+"481","CC","GO:0005634","nucleus",147,"EXO1",-4.482640167,3.96e-05,-12.1243556529821
+"482","CC","GO:0005634","nucleus",147,"PBK",-1.950818524,3.96e-05,-12.1243556529821
+"483","CC","GO:0005634","nucleus",147,"IDH3B",-1.237215398,3.96e-05,-12.1243556529821
+"484","CC","GO:0005634","nucleus",147,"TIMP3",-1.66846169,3.96e-05,-12.1243556529821
+"485","CC","GO:0005634","nucleus",147,"MYBL2",-2.627598643,3.96e-05,-12.1243556529821
+"486","CC","GO:0005634","nucleus",147,"DLGAP5",-2.765225513,3.96e-05,-12.1243556529821
+"487","CC","GO:0005634","nucleus",147,"ZNF385A",-2.022756251,3.96e-05,-12.1243556529821
+"488","CC","GO:0005634","nucleus",147,"ZHX3",-1.441465967,3.96e-05,-12.1243556529821
+"489","CC","GO:0005634","nucleus",147,"ARG1",-1.909387625,3.96e-05,-12.1243556529821
+"490","CC","GO:0005634","nucleus",147,"COMMD1",-1.05381083,3.96e-05,-12.1243556529821
+"491","CC","GO:0005634","nucleus",147,"SMC1A",-1.119516728,3.96e-05,-12.1243556529821
+"492","CC","GO:0005634","nucleus",147,"TENT5B",-1.687621541,3.96e-05,-12.1243556529821
+"493","CC","GO:0005634","nucleus",147,"REXO2",-1.240819995,3.96e-05,-12.1243556529821
+"494","CC","GO:0005634","nucleus",147,"RHOB",-1.290393131,3.96e-05,-12.1243556529821
+"495","CC","GO:0005634","nucleus",147,"CCNA2",-2.514501424,3.96e-05,-12.1243556529821
+"496","CC","GO:0005634","nucleus",147,"ASPM",-2.052538855,3.96e-05,-12.1243556529821
+"497","CC","GO:0005634","nucleus",147,"IL1A",-1.70651281,3.96e-05,-12.1243556529821
+"498","CC","GO:0005634","nucleus",147,"MN1",-1.6765374,3.96e-05,-12.1243556529821
+"499","CC","GO:0005634","nucleus",147,"ARL4A",-1.073056787,3.96e-05,-12.1243556529821
+"500","CC","GO:0005634","nucleus",147,"TUBB2A",-1.393593431,3.96e-05,-12.1243556529821
+"501","CC","GO:0005634","nucleus",147,"PSMA2",-1.33808643,3.96e-05,-12.1243556529821
+"502","CC","GO:0005634","nucleus",147,"PELI1",-1.065135426,3.96e-05,-12.1243556529821
+"503","CC","GO:0005634","nucleus",147,"BIRC5",-4.82778078,3.96e-05,-12.1243556529821
+"504","CC","GO:0005634","nucleus",147,"MCM5",-1.96770465,3.96e-05,-12.1243556529821
+"505","CC","GO:0005634","nucleus",147,"NAA38",-1.422779801,3.96e-05,-12.1243556529821
+"506","CC","GO:0005634","nucleus",147,"KIF2C",-1.573249981,3.96e-05,-12.1243556529821
+"507","CC","GO:0005634","nucleus",147,"PABPC1",-1.395569488,3.96e-05,-12.1243556529821
+"508","CC","GO:0005634","nucleus",147,"SGK1",-1.289630285,3.96e-05,-12.1243556529821
+"509","CC","GO:0005634","nucleus",147,"PFDN5",-1.124167798,3.96e-05,-12.1243556529821
+"510","CC","GO:0005634","nucleus",147,"CRYAB",-1.075511568,3.96e-05,-12.1243556529821
+"511","CC","GO:0005634","nucleus",147,"PPARD",-1.395993315,3.96e-05,-12.1243556529821
+"512","CC","GO:0005634","nucleus",147,"HDAC5",-1.39987283,3.96e-05,-12.1243556529821
+"513","CC","GO:0005634","nucleus",147,"ATF6B",-1.246812951,3.96e-05,-12.1243556529821
+"514","CC","GO:0005634","nucleus",147,"NXN",-1.063158904,3.96e-05,-12.1243556529821
+"515","CC","GO:0005634","nucleus",147,"TYMS",-3.302288382,3.96e-05,-12.1243556529821
+"516","CC","GO:0005634","nucleus",147,"AURKA",-2.157863191,3.96e-05,-12.1243556529821
+"517","CC","GO:0005634","nucleus",147,"PSMB6",-1.149097968,3.96e-05,-12.1243556529821
+"518","CC","GO:0005634","nucleus",147,"PPP1R7",-1.32746383,3.96e-05,-12.1243556529821
+"519","CC","GO:0005634","nucleus",147,"POLR2F",-1.359421471,3.96e-05,-12.1243556529821
+"520","CC","GO:0005634","nucleus",147,"TNNI2",-4.967354523,3.96e-05,-12.1243556529821
+"521","CC","GO:0005634","nucleus",147,"CKB",-1.620763286,3.96e-05,-12.1243556529821
+"522","CC","GO:0005634","nucleus",147,"GBP2",-1.961905339,3.96e-05,-12.1243556529821
+"523","CC","GO:0005634","nucleus",147,"FILIP1L",-2.589443978,3.96e-05,-12.1243556529821
+"524","CC","GO:0005634","nucleus",147,"RPL18",-1.850670338,3.96e-05,-12.1243556529821
+"525","CC","GO:0005634","nucleus",147,"BUB1",-2.28040653,3.96e-05,-12.1243556529821
+"526","CC","GO:0005634","nucleus",147,"POLR2K",-1.016799002,3.96e-05,-12.1243556529821
+"527","CC","GO:0005634","nucleus",147,"RRM2",-2.568059954,3.96e-05,-12.1243556529821
+"528","CC","GO:0005634","nucleus",147,"ATP5PB",-1.697656649,3.96e-05,-12.1243556529821
+"529","CC","GO:0005634","nucleus",147,"NAP1L1",-1.12538441,3.96e-05,-12.1243556529821
+"530","CC","GO:0005634","nucleus",147,"SSRP1",-1.192686714,3.96e-05,-12.1243556529821
+"531","CC","GO:0005634","nucleus",147,"GRHL1",-1.733399076,3.96e-05,-12.1243556529821
+"532","CC","GO:0005634","nucleus",147,"CENPF",-2.275729701,3.96e-05,-12.1243556529821
+"533","CC","GO:0005634","nucleus",147,"WEE1",-1.286557803,3.96e-05,-12.1243556529821
+"534","CC","GO:0005634","nucleus",147,"PSMC5",-1.209862249,3.96e-05,-12.1243556529821
+"535","CC","GO:0005634","nucleus",147,"PRC1",-1.59537456,3.96e-05,-12.1243556529821
+"536","CC","GO:0005634","nucleus",147,"KRT15",-2.668777092,3.96e-05,-12.1243556529821
+"537","CC","GO:0005634","nucleus",147,"CDK2AP2",-1.306678576,3.96e-05,-12.1243556529821
+"538","CC","GO:0005634","nucleus",147,"TRIP13",-1.921303468,3.96e-05,-12.1243556529821
+"539","CC","GO:0005634","nucleus",147,"PFKM",-1.413282314,3.96e-05,-12.1243556529821
+"540","CC","GO:0005634","nucleus",147,"SSBP3",-1.395013855,3.96e-05,-12.1243556529821
+"541","CC","GO:0005634","nucleus",147,"CDKN3",-2.049376083,3.96e-05,-12.1243556529821
+"542","CC","GO:0005737","cytoplasm",142,"SCARB1",-1.170384899,2.02e-05,-11.916375287813
+"543","CC","GO:0005737","cytoplasm",142,"FAM89B",-2.065784604,2.02e-05,-11.916375287813
+"544","CC","GO:0005737","cytoplasm",142,"GMNN",-2.486087765,2.02e-05,-11.916375287813
+"545","CC","GO:0005737","cytoplasm",142,"MT1M",-2.056889318,2.02e-05,-11.916375287813
+"546","CC","GO:0005737","cytoplasm",142,"CTNND1",-1.41642079,2.02e-05,-11.916375287813
+"547","CC","GO:0005737","cytoplasm",142,"TESK2",-1.716306795,2.02e-05,-11.916375287813
+"548","CC","GO:0005737","cytoplasm",142,"BUB1B",-2.431458242,2.02e-05,-11.916375287813
+"549","CC","GO:0005737","cytoplasm",142,"MT1X",-1.60863761,2.02e-05,-11.916375287813
+"550","CC","GO:0005737","cytoplasm",142,"ABCA12",-1.40790804,2.02e-05,-11.916375287813
+"551","CC","GO:0005737","cytoplasm",142,"IFIT1",-3.244996513,2.02e-05,-11.916375287813
+"552","CC","GO:0005737","cytoplasm",142,"AQP3",-1.796641483,2.02e-05,-11.916375287813
+"553","CC","GO:0005737","cytoplasm",142,"IPO4",-1.134928104,2.02e-05,-11.916375287813
+"554","CC","GO:0005737","cytoplasm",142,"RGS2",-2.817782122,2.02e-05,-11.916375287813
+"555","CC","GO:0005737","cytoplasm",142,"MT2A",-1.969428476,2.02e-05,-11.916375287813
+"556","CC","GO:0005737","cytoplasm",142,"CDC23",-1.342356163,2.02e-05,-11.916375287813
+"557","CC","GO:0005737","cytoplasm",142,"SESN3",-1.155057082,2.02e-05,-11.916375287813
+"558","CC","GO:0005737","cytoplasm",142,"LAMP1",-1.142189529,2.02e-05,-11.916375287813
+"559","CC","GO:0005737","cytoplasm",142,"RASSF5",-1.662901138,2.02e-05,-11.916375287813
+"560","CC","GO:0005737","cytoplasm",142,"STMN1",-1.190750809,2.02e-05,-11.916375287813
+"561","CC","GO:0005737","cytoplasm",142,"CHP1",-1.070573012,2.02e-05,-11.916375287813
+"562","CC","GO:0005737","cytoplasm",142,"TGM5",-3.147235824,2.02e-05,-11.916375287813
+"563","CC","GO:0005737","cytoplasm",142,"RPS10",-1.567035363,2.02e-05,-11.916375287813
+"564","CC","GO:0005737","cytoplasm",142,"TGM3",-3.110713324,2.02e-05,-11.916375287813
+"565","CC","GO:0005737","cytoplasm",142,"FST",-2.404934922,2.02e-05,-11.916375287813
+"566","CC","GO:0005737","cytoplasm",142,"SLC30A1",-1.854810717,2.02e-05,-11.916375287813
+"567","CC","GO:0005737","cytoplasm",142,"DNAAF5",-1.290488311,2.02e-05,-11.916375287813
+"568","CC","GO:0005737","cytoplasm",142,"LMO7",-1.657564928,2.02e-05,-11.916375287813
+"569","CC","GO:0005737","cytoplasm",142,"JMJD8",-1.595740804,2.02e-05,-11.916375287813
+"570","CC","GO:0005737","cytoplasm",142,"INPP4B",-2.59563884,2.02e-05,-11.916375287813
+"571","CC","GO:0005737","cytoplasm",142,"OLFM2",-1.116971634,2.02e-05,-11.916375287813
+"572","CC","GO:0005737","cytoplasm",142,"NCL",-1.298388981,2.02e-05,-11.916375287813
+"573","CC","GO:0005737","cytoplasm",142,"PSME1",-1.975073203,2.02e-05,-11.916375287813
+"574","CC","GO:0005737","cytoplasm",142,"MT1F",-1.803003006,2.02e-05,-11.916375287813
+"575","CC","GO:0005737","cytoplasm",142,"GEMIN4",-1.045195773,2.02e-05,-11.916375287813
+"576","CC","GO:0005737","cytoplasm",142,"PSME2",-1.422399127,2.02e-05,-11.916375287813
+"577","CC","GO:0005737","cytoplasm",142,"MT1H",-1.769156201,2.02e-05,-11.916375287813
+"578","CC","GO:0005737","cytoplasm",142,"SPATA18",-2.607111824,2.02e-05,-11.916375287813
+"579","CC","GO:0005737","cytoplasm",142,"MT1E",-2.340707108,2.02e-05,-11.916375287813
+"580","CC","GO:0005737","cytoplasm",142,"CEMIP",-2.552323128,2.02e-05,-11.916375287813
+"581","CC","GO:0005737","cytoplasm",142,"DLX5",-1.977683911,2.02e-05,-11.916375287813
+"582","CC","GO:0005737","cytoplasm",142,"CDCA5",-2.598041784,2.02e-05,-11.916375287813
+"583","CC","GO:0005737","cytoplasm",142,"NOLC1",-1.3825692,2.02e-05,-11.916375287813
+"584","CC","GO:0005737","cytoplasm",142,"NCAPG",-3.081687148,2.02e-05,-11.916375287813
+"585","CC","GO:0005737","cytoplasm",142,"HMMR",-2.168856182,2.02e-05,-11.916375287813
+"586","CC","GO:0005737","cytoplasm",142,"DDX60",-2.117877531,2.02e-05,-11.916375287813
+"587","CC","GO:0005737","cytoplasm",142,"MTMR4",-1.106603349,2.02e-05,-11.916375287813
+"588","CC","GO:0005737","cytoplasm",142,"HIF1A",-1.025051181,2.02e-05,-11.916375287813
+"589","CC","GO:0005737","cytoplasm",142,"C12ORF57",-1.225694921,2.02e-05,-11.916375287813
+"590","CC","GO:0005737","cytoplasm",142,"CCNB2",-1.603112433,2.02e-05,-11.916375287813
+"591","CC","GO:0005737","cytoplasm",142,"CCNB1",-2.684593035,2.02e-05,-11.916375287813
+"592","CC","GO:0005737","cytoplasm",142,"PDZD2",-1.477018252,2.02e-05,-11.916375287813
+"593","CC","GO:0005737","cytoplasm",142,"EIF4EBP3",-1.113263999,2.02e-05,-11.916375287813
+"594","CC","GO:0005737","cytoplasm",142,"SAC3D1",-1.954837022,2.02e-05,-11.916375287813
+"595","CC","GO:0005737","cytoplasm",142,"SPRR2D",-2.390796129,2.02e-05,-11.916375287813
+"596","CC","GO:0005737","cytoplasm",142,"MFAP3L",-2.010162163,2.02e-05,-11.916375287813
+"597","CC","GO:0005737","cytoplasm",142,"FANCI",-1.54434662,2.02e-05,-11.916375287813
+"598","CC","GO:0005737","cytoplasm",142,"BTF3",-1.086859698,2.02e-05,-11.916375287813
+"599","CC","GO:0005737","cytoplasm",142,"RPL41",-1.123259734,2.02e-05,-11.916375287813
+"600","CC","GO:0005737","cytoplasm",142,"TPRG1",-4.368723737,2.02e-05,-11.916375287813
+"601","CC","GO:0005737","cytoplasm",142,"PLK2",-1.969957039,2.02e-05,-11.916375287813
+"602","CC","GO:0005737","cytoplasm",142,"IFI44",-1.889240071,2.02e-05,-11.916375287813
+"603","CC","GO:0005737","cytoplasm",142,"ISG15",-2.361451804,2.02e-05,-11.916375287813
+"604","CC","GO:0005737","cytoplasm",142,"CNFN",-1.717754922,2.02e-05,-11.916375287813
+"605","CC","GO:0005737","cytoplasm",142,"MT4",-3.622877963,2.02e-05,-11.916375287813
+"606","CC","GO:0005737","cytoplasm",142,"EEF2",-1.450918315,2.02e-05,-11.916375287813
+"607","CC","GO:0005737","cytoplasm",142,"MRPL21",-1.395459458,2.02e-05,-11.916375287813
+"608","CC","GO:0005737","cytoplasm",142,"NDC80",-2.0257484,2.02e-05,-11.916375287813
+"609","CC","GO:0005737","cytoplasm",142,"IL1F10",-2.238672501,2.02e-05,-11.916375287813
+"610","CC","GO:0005737","cytoplasm",142,"TPX2",-1.131678158,2.02e-05,-11.916375287813
+"611","CC","GO:0005737","cytoplasm",142,"DIAPH3",-1.641180252,2.02e-05,-11.916375287813
+"612","CC","GO:0005737","cytoplasm",142,"NACA",-1.176857262,2.02e-05,-11.916375287813
+"613","CC","GO:0005737","cytoplasm",142,"KIF4A",-2.267898968,2.02e-05,-11.916375287813
+"614","CC","GO:0005737","cytoplasm",142,"ID4",-2.318190195,2.02e-05,-11.916375287813
+"615","CC","GO:0005737","cytoplasm",142,"CALM3",-1.072241542,2.02e-05,-11.916375287813
+"616","CC","GO:0005737","cytoplasm",142,"BLMH",-1.846850819,2.02e-05,-11.916375287813
+"617","CC","GO:0005737","cytoplasm",142,"COPS8",-1.104877039,2.02e-05,-11.916375287813
+"618","CC","GO:0005737","cytoplasm",142,"GSDME",-1.223861174,2.02e-05,-11.916375287813
+"619","CC","GO:0005737","cytoplasm",142,"CITED2",-1.957983703,2.02e-05,-11.916375287813
+"620","CC","GO:0005737","cytoplasm",142,"ZFAS1",-1.664785082,2.02e-05,-11.916375287813
+"621","CC","GO:0005737","cytoplasm",142,"HSPB8",-1.089837736,2.02e-05,-11.916375287813
+"622","CC","GO:0005737","cytoplasm",142,"QPRT",-4.054029095,2.02e-05,-11.916375287813
+"623","CC","GO:0005737","cytoplasm",142,"ZBTB8OS",-1.224379697,2.02e-05,-11.916375287813
+"624","CC","GO:0005737","cytoplasm",142,"YBX1",-1.211529865,2.02e-05,-11.916375287813
+"625","CC","GO:0005737","cytoplasm",142,"KIF11",-2.72901755,2.02e-05,-11.916375287813
+"626","CC","GO:0005737","cytoplasm",142,"SIPA1L2",-1.718076971,2.02e-05,-11.916375287813
+"627","CC","GO:0005737","cytoplasm",142,"OASL",-1.756696805,2.02e-05,-11.916375287813
+"628","CC","GO:0005737","cytoplasm",142,"ROBO1",-1.505322395,2.02e-05,-11.916375287813
+"629","CC","GO:0005737","cytoplasm",142,"MMP28",-3.341369093,2.02e-05,-11.916375287813
+"630","CC","GO:0005737","cytoplasm",142,"GET3",-1.499379814,2.02e-05,-11.916375287813
+"631","CC","GO:0005737","cytoplasm",142,"DLGAP5",-2.765225513,2.02e-05,-11.916375287813
+"632","CC","GO:0005737","cytoplasm",142,"ZNF385A",-2.022756251,2.02e-05,-11.916375287813
+"633","CC","GO:0005737","cytoplasm",142,"CEP55",-5.160597801,2.02e-05,-11.916375287813
+"634","CC","GO:0005737","cytoplasm",142,"ZNF365",-1.332327732,2.02e-05,-11.916375287813
+"635","CC","GO:0005737","cytoplasm",142,"EDN1",-2.600547604,2.02e-05,-11.916375287813
+"636","CC","GO:0005737","cytoplasm",142,"SERPINB2",-1.643285132,2.02e-05,-11.916375287813
+"637","CC","GO:0005737","cytoplasm",142,"MIOS",-1.025466198,2.02e-05,-11.916375287813
+"638","CC","GO:0005737","cytoplasm",142,"ARG1",-1.909387625,2.02e-05,-11.916375287813
+"639","CC","GO:0005737","cytoplasm",142,"GAB1",-1.4096689,2.02e-05,-11.916375287813
+"640","CC","GO:0005737","cytoplasm",142,"COMMD1",-1.05381083,2.02e-05,-11.916375287813
+"641","CC","GO:0005737","cytoplasm",142,"TENT5B",-1.687621541,2.02e-05,-11.916375287813
+"642","CC","GO:0005737","cytoplasm",142,"REXO2",-1.240819995,2.02e-05,-11.916375287813
+"643","CC","GO:0005737","cytoplasm",142,"CCNA2",-2.514501424,2.02e-05,-11.916375287813
+"644","CC","GO:0005737","cytoplasm",142,"ASPM",-2.052538855,2.02e-05,-11.916375287813
+"645","CC","GO:0005737","cytoplasm",142,"ARL4A",-1.073056787,2.02e-05,-11.916375287813
+"646","CC","GO:0005737","cytoplasm",142,"MRPS9",-1.026417912,2.02e-05,-11.916375287813
+"647","CC","GO:0005737","cytoplasm",142,"TUBB2A",-1.393593431,2.02e-05,-11.916375287813
+"648","CC","GO:0005737","cytoplasm",142,"PSMA2",-1.33808643,2.02e-05,-11.916375287813
+"649","CC","GO:0005737","cytoplasm",142,"BIRC5",-4.82778078,2.02e-05,-11.916375287813
+"650","CC","GO:0005737","cytoplasm",142,"NAA38",-1.422779801,2.02e-05,-11.916375287813
+"651","CC","GO:0005737","cytoplasm",142,"KIF2C",-1.573249981,2.02e-05,-11.916375287813
+"652","CC","GO:0005737","cytoplasm",142,"PABPC1",-1.395569488,2.02e-05,-11.916375287813
+"653","CC","GO:0005737","cytoplasm",142,"SGK1",-1.289630285,2.02e-05,-11.916375287813
+"654","CC","GO:0005737","cytoplasm",142,"PFDN5",-1.124167798,2.02e-05,-11.916375287813
+"655","CC","GO:0005737","cytoplasm",142,"CRYAB",-1.075511568,2.02e-05,-11.916375287813
+"656","CC","GO:0005737","cytoplasm",142,"HDAC5",-1.39987283,2.02e-05,-11.916375287813
+"657","CC","GO:0005737","cytoplasm",142,"SPRR3",-2.395550882,2.02e-05,-11.916375287813
+"658","CC","GO:0005737","cytoplasm",142,"KRT80",-2.12731786,2.02e-05,-11.916375287813
+"659","CC","GO:0005737","cytoplasm",142,"OAT",-1.22191538,2.02e-05,-11.916375287813
+"660","CC","GO:0005737","cytoplasm",142,"ACSS2",-1.212451338,2.02e-05,-11.916375287813
+"661","CC","GO:0005737","cytoplasm",142,"TUFT1",-1.486962552,2.02e-05,-11.916375287813
+"662","CC","GO:0005737","cytoplasm",142,"TYMS",-3.302288382,2.02e-05,-11.916375287813
+"663","CC","GO:0005737","cytoplasm",142,"PHYHIP",-1.773612269,2.02e-05,-11.916375287813
+"664","CC","GO:0005737","cytoplasm",142,"PSMB6",-1.149097968,2.02e-05,-11.916375287813
+"665","CC","GO:0005737","cytoplasm",142,"LMAN1",-1.068518332,2.02e-05,-11.916375287813
+"666","CC","GO:0005737","cytoplasm",142,"PPP1R7",-1.32746383,2.02e-05,-11.916375287813
+"667","CC","GO:0005737","cytoplasm",142,"GBP2",-1.961905339,2.02e-05,-11.916375287813
+"668","CC","GO:0005737","cytoplasm",142,"FILIP1L",-2.589443978,2.02e-05,-11.916375287813
+"669","CC","GO:0005737","cytoplasm",142,"RPL18",-1.850670338,2.02e-05,-11.916375287813
+"670","CC","GO:0005737","cytoplasm",142,"FNIP2",-1.063407667,2.02e-05,-11.916375287813
+"671","CC","GO:0005737","cytoplasm",142,"KLK13",-2.6597064,2.02e-05,-11.916375287813
+"672","CC","GO:0005737","cytoplasm",142,"NAP1L1",-1.12538441,2.02e-05,-11.916375287813
+"673","CC","GO:0005737","cytoplasm",142,"SHCBP1",-2.814046264,2.02e-05,-11.916375287813
+"674","CC","GO:0005737","cytoplasm",142,"CENPF",-2.275729701,2.02e-05,-11.916375287813
+"675","CC","GO:0005737","cytoplasm",142,"WEE1",-1.286557803,2.02e-05,-11.916375287813
+"676","CC","GO:0005737","cytoplasm",142,"PSMC5",-1.209862249,2.02e-05,-11.916375287813
+"677","CC","GO:0005737","cytoplasm",142,"KITLG",-1.676600062,2.02e-05,-11.916375287813
+"678","CC","GO:0005737","cytoplasm",142,"NLRP10",-1.513244708,2.02e-05,-11.916375287813
+"679","CC","GO:0005737","cytoplasm",142,"PRC1",-1.59537456,2.02e-05,-11.916375287813
+"680","CC","GO:0005737","cytoplasm",142,"CDK2AP2",-1.306678576,2.02e-05,-11.916375287813
+"681","CC","GO:0005737","cytoplasm",142,"NUCB1",-2.171160267,2.02e-05,-11.916375287813
+"682","CC","GO:0005737","cytoplasm",142,"PFKM",-1.413282314,2.02e-05,-11.916375287813
+"683","CC","GO:0005737","cytoplasm",142,"CDKN3",-2.049376083,2.02e-05,-11.916375287813
+"684","CC","GO:0005654","nucleoplasm",101,"EHF",-1.789242368,0.000518,-10.0498756211209
+"685","CC","GO:0005654","nucleoplasm",101,"GMNN",-2.486087765,0.000518,-10.0498756211209
+"686","CC","GO:0005654","nucleoplasm",101,"HJURP",-3.64232181,0.000518,-10.0498756211209
+"687","CC","GO:0005654","nucleoplasm",101,"TESK2",-1.716306795,0.000518,-10.0498756211209
+"688","CC","GO:0005654","nucleoplasm",101,"AQP3",-1.796641483,0.000518,-10.0498756211209
+"689","CC","GO:0005654","nucleoplasm",101,"IPO4",-1.134928104,0.000518,-10.0498756211209
+"690","CC","GO:0005654","nucleoplasm",101,"CDC20",-1.821017204,0.000518,-10.0498756211209
+"691","CC","GO:0005654","nucleoplasm",101,"CDC23",-1.342356163,0.000518,-10.0498756211209
+"692","CC","GO:0005654","nucleoplasm",101,"RPS10",-1.567035363,0.000518,-10.0498756211209
+"693","CC","GO:0005654","nucleoplasm",101,"C17ORF49",-1.459654068,0.000518,-10.0498756211209
+"694","CC","GO:0005654","nucleoplasm",101,"LMO7",-1.657564928,0.000518,-10.0498756211209
+"695","CC","GO:0005654","nucleoplasm",101,"MYCL",-2.084860976,0.000518,-10.0498756211209
+"696","CC","GO:0005654","nucleoplasm",101,"SCNN1G",-2.232669958,0.000518,-10.0498756211209
+"697","CC","GO:0005654","nucleoplasm",101,"OLFM2",-1.116971634,0.000518,-10.0498756211209
+"698","CC","GO:0005654","nucleoplasm",101,"LTB4R2",-1.63746286,0.000518,-10.0498756211209
+"699","CC","GO:0005654","nucleoplasm",101,"NCL",-1.298388981,0.000518,-10.0498756211209
+"700","CC","GO:0005654","nucleoplasm",101,"RBP1",-5.622330943,0.000518,-10.0498756211209
+"701","CC","GO:0005654","nucleoplasm",101,"HAT1",-1.007231052,0.000518,-10.0498756211209
+"702","CC","GO:0005654","nucleoplasm",101,"PSME1",-1.975073203,0.000518,-10.0498756211209
+"703","CC","GO:0005654","nucleoplasm",101,"GEMIN4",-1.045195773,0.000518,-10.0498756211209
+"704","CC","GO:0005654","nucleoplasm",101,"PSME2",-1.422399127,0.000518,-10.0498756211209
+"705","CC","GO:0005654","nucleoplasm",101,"KIF20A",-2.786504036,0.000518,-10.0498756211209
+"706","CC","GO:0005654","nucleoplasm",101,"SNRPF",-1.013021811,0.000518,-10.0498756211209
+"707","CC","GO:0005654","nucleoplasm",101,"PSMD13",-1.110225223,0.000518,-10.0498756211209
+"708","CC","GO:0005654","nucleoplasm",101,"CDCA5",-2.598041784,0.000518,-10.0498756211209
+"709","CC","GO:0005654","nucleoplasm",101,"NOLC1",-1.3825692,0.000518,-10.0498756211209
+"710","CC","GO:0005654","nucleoplasm",101,"RPS4Y1",-1.425424457,0.000518,-10.0498756211209
+"711","CC","GO:0005654","nucleoplasm",101,"HIF1A",-1.025051181,0.000518,-10.0498756211209
+"712","CC","GO:0005654","nucleoplasm",101,"CCNB1",-2.684593035,0.000518,-10.0498756211209
+"713","CC","GO:0005654","nucleoplasm",101,"COMMD9",-1.905964913,0.000518,-10.0498756211209
+"714","CC","GO:0005654","nucleoplasm",101,"NTHL1",-2.231204467,0.000518,-10.0498756211209
+"715","CC","GO:0005654","nucleoplasm",101,"MFAP3L",-2.010162163,0.000518,-10.0498756211209
+"716","CC","GO:0005654","nucleoplasm",101,"FANCI",-1.54434662,0.000518,-10.0498756211209
+"717","CC","GO:0005654","nucleoplasm",101,"CDT1",-2.35889532,0.000518,-10.0498756211209
+"718","CC","GO:0005654","nucleoplasm",101,"TFAP2C",-1.18423657,0.000518,-10.0498756211209
+"719","CC","GO:0005654","nucleoplasm",101,"CBX4",-1.274258813,0.000518,-10.0498756211209
+"720","CC","GO:0005654","nucleoplasm",101,"UBE2C",-1.563087107,0.000518,-10.0498756211209
+"721","CC","GO:0005654","nucleoplasm",101,"XRCC1",-1.282590157,0.000518,-10.0498756211209
+"722","CC","GO:0005654","nucleoplasm",101,"ISG15",-2.361451804,0.000518,-10.0498756211209
+"723","CC","GO:0005654","nucleoplasm",101,"NDC80",-2.0257484,0.000518,-10.0498756211209
+"724","CC","GO:0005654","nucleoplasm",101,"TPX2",-1.131678158,0.000518,-10.0498756211209
+"725","CC","GO:0005654","nucleoplasm",101,"POLA2",-2.339056029,0.000518,-10.0498756211209
+"726","CC","GO:0005654","nucleoplasm",101,"TBL3",-1.136749303,0.000518,-10.0498756211209
+"727","CC","GO:0005654","nucleoplasm",101,"KIF4A",-2.267898968,0.000518,-10.0498756211209
+"728","CC","GO:0005654","nucleoplasm",101,"ID4",-2.318190195,0.000518,-10.0498756211209
+"729","CC","GO:0005654","nucleoplasm",101,"CALM3",-1.072241542,0.000518,-10.0498756211209
+"730","CC","GO:0005654","nucleoplasm",101,"GPR107",-1.086831661,0.000518,-10.0498756211209
+"731","CC","GO:0005654","nucleoplasm",101,"HPSE",-1.202283221,0.000518,-10.0498756211209
+"732","CC","GO:0005654","nucleoplasm",101,"COPS8",-1.104877039,0.000518,-10.0498756211209
+"733","CC","GO:0005654","nucleoplasm",101,"MCM7",-1.091952331,0.000518,-10.0498756211209
+"734","CC","GO:0005654","nucleoplasm",101,"CITED2",-1.957983703,0.000518,-10.0498756211209
+"735","CC","GO:0005654","nucleoplasm",101,"COX4I1",-1.116529179,0.000518,-10.0498756211209
+"736","CC","GO:0005654","nucleoplasm",101,"HSPB8",-1.089837736,0.000518,-10.0498756211209
+"737","CC","GO:0005654","nucleoplasm",101,"NCAPG2",-1.982152002,0.000518,-10.0498756211209
+"738","CC","GO:0005654","nucleoplasm",101,"ZBTB8OS",-1.224379697,0.000518,-10.0498756211209
+"739","CC","GO:0005654","nucleoplasm",101,"MCM10",-2.71408145,0.000518,-10.0498756211209
+"740","CC","GO:0005654","nucleoplasm",101,"YBX1",-1.211529865,0.000518,-10.0498756211209
+"741","CC","GO:0005654","nucleoplasm",101,"FOXM1",-2.905928005,0.000518,-10.0498756211209
+"742","CC","GO:0005654","nucleoplasm",101,"OASL",-1.756696805,0.000518,-10.0498756211209
+"743","CC","GO:0005654","nucleoplasm",101,"EXO1",-4.482640167,0.000518,-10.0498756211209
+"744","CC","GO:0005654","nucleoplasm",101,"CTSK",-1.027247036,0.000518,-10.0498756211209
+"745","CC","GO:0005654","nucleoplasm",101,"MYBL2",-2.627598643,0.000518,-10.0498756211209
+"746","CC","GO:0005654","nucleoplasm",101,"GET3",-1.499379814,0.000518,-10.0498756211209
+"747","CC","GO:0005654","nucleoplasm",101,"ZNF385A",-2.022756251,0.000518,-10.0498756211209
+"748","CC","GO:0005654","nucleoplasm",101,"ZHX3",-1.441465967,0.000518,-10.0498756211209
+"749","CC","GO:0005654","nucleoplasm",101,"MIOS",-1.025466198,0.000518,-10.0498756211209
+"750","CC","GO:0005654","nucleoplasm",101,"COMMD1",-1.05381083,0.000518,-10.0498756211209
+"751","CC","GO:0005654","nucleoplasm",101,"NAV2",-2.821198596,0.000518,-10.0498756211209
+"752","CC","GO:0005654","nucleoplasm",101,"SMC1A",-1.119516728,0.000518,-10.0498756211209
+"753","CC","GO:0005654","nucleoplasm",101,"CCNA2",-2.514501424,0.000518,-10.0498756211209
+"754","CC","GO:0005654","nucleoplasm",101,"ARL4A",-1.073056787,0.000518,-10.0498756211209
+"755","CC","GO:0005654","nucleoplasm",101,"SAPCD2",-4.003650157,0.000518,-10.0498756211209
+"756","CC","GO:0005654","nucleoplasm",101,"PSMA2",-1.33808643,0.000518,-10.0498756211209
+"757","CC","GO:0005654","nucleoplasm",101,"BIRC5",-4.82778078,0.000518,-10.0498756211209
+"758","CC","GO:0005654","nucleoplasm",101,"MCM5",-1.96770465,0.000518,-10.0498756211209
+"759","CC","GO:0005654","nucleoplasm",101,"NAA38",-1.422779801,0.000518,-10.0498756211209
+"760","CC","GO:0005654","nucleoplasm",101,"SGK1",-1.289630285,0.000518,-10.0498756211209
+"761","CC","GO:0005654","nucleoplasm",101,"CRYAB",-1.075511568,0.000518,-10.0498756211209
+"762","CC","GO:0005654","nucleoplasm",101,"PPARD",-1.395993315,0.000518,-10.0498756211209
+"763","CC","GO:0005654","nucleoplasm",101,"HDAC5",-1.39987283,0.000518,-10.0498756211209
+"764","CC","GO:0005654","nucleoplasm",101,"OAT",-1.22191538,0.000518,-10.0498756211209
+"765","CC","GO:0005654","nucleoplasm",101,"ACSS2",-1.212451338,0.000518,-10.0498756211209
+"766","CC","GO:0005654","nucleoplasm",101,"ATF6B",-1.246812951,0.000518,-10.0498756211209
+"767","CC","GO:0005654","nucleoplasm",101,"AURKA",-2.157863191,0.000518,-10.0498756211209
+"768","CC","GO:0005654","nucleoplasm",101,"PSMB6",-1.149097968,0.000518,-10.0498756211209
+"769","CC","GO:0005654","nucleoplasm",101,"NT5E",-1.549835425,0.000518,-10.0498756211209
+"770","CC","GO:0005654","nucleoplasm",101,"MIEN1",-1.055515865,0.000518,-10.0498756211209
+"771","CC","GO:0005654","nucleoplasm",101,"POLR2F",-1.359421471,0.000518,-10.0498756211209
+"772","CC","GO:0005654","nucleoplasm",101,"GBP2",-1.961905339,0.000518,-10.0498756211209
+"773","CC","GO:0005654","nucleoplasm",101,"BUB1",-2.28040653,0.000518,-10.0498756211209
+"774","CC","GO:0005654","nucleoplasm",101,"POLR2K",-1.016799002,0.000518,-10.0498756211209
+"775","CC","GO:0005654","nucleoplasm",101,"ATP5PB",-1.697656649,0.000518,-10.0498756211209
+"776","CC","GO:0005654","nucleoplasm",101,"WDR18",-1.002897795,0.000518,-10.0498756211209
+"777","CC","GO:0005654","nucleoplasm",101,"SSRP1",-1.192686714,0.000518,-10.0498756211209
+"778","CC","GO:0005654","nucleoplasm",101,"GRHL1",-1.733399076,0.000518,-10.0498756211209
+"779","CC","GO:0005654","nucleoplasm",101,"CENPF",-2.275729701,0.000518,-10.0498756211209
+"780","CC","GO:0005654","nucleoplasm",101,"WEE1",-1.286557803,0.000518,-10.0498756211209
+"781","CC","GO:0005654","nucleoplasm",101,"PSMC5",-1.209862249,0.000518,-10.0498756211209
+"782","CC","GO:0005654","nucleoplasm",101,"CYP24A1",-2.11789452,0.000518,-10.0498756211209
+"783","CC","GO:0005654","nucleoplasm",101,"NLRP10",-1.513244708,0.000518,-10.0498756211209
+"784","CC","GO:0005654","nucleoplasm",101,"PRC1",-1.59537456,0.000518,-10.0498756211209
+"785","CC","GO:0016020","membrane",93,"SLC44A5",-1.858769027,0.000491,-9.64365076099295
+"786","CC","GO:0016020","membrane",93,"PIGS",-1.356733142,0.000491,-9.64365076099295
+"787","CC","GO:0016020","membrane",93,"SLC35B2",-1.498663292,0.000491,-9.64365076099295
+"788","CC","GO:0016020","membrane",93,"SLC44A3",-2.149740043,0.000491,-9.64365076099295
+"789","CC","GO:0016020","membrane",93,"NRP2",-2.21298347,0.000491,-9.64365076099295
+"790","CC","GO:0016020","membrane",93,"ABCD3",-1.132374803,0.000491,-9.64365076099295
+"791","CC","GO:0016020","membrane",93,"MCM7",-1.091952331,0.000491,-9.64365076099295
+"792","CC","GO:0016020","membrane",93,"SLC44A2",-1.389592046,0.000491,-9.64365076099295
+"793","CC","GO:0016020","membrane",93,"CD81",-1.046762265,0.000491,-9.64365076099295
+"794","CC","GO:0016020","membrane",93,"NCF2",-2.555593866,0.000491,-9.64365076099295
+"795","CC","GO:0016020","membrane",93,"COX4I1",-1.116529179,0.000491,-9.64365076099295
+"796","CC","GO:0016020","membrane",93,"NCAPG2",-1.982152002,0.000491,-9.64365076099295
+"797","CC","GO:0016020","membrane",93,"KIF11",-2.72901755,0.000491,-9.64365076099295
+"798","CC","GO:0016020","membrane",93,"ABCA12",-1.40790804,0.000491,-9.64365076099295
+"799","CC","GO:0016020","membrane",93,"NAT14",-1.802976909,0.000491,-9.64365076099295
+"800","CC","GO:0016020","membrane",93,"SPPL3",-1.407346071,0.000491,-9.64365076099295
+"801","CC","GO:0016020","membrane",93,"AQP3",-1.796641483,0.000491,-9.64365076099295
+"802","CC","GO:0016020","membrane",93,"NKPD1",-1.790433399,0.000491,-9.64365076099295
+"803","CC","GO:0016020","membrane",93,"IPO4",-1.134928104,0.000491,-9.64365076099295
+"804","CC","GO:0016020","membrane",93,"OASL",-1.756696805,0.000491,-9.64365076099295
+"805","CC","GO:0016020","membrane",93,"AADACL2",-4.62814961,0.000491,-9.64365076099295
+"806","CC","GO:0016020","membrane",93,"TMEM101",-1.140017316,0.000491,-9.64365076099295
+"807","CC","GO:0016020","membrane",93,"GLIPR1",-2.445720505,0.000491,-9.64365076099295
+"808","CC","GO:0016020","membrane",93,"LAMP1",-1.142189529,0.000491,-9.64365076099295
+"809","CC","GO:0016020","membrane",93,"STMN1",-1.190750809,0.000491,-9.64365076099295
+"810","CC","GO:0016020","membrane",93,"B2M",-2.436091153,0.000491,-9.64365076099295
+"811","CC","GO:0016020","membrane",93,"RPS10",-1.567035363,0.000491,-9.64365076099295
+"812","CC","GO:0016020","membrane",93,"CEP55",-5.160597801,0.000491,-9.64365076099295
+"813","CC","GO:0016020","membrane",93,"SLC15A1",-2.162547782,0.000491,-9.64365076099295
+"814","CC","GO:0016020","membrane",93,"ATP6AP1",-1.045449619,0.000491,-9.64365076099295
+"815","CC","GO:0016020","membrane",93,"HLA-A",-1.295197926,0.000491,-9.64365076099295
+"816","CC","GO:0016020","membrane",93,"KRT9",-2.829013809,0.000491,-9.64365076099295
+"817","CC","GO:0016020","membrane",93,"HLA-E",-1.132489067,0.000491,-9.64365076099295
+"818","CC","GO:0016020","membrane",93,"SCAMP2",-1.113366368,0.000491,-9.64365076099295
+"819","CC","GO:0016020","membrane",93,"ADGRF2",-4.420363453,0.000491,-9.64365076099295
+"820","CC","GO:0016020","membrane",93,"TOM1L2",-1.524092373,0.000491,-9.64365076099295
+"821","CC","GO:0016020","membrane",93,"BACE2",-1.907734361,0.000491,-9.64365076099295
+"822","CC","GO:0016020","membrane",93,"MYL6",-1.062868944,0.000491,-9.64365076099295
+"823","CC","GO:0016020","membrane",93,"DAAM1",-1.467516745,0.000491,-9.64365076099295
+"824","CC","GO:0016020","membrane",93,"LTB4R2",-1.63746286,0.000491,-9.64365076099295
+"825","CC","GO:0016020","membrane",93,"NCL",-1.298388981,0.000491,-9.64365076099295
+"826","CC","GO:0016020","membrane",93,"GEMIN4",-1.045195773,0.000491,-9.64365076099295
+"827","CC","GO:0016020","membrane",93,"PSME2",-1.422399127,0.000491,-9.64365076099295
+"828","CC","GO:0016020","membrane",93,"MCM5",-1.96770465,0.000491,-9.64365076099295
+"829","CC","GO:0016020","membrane",93,"KIF2C",-1.573249981,0.000491,-9.64365076099295
+"830","CC","GO:0016020","membrane",93,"PABPC1",-1.395569488,0.000491,-9.64365076099295
+"831","CC","GO:0016020","membrane",93,"ERGIC3",-1.023515305,0.000491,-9.64365076099295
+"832","CC","GO:0016020","membrane",93,"NBAS",-1.196777922,0.000491,-9.64365076099295
+"833","CC","GO:0016020","membrane",93,"SMIM5",-2.587725032,0.000491,-9.64365076099295
+"834","CC","GO:0016020","membrane",93,"PSMD13",-1.110225223,0.000491,-9.64365076099295
+"835","CC","GO:0016020","membrane",93,"NCAPG",-3.081687148,0.000491,-9.64365076099295
+"836","CC","GO:0016020","membrane",93,"HMMR",-2.168856182,0.000491,-9.64365076099295
+"837","CC","GO:0016020","membrane",93,"MTMR4",-1.106603349,0.000491,-9.64365076099295
+"838","CC","GO:0016020","membrane",93,"ADIPOR1",-1.058440721,0.000491,-9.64365076099295
+"839","CC","GO:0016020","membrane",93,"RPS4Y1",-1.425424457,0.000491,-9.64365076099295
+"840","CC","GO:0016020","membrane",93,"ADD3",-1.05761241,0.000491,-9.64365076099295
+"841","CC","GO:0016020","membrane",93,"TM9SF4",-1.355452534,0.000491,-9.64365076099295
+"842","CC","GO:0016020","membrane",93,"HSP90B1",-1.080957784,0.000491,-9.64365076099295
+"843","CC","GO:0016020","membrane",93,"DPP4",-2.491068494,0.000491,-9.64365076099295
+"844","CC","GO:0016020","membrane",93,"LMAN1",-1.068518332,0.000491,-9.64365076099295
+"845","CC","GO:0016020","membrane",93,"CCNB2",-1.603112433,0.000491,-9.64365076099295
+"846","CC","GO:0016020","membrane",93,"NT5E",-1.549835425,0.000491,-9.64365076099295
+"847","CC","GO:0016020","membrane",93,"CCNB1",-2.684593035,0.000491,-9.64365076099295
+"848","CC","GO:0016020","membrane",93,"VPS51",-1.037365547,0.000491,-9.64365076099295
+"849","CC","GO:0016020","membrane",93,"TMEM205",-1.223765294,0.000491,-9.64365076099295
+"850","CC","GO:0016020","membrane",93,"VPS52",-1.240656472,0.000491,-9.64365076099295
+"851","CC","GO:0016020","membrane",93,"EIF4EBP3",-1.113263999,0.000491,-9.64365076099295
+"852","CC","GO:0016020","membrane",93,"EMC7",-1.368703448,0.000491,-9.64365076099295
+"853","CC","GO:0016020","membrane",93,"FILIP1L",-2.589443978,0.000491,-9.64365076099295
+"854","CC","GO:0016020","membrane",93,"RPL18",-1.850670338,0.000491,-9.64365076099295
+"855","CC","GO:0016020","membrane",93,"BUB1",-2.28040653,0.000491,-9.64365076099295
+"856","CC","GO:0016020","membrane",93,"MPDU1",-1.336243497,0.000491,-9.64365076099295
+"857","CC","GO:0016020","membrane",93,"FANCI",-1.54434662,0.000491,-9.64365076099295
+"858","CC","GO:0016020","membrane",93,"FIS1",-1.331866359,0.000491,-9.64365076099295
+"859","CC","GO:0016020","membrane",93,"ATP5PB",-1.697656649,0.000491,-9.64365076099295
+"860","CC","GO:0016020","membrane",93,"PRAF2",-1.067179941,0.000491,-9.64365076099295
+"861","CC","GO:0016020","membrane",93,"NAP1L1",-1.12538441,0.000491,-9.64365076099295
+"862","CC","GO:0016020","membrane",93,"EEF2",-1.450918315,0.000491,-9.64365076099295
+"863","CC","GO:0016020","membrane",93,"ASPRV1",-1.340804971,0.000491,-9.64365076099295
+"864","CC","GO:0016020","membrane",93,"SORL1",-1.518726004,0.000491,-9.64365076099295
+"865","CC","GO:0016020","membrane",93,"NDC80",-2.0257484,0.000491,-9.64365076099295
+"866","CC","GO:0016020","membrane",93,"KITLG",-1.676600062,0.000491,-9.64365076099295
+"867","CC","GO:0016020","membrane",93,"PSMC5",-1.209862249,0.000491,-9.64365076099295
+"868","CC","GO:0016020","membrane",93,"TMEM237",-1.534225469,0.000491,-9.64365076099295
+"869","CC","GO:0016020","membrane",93,"KIF4A",-2.267898968,0.000491,-9.64365076099295
+"870","CC","GO:0016020","membrane",93,"CHMP2A",-1.145093747,0.000491,-9.64365076099295
+"871","CC","GO:0016020","membrane",93,"NUCB1",-2.171160267,0.000491,-9.64365076099295
+"872","CC","GO:0016020","membrane",93,"EIF3H",-1.840220589,0.000491,-9.64365076099295
+"873","CC","GO:0016020","membrane",93,"GPR107",-1.086831661,0.000491,-9.64365076099295
+"874","CC","GO:0016020","membrane",93,"HPSE",-1.202283221,0.000491,-9.64365076099295
+"875","CC","GO:0016020","membrane",93,"CD68",-1.452604628,0.000491,-9.64365076099295
+"876","CC","GO:0016020","membrane",93,"PFKM",-1.413282314,0.000491,-9.64365076099295
+"877","CC","GO:0016020","membrane",93,"GSDME",-1.223861174,0.000491,-9.64365076099295
+"878","CC","GO:0005576","extracellular region",57,"NRP2",-2.21298347,0.005631333,-7.54983443527075
+"879","CC","GO:0005576","extracellular region",57,"YBX1",-1.211529865,0.005631333,-7.54983443527075
+"880","CC","GO:0005576","extracellular region",57,"AADACL2",-4.62814961,0.005631333,-7.54983443527075
+"881","CC","GO:0005576","extracellular region",57,"CTSK",-1.027247036,0.005631333,-7.54983443527075
+"882","CC","GO:0005576","extracellular region",57,"LIPN",-2.389643382,0.005631333,-7.54983443527075
+"883","CC","GO:0005576","extracellular region",57,"COTL1",-1.895838907,0.005631333,-7.54983443527075
+"884","CC","GO:0005576","extracellular region",57,"TIMP3",-1.66846169,0.005631333,-7.54983443527075
+"885","CC","GO:0005576","extracellular region",57,"CTSH",-2.030209213,0.005631333,-7.54983443527075
+"886","CC","GO:0005576","extracellular region",57,"B2M",-2.436091153,0.005631333,-7.54983443527075
+"887","CC","GO:0005576","extracellular region",57,"RPTN",-3.354237264,0.005631333,-7.54983443527075
+"888","CC","GO:0005576","extracellular region",57,"EPHB3",-1.444204795,0.005631333,-7.54983443527075
+"889","CC","GO:0005576","extracellular region",57,"EDN1",-2.600547604,0.005631333,-7.54983443527075
+"890","CC","GO:0005576","extracellular region",57,"SERPINB2",-1.643285132,0.005631333,-7.54983443527075
+"891","CC","GO:0005576","extracellular region",57,"ARG1",-1.909387625,0.005631333,-7.54983443527075
+"892","CC","GO:0005576","extracellular region",57,"RNASET2",-2.750830531,0.005631333,-7.54983443527075
+"893","CC","GO:0005576","extracellular region",57,"FST",-2.404934922,0.005631333,-7.54983443527075
+"894","CC","GO:0005576","extracellular region",57,"OVCH2",-3.245369189,0.005631333,-7.54983443527075
+"895","CC","GO:0005576","extracellular region",57,"PDCD1LG2",-5.420435633,0.005631333,-7.54983443527075
+"896","CC","GO:0005576","extracellular region",57,"DKK1",-2.26967081,0.005631333,-7.54983443527075
+"897","CC","GO:0005576","extracellular region",57,"TMPRSS11F",-1.716266339,0.005631333,-7.54983443527075
+"898","CC","GO:0005576","extracellular region",57,"CES4A",-1.988867003,0.005631333,-7.54983443527075
+"899","CC","GO:0005576","extracellular region",57,"IL1A",-1.70651281,0.005631333,-7.54983443527075
+"900","CC","GO:0005576","extracellular region",57,"OLFM2",-1.116971634,0.005631333,-7.54983443527075
+"901","CC","GO:0005576","extracellular region",57,"CCDC80",-1.896737409,0.005631333,-7.54983443527075
+"902","CC","GO:0005576","extracellular region",57,"PSG4",-2.776552753,0.005631333,-7.54983443527075
+"903","CC","GO:0005576","extracellular region",57,"PSMA2",-1.33808643,0.005631333,-7.54983443527075
+"904","CC","GO:0005576","extracellular region",57,"CFD",-4.624954144,0.005631333,-7.54983443527075
+"905","CC","GO:0005576","extracellular region",57,"COL17A1",-1.96877789,0.005631333,-7.54983443527075
+"906","CC","GO:0005576","extracellular region",57,"PMEL",-3.405802021,0.005631333,-7.54983443527075
+"907","CC","GO:0005576","extracellular region",57,"CEMIP",-2.552323128,0.005631333,-7.54983443527075
+"908","CC","GO:0005576","extracellular region",57,"SEMA3C",-1.670859906,0.005631333,-7.54983443527075
+"909","CC","GO:0005576","extracellular region",57,"PSMD13",-1.110225223,0.005631333,-7.54983443527075
+"910","CC","GO:0005576","extracellular region",57,"TUFT1",-1.486962552,0.005631333,-7.54983443527075
+"911","CC","GO:0005576","extracellular region",57,"FBLN1",-2.999521972,0.005631333,-7.54983443527075
+"912","CC","GO:0005576","extracellular region",57,"LTBP2",-1.683930865,0.005631333,-7.54983443527075
+"913","CC","GO:0005576","extracellular region",57,"THBS2",-3.066126488,0.005631333,-7.54983443527075
+"914","CC","GO:0005576","extracellular region",57,"LYPD5",-1.936832006,0.005631333,-7.54983443527075
+"915","CC","GO:0005576","extracellular region",57,"THBS1",-2.628866139,0.005631333,-7.54983443527075
+"916","CC","GO:0005576","extracellular region",57,"HSP90B1",-1.080957784,0.005631333,-7.54983443527075
+"917","CC","GO:0005576","extracellular region",57,"PSORS1C2",-2.347276193,0.005631333,-7.54983443527075
+"918","CC","GO:0005576","extracellular region",57,"DPP4",-2.491068494,0.005631333,-7.54983443527075
+"919","CC","GO:0005576","extracellular region",57,"COMMD9",-1.905964913,0.005631333,-7.54983443527075
+"920","CC","GO:0005576","extracellular region",57,"PDZD2",-1.477018252,0.005631333,-7.54983443527075
+"921","CC","GO:0005576","extracellular region",57,"LY6G6C",-2.834374544,0.005631333,-7.54983443527075
+"922","CC","GO:0005576","extracellular region",57,"CLCA4",-3.643051457,0.005631333,-7.54983443527075
+"923","CC","GO:0005576","extracellular region",57,"BCHE",-1.165708466,0.005631333,-7.54983443527075
+"924","CC","GO:0005576","extracellular region",57,"CDSN",-1.461986019,0.005631333,-7.54983443527075
+"925","CC","GO:0005576","extracellular region",57,"KLK13",-2.6597064,0.005631333,-7.54983443527075
+"926","CC","GO:0005576","extracellular region",57,"ISG15",-2.361451804,0.005631333,-7.54983443527075
+"927","CC","GO:0005576","extracellular region",57,"EEF2",-1.450918315,0.005631333,-7.54983443527075
+"928","CC","GO:0005576","extracellular region",57,"IL1F10",-2.238672501,0.005631333,-7.54983443527075
+"929","CC","GO:0005576","extracellular region",57,"KITLG",-1.676600062,0.005631333,-7.54983443527075
+"930","CC","GO:0005576","extracellular region",57,"TCN1",-3.180277473,0.005631333,-7.54983443527075
+"931","CC","GO:0005576","extracellular region",57,"RAET1L",-1.123282974,0.005631333,-7.54983443527075
+"932","CC","GO:0005576","extracellular region",57,"NUCB1",-2.171160267,0.005631333,-7.54983443527075
+"933","CC","GO:0005576","extracellular region",57,"CALM3",-1.072241542,0.005631333,-7.54983443527075
+"934","CC","GO:0005576","extracellular region",57,"HPSE",-1.202283221,0.005631333,-7.54983443527075
+"935","CC","GO:0005739","mitochondrion",39,"COX7B",-1.363199979,0.015983509,-6.2449979983984
+"936","CC","GO:0005739","mitochondrion",39,"ABCD3",-1.132374803,0.015983509,-6.2449979983984
+"937","CC","GO:0005739","mitochondrion",39,"OAT",-1.22191538,0.015983509,-6.2449979983984
+"938","CC","GO:0005739","mitochondrion",39,"NDUFA11",-1.064419922,0.015983509,-6.2449979983984
+"939","CC","GO:0005739","mitochondrion",39,"SLC44A2",-1.389592046,0.015983509,-6.2449979983984
+"940","CC","GO:0005739","mitochondrion",39,"NDUFB11",-1.77577287,0.015983509,-6.2449979983984
+"941","CC","GO:0005739","mitochondrion",39,"MAOA",-2.010954891,0.015983509,-6.2449979983984
+"942","CC","GO:0005739","mitochondrion",39,"COX4I1",-1.116529179,0.015983509,-6.2449979983984
+"943","CC","GO:0005739","mitochondrion",39,"HJURP",-3.64232181,0.015983509,-6.2449979983984
+"944","CC","GO:0005739","mitochondrion",39,"TYMS",-3.302288382,0.015983509,-6.2449979983984
+"945","CC","GO:0005739","mitochondrion",39,"COX6A1",-1.399900045,0.015983509,-6.2449979983984
+"946","CC","GO:0005739","mitochondrion",39,"MRPL11",-1.381028276,0.015983509,-6.2449979983984
+"947","CC","GO:0005739","mitochondrion",39,"PSMB6",-1.149097968,0.015983509,-6.2449979983984
+"948","CC","GO:0005739","mitochondrion",39,"CHCHD2",-1.591962218,0.015983509,-6.2449979983984
+"949","CC","GO:0005739","mitochondrion",39,"RGS2",-2.817782122,0.015983509,-6.2449979983984
+"950","CC","GO:0005739","mitochondrion",39,"MPC1",-1.363504311,0.015983509,-6.2449979983984
+"951","CC","GO:0005739","mitochondrion",39,"NTHL1",-2.231204467,0.015983509,-6.2449979983984
+"952","CC","GO:0005739","mitochondrion",39,"IDH3B",-1.237215398,0.015983509,-6.2449979983984
+"953","CC","GO:0005739","mitochondrion",39,"CKB",-1.620763286,0.015983509,-6.2449979983984
+"954","CC","GO:0005739","mitochondrion",39,"DLGAP5",-2.765225513,0.015983509,-6.2449979983984
+"955","CC","GO:0005739","mitochondrion",39,"FIS1",-1.331866359,0.015983509,-6.2449979983984
+"956","CC","GO:0005739","mitochondrion",39,"MGME1",-1.508793915,0.015983509,-6.2449979983984
+"957","CC","GO:0005739","mitochondrion",39,"TFAP2C",-1.18423657,0.015983509,-6.2449979983984
+"958","CC","GO:0005739","mitochondrion",39,"ATP5PB",-1.697656649,0.015983509,-6.2449979983984
+"959","CC","GO:0005739","mitochondrion",39,"SDHD",-1.073238405,0.015983509,-6.2449979983984
+"960","CC","GO:0005739","mitochondrion",39,"REXO2",-1.240819995,0.015983509,-6.2449979983984
+"961","CC","GO:0005739","mitochondrion",39,"MRPL21",-1.395459458,0.015983509,-6.2449979983984
+"962","CC","GO:0005739","mitochondrion",39,"VASN",-1.609665567,0.015983509,-6.2449979983984
+"963","CC","GO:0005739","mitochondrion",39,"HADHB",-1.751065051,0.015983509,-6.2449979983984
+"964","CC","GO:0005739","mitochondrion",39,"NUDT9",-1.396138395,0.015983509,-6.2449979983984
+"965","CC","GO:0005739","mitochondrion",39,"COQ3",-1.406654418,0.015983509,-6.2449979983984
+"966","CC","GO:0005739","mitochondrion",39,"MRPS9",-1.026417912,0.015983509,-6.2449979983984
+"967","CC","GO:0005739","mitochondrion",39,"CYP24A1",-2.11789452,0.015983509,-6.2449979983984
+"968","CC","GO:0005739","mitochondrion",39,"HAT1",-1.007231052,0.015983509,-6.2449979983984
+"969","CC","GO:0005739","mitochondrion",39,"NDUFS3",-1.156225535,0.015983509,-6.2449979983984
+"970","CC","GO:0005739","mitochondrion",39,"ACO2",-1.186643572,0.015983509,-6.2449979983984
+"971","CC","GO:0005739","mitochondrion",39,"SGK1",-1.289630285,0.015983509,-6.2449979983984
+"972","CC","GO:0005739","mitochondrion",39,"SPATA18",-2.607111824,0.015983509,-6.2449979983984
+"973","CC","GO:0005739","mitochondrion",39,"CRYAB",-1.075511568,0.015983509,-6.2449979983984
+"974","CC","GO:0005829","cytosol",155,"NCF2",-2.555593866,2.5e-09,-12.4498995979887
+"975","CC","GO:0005829","cytosol",155,"GMNN",-2.486087765,2.5e-09,-12.4498995979887
+"976","CC","GO:0005829","cytosol",155,"CTNND1",-1.41642079,2.5e-09,-12.4498995979887
+"977","CC","GO:0005829","cytosol",155,"HJURP",-3.64232181,2.5e-09,-12.4498995979887
+"978","CC","GO:0005829","cytosol",155,"BUB1B",-2.431458242,2.5e-09,-12.4498995979887
+"979","CC","GO:0005829","cytosol",155,"ABCA12",-1.40790804,2.5e-09,-12.4498995979887
+"980","CC","GO:0005829","cytosol",155,"IFIT1",-3.244996513,2.5e-09,-12.4498995979887
+"981","CC","GO:0005829","cytosol",155,"CDC20",-1.821017204,2.5e-09,-12.4498995979887
+"982","CC","GO:0005829","cytosol",155,"RGS2",-2.817782122,2.5e-09,-12.4498995979887
+"983","CC","GO:0005829","cytosol",155,"MT2A",-1.969428476,2.5e-09,-12.4498995979887
+"984","CC","GO:0005829","cytosol",155,"CDC23",-1.342356163,2.5e-09,-12.4498995979887
+"985","CC","GO:0005829","cytosol",155,"LAMP1",-1.142189529,2.5e-09,-12.4498995979887
+"986","CC","GO:0005829","cytosol",155,"STMN1",-1.190750809,2.5e-09,-12.4498995979887
+"987","CC","GO:0005829","cytosol",155,"COTL1",-1.895838907,2.5e-09,-12.4498995979887
+"988","CC","GO:0005829","cytosol",155,"MAP3K8",-1.169600565,2.5e-09,-12.4498995979887
+"989","CC","GO:0005829","cytosol",155,"RPL39",-1.273886373,2.5e-09,-12.4498995979887
+"990","CC","GO:0005829","cytosol",155,"B2M",-2.436091153,2.5e-09,-12.4498995979887
+"991","CC","GO:0005829","cytosol",155,"RPS10",-1.567035363,2.5e-09,-12.4498995979887
+"992","CC","GO:0005829","cytosol",155,"PPFIA3",-1.269088423,2.5e-09,-12.4498995979887
+"993","CC","GO:0005829","cytosol",155,"RPTN",-3.354237264,2.5e-09,-12.4498995979887
+"994","CC","GO:0005829","cytosol",155,"EPHB3",-1.444204795,2.5e-09,-12.4498995979887
+"995","CC","GO:0005829","cytosol",155,"KRT4",-4.458252913,2.5e-09,-12.4498995979887
+"996","CC","GO:0005829","cytosol",155,"MSX2",-1.108137438,2.5e-09,-12.4498995979887
+"997","CC","GO:0005829","cytosol",155,"C17ORF49",-1.459654068,2.5e-09,-12.4498995979887
+"998","CC","GO:0005829","cytosol",155,"AP1B1",-1.077603375,2.5e-09,-12.4498995979887
+"999","CC","GO:0005829","cytosol",155,"LMO7",-1.657564928,2.5e-09,-12.4498995979887
+"1000","CC","GO:0005829","cytosol",155,"RUNDC3A",-1.760027929,2.5e-09,-12.4498995979887
+"1001","CC","GO:0005829","cytosol",155,"KRT9",-2.829013809,2.5e-09,-12.4498995979887
+"1002","CC","GO:0005829","cytosol",155,"INPP4B",-2.59563884,2.5e-09,-12.4498995979887
+"1003","CC","GO:0005829","cytosol",155,"MYL6",-1.062868944,2.5e-09,-12.4498995979887
+"1004","CC","GO:0005829","cytosol",155,"DAAM1",-1.467516745,2.5e-09,-12.4498995979887
+"1005","CC","GO:0005829","cytosol",155,"RBP1",-5.622330943,2.5e-09,-12.4498995979887
+"1006","CC","GO:0005829","cytosol",155,"PSME1",-1.975073203,2.5e-09,-12.4498995979887
+"1007","CC","GO:0005829","cytosol",155,"GEMIN4",-1.045195773,2.5e-09,-12.4498995979887
+"1008","CC","GO:0005829","cytosol",155,"PSME2",-1.422399127,2.5e-09,-12.4498995979887
+"1009","CC","GO:0005829","cytosol",155,"SNRPF",-1.013021811,2.5e-09,-12.4498995979887
+"1010","CC","GO:0005829","cytosol",155,"PHLDB2",-1.286264995,2.5e-09,-12.4498995979887
+"1011","CC","GO:0005829","cytosol",155,"FLG",-1.861645474,2.5e-09,-12.4498995979887
+"1012","CC","GO:0005829","cytosol",155,"MAOA",-2.010954891,2.5e-09,-12.4498995979887
+"1013","CC","GO:0005829","cytosol",155,"PSMD13",-1.110225223,2.5e-09,-12.4498995979887
+"1014","CC","GO:0005829","cytosol",155,"CDCA5",-2.598041784,2.5e-09,-12.4498995979887
+"1015","CC","GO:0005829","cytosol",155,"C1ORF198",-1.183480534,2.5e-09,-12.4498995979887
+"1016","CC","GO:0005829","cytosol",155,"NCAPG",-3.081687148,2.5e-09,-12.4498995979887
+"1017","CC","GO:0005829","cytosol",155,"HMMR",-2.168856182,2.5e-09,-12.4498995979887
+"1018","CC","GO:0005829","cytosol",155,"WDR62",-1.504383964,2.5e-09,-12.4498995979887
+"1019","CC","GO:0005829","cytosol",155,"RPS4Y1",-1.425424457,2.5e-09,-12.4498995979887
+"1020","CC","GO:0005829","cytosol",155,"DDX60",-2.117877531,2.5e-09,-12.4498995979887
+"1021","CC","GO:0005829","cytosol",155,"MTMR4",-1.106603349,2.5e-09,-12.4498995979887
+"1022","CC","GO:0005829","cytosol",155,"SKA3",-4.726603201,2.5e-09,-12.4498995979887
+"1023","CC","GO:0005829","cytosol",155,"HIF1A",-1.025051181,2.5e-09,-12.4498995979887
+"1024","CC","GO:0005829","cytosol",155,"SKA1",-2.186731221,2.5e-09,-12.4498995979887
+"1025","CC","GO:0005829","cytosol",155,"HSP90B1",-1.080957784,2.5e-09,-12.4498995979887
+"1026","CC","GO:0005829","cytosol",155,"CCNB2",-1.603112433,2.5e-09,-12.4498995979887
+"1027","CC","GO:0005829","cytosol",155,"CCNB1",-2.684593035,2.5e-09,-12.4498995979887
+"1028","CC","GO:0005829","cytosol",155,"COMMD9",-1.905964913,2.5e-09,-12.4498995979887
+"1029","CC","GO:0005829","cytosol",155,"PDZD2",-1.477018252,2.5e-09,-12.4498995979887
+"1030","CC","GO:0005829","cytosol",155,"SERF2",-1.491131941,2.5e-09,-12.4498995979887
+"1031","CC","GO:0005829","cytosol",155,"SPRR2D",-2.390796129,2.5e-09,-12.4498995979887
+"1032","CC","GO:0005829","cytosol",155,"FANCI",-1.54434662,2.5e-09,-12.4498995979887
+"1033","CC","GO:0005829","cytosol",155,"BTF3",-1.086859698,2.5e-09,-12.4498995979887
+"1034","CC","GO:0005829","cytosol",155,"FIS1",-1.331866359,2.5e-09,-12.4498995979887
+"1035","CC","GO:0005829","cytosol",155,"CDT1",-2.35889532,2.5e-09,-12.4498995979887
+"1036","CC","GO:0005829","cytosol",155,"RPL41",-1.123259734,2.5e-09,-12.4498995979887
+"1037","CC","GO:0005829","cytosol",155,"TFAP2C",-1.18423657,2.5e-09,-12.4498995979887
+"1038","CC","GO:0005829","cytosol",155,"UBE2C",-1.563087107,2.5e-09,-12.4498995979887
+"1039","CC","GO:0005829","cytosol",155,"PLK2",-1.969957039,2.5e-09,-12.4498995979887
+"1040","CC","GO:0005829","cytosol",155,"ISG15",-2.361451804,2.5e-09,-12.4498995979887
+"1041","CC","GO:0005829","cytosol",155,"EEF2",-1.450918315,2.5e-09,-12.4498995979887
+"1042","CC","GO:0005829","cytosol",155,"NDC80",-2.0257484,2.5e-09,-12.4498995979887
+"1043","CC","GO:0005829","cytosol",155,"TPX2",-1.131678158,2.5e-09,-12.4498995979887
+"1044","CC","GO:0005829","cytosol",155,"POLA2",-2.339056029,2.5e-09,-12.4498995979887
+"1045","CC","GO:0005829","cytosol",155,"HAL",-2.762783764,2.5e-09,-12.4498995979887
+"1046","CC","GO:0005829","cytosol",155,"DIAPH3",-1.641180252,2.5e-09,-12.4498995979887
+"1047","CC","GO:0005829","cytosol",155,"KIF4A",-2.267898968,2.5e-09,-12.4498995979887
+"1048","CC","GO:0005829","cytosol",155,"CHMP2A",-1.145093747,2.5e-09,-12.4498995979887
+"1049","CC","GO:0005829","cytosol",155,"CALM3",-1.072241542,2.5e-09,-12.4498995979887
+"1050","CC","GO:0005829","cytosol",155,"BLMH",-1.846850819,2.5e-09,-12.4498995979887
+"1051","CC","GO:0005829","cytosol",155,"ACO2",-1.186643572,2.5e-09,-12.4498995979887
+"1052","CC","GO:0005829","cytosol",155,"COPS8",-1.104877039,2.5e-09,-12.4498995979887
+"1053","CC","GO:0005829","cytosol",155,"GSDME",-1.223861174,2.5e-09,-12.4498995979887
+"1054","CC","GO:0005829","cytosol",155,"ABCD3",-1.132374803,2.5e-09,-12.4498995979887
+"1055","CC","GO:0005829","cytosol",155,"MCM7",-1.091952331,2.5e-09,-12.4498995979887
+"1056","CC","GO:0005829","cytosol",155,"CITED2",-1.957983703,2.5e-09,-12.4498995979887
+"1057","CC","GO:0005829","cytosol",155,"COX4I1",-1.116529179,2.5e-09,-12.4498995979887
+"1058","CC","GO:0005829","cytosol",155,"HSPB8",-1.089837736,2.5e-09,-12.4498995979887
+"1059","CC","GO:0005829","cytosol",155,"QPRT",-4.054029095,2.5e-09,-12.4498995979887
+"1060","CC","GO:0005829","cytosol",155,"KRT24",-4.182758059,2.5e-09,-12.4498995979887
+"1061","CC","GO:0005829","cytosol",155,"CLTB",-1.865844,2.5e-09,-12.4498995979887
+"1062","CC","GO:0005829","cytosol",155,"KRT23",-2.325895748,2.5e-09,-12.4498995979887
+"1063","CC","GO:0005829","cytosol",155,"YBX1",-1.211529865,2.5e-09,-12.4498995979887
+"1064","CC","GO:0005829","cytosol",155,"KIF11",-2.72901755,2.5e-09,-12.4498995979887
+"1065","CC","GO:0005829","cytosol",155,"RND3",-1.299478788,2.5e-09,-12.4498995979887
+"1066","CC","GO:0005829","cytosol",155,"OASL",-1.756696805,2.5e-09,-12.4498995979887
+"1067","CC","GO:0005829","cytosol",155,"CTSH",-2.030209213,2.5e-09,-12.4498995979887
+"1068","CC","GO:0005829","cytosol",155,"MYBL2",-2.627598643,2.5e-09,-12.4498995979887
+"1069","CC","GO:0005829","cytosol",155,"DLGAP5",-2.765225513,2.5e-09,-12.4498995979887
+"1070","CC","GO:0005829","cytosol",155,"ZNF385A",-2.022756251,2.5e-09,-12.4498995979887
+"1071","CC","GO:0005829","cytosol",155,"MIOS",-1.025466198,2.5e-09,-12.4498995979887
+"1072","CC","GO:0005829","cytosol",155,"ARG1",-1.909387625,2.5e-09,-12.4498995979887
+"1073","CC","GO:0005829","cytosol",155,"CKAP2L",-4.392047476,2.5e-09,-12.4498995979887
+"1074","CC","GO:0005829","cytosol",155,"GAB1",-1.4096689,2.5e-09,-12.4498995979887
+"1075","CC","GO:0005829","cytosol",155,"COMMD1",-1.05381083,2.5e-09,-12.4498995979887
+"1076","CC","GO:0005829","cytosol",155,"SMC1A",-1.119516728,2.5e-09,-12.4498995979887
+"1077","CC","GO:0005829","cytosol",155,"COPZ1",-1.261227883,2.5e-09,-12.4498995979887
+"1078","CC","GO:0005829","cytosol",155,"RHOB",-1.290393131,2.5e-09,-12.4498995979887
+"1079","CC","GO:0005829","cytosol",155,"CCNA2",-2.514501424,2.5e-09,-12.4498995979887
+"1080","CC","GO:0005829","cytosol",155,"IL1A",-1.70651281,2.5e-09,-12.4498995979887
+"1081","CC","GO:0005829","cytosol",155,"ARL4A",-1.073056787,2.5e-09,-12.4498995979887
+"1082","CC","GO:0005829","cytosol",155,"SAPCD2",-4.003650157,2.5e-09,-12.4498995979887
+"1083","CC","GO:0005829","cytosol",155,"PSMA2",-1.33808643,2.5e-09,-12.4498995979887
+"1084","CC","GO:0005829","cytosol",155,"PELI1",-1.065135426,2.5e-09,-12.4498995979887
+"1085","CC","GO:0005829","cytosol",155,"BIRC5",-4.82778078,2.5e-09,-12.4498995979887
+"1086","CC","GO:0005829","cytosol",155,"MCM5",-1.96770465,2.5e-09,-12.4498995979887
+"1087","CC","GO:0005829","cytosol",155,"KIF2C",-1.573249981,2.5e-09,-12.4498995979887
+"1088","CC","GO:0005829","cytosol",155,"PABPC1",-1.395569488,2.5e-09,-12.4498995979887
+"1089","CC","GO:0005829","cytosol",155,"SGK1",-1.289630285,2.5e-09,-12.4498995979887
+"1090","CC","GO:0005829","cytosol",155,"PFDN5",-1.124167798,2.5e-09,-12.4498995979887
+"1091","CC","GO:0005829","cytosol",155,"CRYAB",-1.075511568,2.5e-09,-12.4498995979887
+"1092","CC","GO:0005829","cytosol",155,"HDAC5",-1.39987283,2.5e-09,-12.4498995979887
+"1093","CC","GO:0005829","cytosol",155,"SPRR3",-2.395550882,2.5e-09,-12.4498995979887
+"1094","CC","GO:0005829","cytosol",155,"KRT80",-2.12731786,2.5e-09,-12.4498995979887
+"1095","CC","GO:0005829","cytosol",155,"NBAS",-1.196777922,2.5e-09,-12.4498995979887
+"1096","CC","GO:0005829","cytosol",155,"ACSS2",-1.212451338,2.5e-09,-12.4498995979887
+"1097","CC","GO:0005829","cytosol",155,"ATF6B",-1.246812951,2.5e-09,-12.4498995979887
+"1098","CC","GO:0005829","cytosol",155,"NXN",-1.063158904,2.5e-09,-12.4498995979887
+"1099","CC","GO:0005829","cytosol",155,"RAB1B",-1.374840759,2.5e-09,-12.4498995979887
+"1100","CC","GO:0005829","cytosol",155,"DCTN3",-1.250277975,2.5e-09,-12.4498995979887
+"1101","CC","GO:0005829","cytosol",155,"ADD3",-1.05761241,2.5e-09,-12.4498995979887
+"1102","CC","GO:0005829","cytosol",155,"TYMS",-3.302288382,2.5e-09,-12.4498995979887
+"1103","CC","GO:0005829","cytosol",155,"AURKA",-2.157863191,2.5e-09,-12.4498995979887
+"1104","CC","GO:0005829","cytosol",155,"PSMB6",-1.149097968,2.5e-09,-12.4498995979887
+"1105","CC","GO:0005829","cytosol",155,"NT5E",-1.549835425,2.5e-09,-12.4498995979887
+"1106","CC","GO:0005829","cytosol",155,"MIEN1",-1.055515865,2.5e-09,-12.4498995979887
+"1107","CC","GO:0005829","cytosol",155,"RASSF10",-2.935135078,2.5e-09,-12.4498995979887
+"1108","CC","GO:0005829","cytosol",155,"VPS51",-1.037365547,2.5e-09,-12.4498995979887
+"1109","CC","GO:0005829","cytosol",155,"VPS52",-1.240656472,2.5e-09,-12.4498995979887
+"1110","CC","GO:0005829","cytosol",155,"POLR2F",-1.359421471,2.5e-09,-12.4498995979887
+"1111","CC","GO:0005829","cytosol",155,"TNNI2",-4.967354523,2.5e-09,-12.4498995979887
+"1112","CC","GO:0005829","cytosol",155,"CKB",-1.620763286,2.5e-09,-12.4498995979887
+"1113","CC","GO:0005829","cytosol",155,"GBP2",-1.961905339,2.5e-09,-12.4498995979887
+"1114","CC","GO:0005829","cytosol",155,"RPL18",-1.850670338,2.5e-09,-12.4498995979887
+"1115","CC","GO:0005829","cytosol",155,"FNIP2",-1.063407667,2.5e-09,-12.4498995979887
+"1116","CC","GO:0005829","cytosol",155,"XDH",-1.289665508,2.5e-09,-12.4498995979887
+"1117","CC","GO:0005829","cytosol",155,"BUB1",-2.28040653,2.5e-09,-12.4498995979887
+"1118","CC","GO:0005829","cytosol",155,"POLR2K",-1.016799002,2.5e-09,-12.4498995979887
+"1119","CC","GO:0005829","cytosol",155,"RRM2",-2.568059954,2.5e-09,-12.4498995979887
+"1120","CC","GO:0005829","cytosol",155,"CENPF",-2.275729701,2.5e-09,-12.4498995979887
+"1121","CC","GO:0005829","cytosol",155,"PSMC5",-1.209862249,2.5e-09,-12.4498995979887
+"1122","CC","GO:0005829","cytosol",155,"NLRP10",-1.513244708,2.5e-09,-12.4498995979887
+"1123","CC","GO:0005829","cytosol",155,"PRC1",-1.59537456,2.5e-09,-12.4498995979887
+"1124","CC","GO:0005829","cytosol",155,"KRT15",-2.668777092,2.5e-09,-12.4498995979887
+"1125","CC","GO:0005829","cytosol",155,"RAB13",-1.394619098,2.5e-09,-12.4498995979887
+"1126","CC","GO:0005829","cytosol",155,"EIF3H",-1.840220589,2.5e-09,-12.4498995979887
+"1127","CC","GO:0005829","cytosol",155,"PFKM",-1.413282314,2.5e-09,-12.4498995979887
+"1128","CC","GO:0005829","cytosol",155,"CDKN3",-2.049376083,2.5e-09,-12.4498995979887
+"1129","CC","GO:0070062","extracellular exosome",66,"SCARB1",-1.170384899,7.78e-05,-8.12403840463596
+"1130","CC","GO:0070062","extracellular exosome",66,"SLC44A2",-1.389592046,7.78e-05,-8.12403840463596
+"1131","CC","GO:0070062","extracellular exosome",66,"CD81",-1.046762265,7.78e-05,-8.12403840463596
+"1132","CC","GO:0070062","extracellular exosome",66,"QPRT",-4.054029095,7.78e-05,-8.12403840463596
+"1133","CC","GO:0070062","extracellular exosome",66,"CTNND1",-1.41642079,7.78e-05,-8.12403840463596
+"1134","CC","GO:0070062","extracellular exosome",66,"KRT24",-4.182758059,7.78e-05,-8.12403840463596
+"1135","CC","GO:0070062","extracellular exosome",66,"YBX1",-1.211529865,7.78e-05,-8.12403840463596
+"1136","CC","GO:0070062","extracellular exosome",66,"LAMP1",-1.142189529,7.78e-05,-8.12403840463596
+"1137","CC","GO:0070062","extracellular exosome",66,"STMN1",-1.190750809,7.78e-05,-8.12403840463596
+"1138","CC","GO:0070062","extracellular exosome",66,"COTL1",-1.895838907,7.78e-05,-8.12403840463596
+"1139","CC","GO:0070062","extracellular exosome",66,"CTSH",-2.030209213,7.78e-05,-8.12403840463596
+"1140","CC","GO:0070062","extracellular exosome",66,"CHP1",-1.070573012,7.78e-05,-8.12403840463596
+"1141","CC","GO:0070062","extracellular exosome",66,"GET3",-1.499379814,7.78e-05,-8.12403840463596
+"1142","CC","GO:0070062","extracellular exosome",66,"B2M",-2.436091153,7.78e-05,-8.12403840463596
+"1143","CC","GO:0070062","extracellular exosome",66,"TGM3",-3.110713324,7.78e-05,-8.12403840463596
+"1144","CC","GO:0070062","extracellular exosome",66,"ATP6AP1",-1.045449619,7.78e-05,-8.12403840463596
+"1145","CC","GO:0070062","extracellular exosome",66,"RNASET2",-2.750830531,7.78e-05,-8.12403840463596
+"1146","CC","GO:0070062","extracellular exosome",66,"HLA-A",-1.295197926,7.78e-05,-8.12403840463596
+"1147","CC","GO:0070062","extracellular exosome",66,"RHOB",-1.290393131,7.78e-05,-8.12403840463596
+"1148","CC","GO:0070062","extracellular exosome",66,"KRT9",-2.829013809,7.78e-05,-8.12403840463596
+"1149","CC","GO:0070062","extracellular exosome",66,"HLA-E",-1.132489067,7.78e-05,-8.12403840463596
+"1150","CC","GO:0070062","extracellular exosome",66,"SCAMP2",-1.113366368,7.78e-05,-8.12403840463596
+"1151","CC","GO:0070062","extracellular exosome",66,"TOM1L2",-1.524092373,7.78e-05,-8.12403840463596
+"1152","CC","GO:0070062","extracellular exosome",66,"SCNN1G",-2.232669958,7.78e-05,-8.12403840463596
+"1153","CC","GO:0070062","extracellular exosome",66,"MYL6",-1.062868944,7.78e-05,-8.12403840463596
+"1154","CC","GO:0070062","extracellular exosome",66,"TUBB2A",-1.393593431,7.78e-05,-8.12403840463596
+"1155","CC","GO:0070062","extracellular exosome",66,"PSMA2",-1.33808643,7.78e-05,-8.12403840463596
+"1156","CC","GO:0070062","extracellular exosome",66,"SCNN1B",-3.408094776,7.78e-05,-8.12403840463596
+"1157","CC","GO:0070062","extracellular exosome",66,"NCL",-1.298388981,7.78e-05,-8.12403840463596
+"1158","CC","GO:0070062","extracellular exosome",66,"UFC1",-1.331222109,7.78e-05,-8.12403840463596
+"1159","CC","GO:0070062","extracellular exosome",66,"GEMIN4",-1.045195773,7.78e-05,-8.12403840463596
+"1160","CC","GO:0070062","extracellular exosome",66,"PSME1",-1.975073203,7.78e-05,-8.12403840463596
+"1161","CC","GO:0070062","extracellular exosome",66,"PSME2",-1.422399127,7.78e-05,-8.12403840463596
+"1162","CC","GO:0070062","extracellular exosome",66,"PABPC1",-1.395569488,7.78e-05,-8.12403840463596
+"1163","CC","GO:0070062","extracellular exosome",66,"CDH16",-1.578872307,7.78e-05,-8.12403840463596
+"1164","CC","GO:0070062","extracellular exosome",66,"CRYAB",-1.075511568,7.78e-05,-8.12403840463596
+"1165","CC","GO:0070062","extracellular exosome",66,"CFD",-4.624954144,7.78e-05,-8.12403840463596
+"1166","CC","GO:0070062","extracellular exosome",66,"SPRR3",-2.395550882,7.78e-05,-8.12403840463596
+"1167","CC","GO:0070062","extracellular exosome",66,"PMEL",-3.405802021,7.78e-05,-8.12403840463596
+"1168","CC","GO:0070062","extracellular exosome",66,"SEMA3C",-1.670859906,7.78e-05,-8.12403840463596
+"1169","CC","GO:0070062","extracellular exosome",66,"RAB1B",-1.374840759,7.78e-05,-8.12403840463596
+"1170","CC","GO:0070062","extracellular exosome",66,"FBLN1",-2.999521972,7.78e-05,-8.12403840463596
+"1171","CC","GO:0070062","extracellular exosome",66,"GDPD3",-1.019454547,7.78e-05,-8.12403840463596
+"1172","CC","GO:0070062","extracellular exosome",66,"LTBP2",-1.683930865,7.78e-05,-8.12403840463596
+"1173","CC","GO:0070062","extracellular exosome",66,"THBS1",-2.628866139,7.78e-05,-8.12403840463596
+"1174","CC","GO:0070062","extracellular exosome",66,"HSP90B1",-1.080957784,7.78e-05,-8.12403840463596
+"1175","CC","GO:0070062","extracellular exosome",66,"DPP4",-2.491068494,7.78e-05,-8.12403840463596
+"1176","CC","GO:0070062","extracellular exosome",66,"PSMB6",-1.149097968,7.78e-05,-8.12403840463596
+"1177","CC","GO:0070062","extracellular exosome",66,"LMAN1",-1.068518332,7.78e-05,-8.12403840463596
+"1178","CC","GO:0070062","extracellular exosome",66,"NT5E",-1.549835425,7.78e-05,-8.12403840463596
+"1179","CC","GO:0070062","extracellular exosome",66,"PPP1R7",-1.32746383,7.78e-05,-8.12403840463596
+"1180","CC","GO:0070062","extracellular exosome",66,"CKB",-1.620763286,7.78e-05,-8.12403840463596
+"1181","CC","GO:0070062","extracellular exosome",66,"GPR155",-2.69242839,7.78e-05,-8.12403840463596
+"1182","CC","GO:0070062","extracellular exosome",66,"EEF2",-1.450918315,7.78e-05,-8.12403840463596
+"1183","CC","GO:0070062","extracellular exosome",66,"SORL1",-1.518726004,7.78e-05,-8.12403840463596
+"1184","CC","GO:0070062","extracellular exosome",66,"VASN",-1.609665567,7.78e-05,-8.12403840463596
+"1185","CC","GO:0070062","extracellular exosome",66,"NUDT9",-1.396138395,7.78e-05,-8.12403840463596
+"1186","CC","GO:0070062","extracellular exosome",66,"PSMC5",-1.209862249,7.78e-05,-8.12403840463596
+"1187","CC","GO:0070062","extracellular exosome",66,"NACA",-1.176857262,7.78e-05,-8.12403840463596
+"1188","CC","GO:0070062","extracellular exosome",66,"KRT15",-2.668777092,7.78e-05,-8.12403840463596
+"1189","CC","GO:0070062","extracellular exosome",66,"RAB13",-1.394619098,7.78e-05,-8.12403840463596
+"1190","CC","GO:0070062","extracellular exosome",66,"CHMP2A",-1.145093747,7.78e-05,-8.12403840463596
+"1191","CC","GO:0070062","extracellular exosome",66,"NUCB1",-2.171160267,7.78e-05,-8.12403840463596
+"1192","CC","GO:0070062","extracellular exosome",66,"EIF3H",-1.840220589,7.78e-05,-8.12403840463596
+"1193","CC","GO:0070062","extracellular exosome",66,"BLMH",-1.846850819,7.78e-05,-8.12403840463596
+"1194","CC","GO:0070062","extracellular exosome",66,"COPS8",-1.104877039,7.78e-05,-8.12403840463596
+"1195","CC","GO:0005813","centrosome",18,"CKAP2L",-4.392047476,0.033672268,-4.24264068711929
+"1196","CC","GO:0005813","centrosome",18,"PLK2",-1.969957039,0.033672268,-4.24264068711929
+"1197","CC","GO:0005813","centrosome",18,"DCTN3",-1.250277975,0.033672268,-4.24264068711929
+"1198","CC","GO:0005813","centrosome",18,"WDR62",-1.504383964,0.033672268,-4.24264068711929
+"1199","CC","GO:0005813","centrosome",18,"HMMR",-2.168856182,0.033672268,-4.24264068711929
+"1200","CC","GO:0005813","centrosome",18,"SKA3",-4.726603201,0.033672268,-4.24264068711929
+"1201","CC","GO:0005813","centrosome",18,"NDC80",-2.0257484,0.033672268,-4.24264068711929
+"1202","CC","GO:0005813","centrosome",18,"AURKA",-2.157863191,0.033672268,-4.24264068711929
+"1203","CC","GO:0005813","centrosome",18,"CDC20",-1.821017204,0.033672268,-4.24264068711929
+"1204","CC","GO:0005813","centrosome",18,"ASPM",-2.052538855,0.033672268,-4.24264068711929
+"1205","CC","GO:0005813","centrosome",18,"CCNB2",-1.603112433,0.033672268,-4.24264068711929
+"1206","CC","GO:0005813","centrosome",18,"CENPF",-2.275729701,0.033672268,-4.24264068711929
+"1207","CC","GO:0005813","centrosome",18,"CCNB1",-2.684593035,0.033672268,-4.24264068711929
+"1208","CC","GO:0005813","centrosome",18,"CALM3",-1.072241542,0.033672268,-4.24264068711929
+"1209","CC","GO:0005813","centrosome",18,"KIF2C",-1.573249981,0.033672268,-4.24264068711929
+"1210","CC","GO:0005813","centrosome",18,"SAC3D1",-1.954837022,0.033672268,-4.24264068711929
+"1211","CC","GO:0005813","centrosome",18,"CEP55",-5.160597801,0.033672268,-4.24264068711929
+"1212","CC","GO:0005813","centrosome",18,"ZNF365",-1.332327732,0.033672268,-4.24264068711929
+"1213","CC","GO:0005743","mitochondrial inner membrane",18,"COX7B",-1.363199979,0.008813401,-4.24264068711929
+"1214","CC","GO:0005743","mitochondrial inner membrane",18,"NDUFA11",-1.064419922,0.008813401,-4.24264068711929
+"1215","CC","GO:0005743","mitochondrial inner membrane",18,"ATP5PB",-1.697656649,0.008813401,-4.24264068711929
+"1216","CC","GO:0005743","mitochondrial inner membrane",18,"NDUFB11",-1.77577287,0.008813401,-4.24264068711929
+"1217","CC","GO:0005743","mitochondrial inner membrane",18,"COX4I1",-1.116529179,0.008813401,-4.24264068711929
+"1218","CC","GO:0005743","mitochondrial inner membrane",18,"TMEM160",-1.681495596,0.008813401,-4.24264068711929
+"1219","CC","GO:0005743","mitochondrial inner membrane",18,"SDHD",-1.073238405,0.008813401,-4.24264068711929
+"1220","CC","GO:0005743","mitochondrial inner membrane",18,"TYMS",-3.302288382,0.008813401,-4.24264068711929
+"1221","CC","GO:0005743","mitochondrial inner membrane",18,"COX6A1",-1.399900045,0.008813401,-4.24264068711929
+"1222","CC","GO:0005743","mitochondrial inner membrane",18,"MRPL21",-1.395459458,0.008813401,-4.24264068711929
+"1223","CC","GO:0005743","mitochondrial inner membrane",18,"MRPL11",-1.381028276,0.008813401,-4.24264068711929
+"1224","CC","GO:0005743","mitochondrial inner membrane",18,"HADHB",-1.751065051,0.008813401,-4.24264068711929
+"1225","CC","GO:0005743","mitochondrial inner membrane",18,"COQ3",-1.406654418,0.008813401,-4.24264068711929
+"1226","CC","GO:0005743","mitochondrial inner membrane",18,"COQ2",-1.288355611,0.008813401,-4.24264068711929
+"1227","CC","GO:0005743","mitochondrial inner membrane",18,"MRPS9",-1.026417912,0.008813401,-4.24264068711929
+"1228","CC","GO:0005743","mitochondrial inner membrane",18,"CYP24A1",-2.11789452,0.008813401,-4.24264068711929
+"1229","CC","GO:0005743","mitochondrial inner membrane",18,"MPC1",-1.363504311,0.008813401,-4.24264068711929
+"1230","CC","GO:0005743","mitochondrial inner membrane",18,"NDUFS3",-1.156225535,0.008813401,-4.24264068711929
+"1231","CC","GO:0005765","lysosomal membrane",15,"SCARB1",-1.170384899,0.01587381,-3.87298334620742
+"1232","CC","GO:0005765","lysosomal membrane",15,"MIOS",-1.025466198,0.01587381,-3.87298334620742
+"1233","CC","GO:0005765","lysosomal membrane",15,"ATP6AP1",-1.045449619,0.01587381,-3.87298334620742
+"1234","CC","GO:0005765","lysosomal membrane",15,"SLC44A2",-1.389592046,0.01587381,-3.87298334620742
+"1235","CC","GO:0005765","lysosomal membrane",15,"AP1B1",-1.077603375,0.01587381,-3.87298334620742
+"1236","CC","GO:0005765","lysosomal membrane",15,"HLA-A",-1.295197926,0.01587381,-3.87298334620742
+"1237","CC","GO:0005765","lysosomal membrane",15,"VASN",-1.609665567,0.01587381,-3.87298334620742
+"1238","CC","GO:0005765","lysosomal membrane",15,"DPP4",-2.491068494,0.01587381,-3.87298334620742
+"1239","CC","GO:0005765","lysosomal membrane",15,"LAMP1",-1.142189529,0.01587381,-3.87298334620742
+"1240","CC","GO:0005765","lysosomal membrane",15,"CHMP2A",-1.145093747,0.01587381,-3.87298334620742
+"1241","CC","GO:0005765","lysosomal membrane",15,"HPSE",-1.202283221,0.01587381,-3.87298334620742
+"1242","CC","GO:0005765","lysosomal membrane",15,"CD68",-1.452604628,0.01587381,-3.87298334620742
+"1243","CC","GO:0005765","lysosomal membrane",15,"FNIP2",-1.063407667,0.01587381,-3.87298334620742
+"1244","CC","GO:0005765","lysosomal membrane",15,"GPR155",-2.69242839,0.01587381,-3.87298334620742
+"1245","CC","GO:0005765","lysosomal membrane",15,"B2M",-2.436091153,0.01587381,-3.87298334620742
+"1246","CC","GO:0005694","chromosome",11,"MYCL",-2.084860976,0.020026579,-3.3166247903554
+"1247","CC","GO:0005694","chromosome",11,"MCM7",-1.091952331,0.020026579,-3.3166247903554
+"1248","CC","GO:0005694","chromosome",11,"PRC1",-1.59537456,0.020026579,-3.3166247903554
+"1249","CC","GO:0005694","chromosome",11,"NCL",-1.298388981,0.020026579,-3.3166247903554
+"1250","CC","GO:0005694","chromosome",11,"PPP1R7",-1.32746383,0.020026579,-3.3166247903554
+"1251","CC","GO:0005694","chromosome",11,"KIF4A",-2.267898968,0.020026579,-3.3166247903554
+"1252","CC","GO:0005694","chromosome",11,"CDCA5",-2.598041784,0.020026579,-3.3166247903554
+"1253","CC","GO:0005694","chromosome",11,"MCM5",-1.96770465,0.020026579,-3.3166247903554
+"1254","CC","GO:0005694","chromosome",11,"TRIP13",-1.921303468,0.020026579,-3.3166247903554
+"1255","CC","GO:0005694","chromosome",11,"SSRP1",-1.192686714,0.020026579,-3.3166247903554
+"1256","CC","GO:0005694","chromosome",11,"SMC1A",-1.119516728,0.020026579,-3.3166247903554
+"1257","CC","GO:1904813","ficolin-1-rich granule lumen",7,"CFD",-4.624954144,0.026098537,-2.64575131106459
+"1258","CC","GO:1904813","ficolin-1-rich granule lumen",7,"COMMD9",-1.905964913,0.026098537,-2.64575131106459
+"1259","CC","GO:1904813","ficolin-1-rich granule lumen",7,"PSMA2",-1.33808643,0.026098537,-2.64575131106459
+"1260","CC","GO:1904813","ficolin-1-rich granule lumen",7,"PSMD13",-1.110225223,0.026098537,-2.64575131106459
+"1261","CC","GO:1904813","ficolin-1-rich granule lumen",7,"COTL1",-1.895838907,0.026098537,-2.64575131106459
+"1262","CC","GO:1904813","ficolin-1-rich granule lumen",7,"CTSH",-2.030209213,0.026098537,-2.64575131106459
+"1263","CC","GO:1904813","ficolin-1-rich granule lumen",7,"EEF2",-1.450918315,0.026098537,-2.64575131106459
+"1264","CC","GO:0032588","trans-Golgi network membrane",6,"SCAMP4",-1.207976491,0.044781034,-2.44948974278318
+"1265","CC","GO:0032588","trans-Golgi network membrane",6,"VPS51",-1.037365547,0.044781034,-2.44948974278318
+"1266","CC","GO:0032588","trans-Golgi network membrane",6,"VPS52",-1.240656472,0.044781034,-2.44948974278318
+"1267","CC","GO:0032588","trans-Golgi network membrane",6,"AP1B1",-1.077603375,0.044781034,-2.44948974278318
+"1268","CC","GO:0032588","trans-Golgi network membrane",6,"ATP2C2",-2.355999272,0.044781034,-2.44948974278318
+"1269","CC","GO:0032588","trans-Golgi network membrane",6,"SCAMP2",-1.113366368,0.044781034,-2.44948974278318
+"1270","CC","GO:0045171","intercellular bridge",6,"TPX2",-1.131678158,0.035049016,-2.44948974278318
+"1271","CC","GO:0045171","intercellular bridge",6,"TUBB2A",-1.393593431,0.035049016,-2.44948974278318
+"1272","CC","GO:0045171","intercellular bridge",6,"PRC1",-1.59537456,0.035049016,-2.44948974278318
+"1273","CC","GO:0045171","intercellular bridge",6,"KIF20A",-2.786504036,0.035049016,-2.44948974278318
+"1274","CC","GO:0045171","intercellular bridge",6,"SKA1",-2.186731221,0.035049016,-2.44948974278318
+"1275","CC","GO:0045171","intercellular bridge",6,"CEP55",-5.160597801,0.035049016,-2.44948974278318
+"1276","CC","GO:0034774","secretory granule lumen",7,"CFD",-4.624954144,0.018853809,-2.64575131106459
+"1277","CC","GO:0034774","secretory granule lumen",7,"COMMD9",-1.905964913,0.018853809,-2.64575131106459
+"1278","CC","GO:0034774","secretory granule lumen",7,"PSMA2",-1.33808643,0.018853809,-2.64575131106459
+"1279","CC","GO:0034774","secretory granule lumen",7,"PSMD13",-1.110225223,0.018853809,-2.64575131106459
+"1280","CC","GO:0034774","secretory granule lumen",7,"COTL1",-1.895838907,0.018853809,-2.64575131106459
+"1281","CC","GO:0034774","secretory granule lumen",7,"CTSH",-2.030209213,0.018853809,-2.64575131106459
+"1282","CC","GO:0034774","secretory granule lumen",7,"EEF2",-1.450918315,0.018853809,-2.64575131106459
+"1283","CC","GO:0015630","microtubule cytoskeleton",12,"CCNB2",-1.603112433,0.000956,-3.46410161513775
+"1284","CC","GO:0015630","microtubule cytoskeleton",12,"TPX2",-1.131678158,0.000956,-3.46410161513775
+"1285","CC","GO:0015630","microtubule cytoskeleton",12,"TUBB2A",-1.393593431,0.000956,-3.46410161513775
+"1286","CC","GO:0015630","microtubule cytoskeleton",12,"CKAP2L",-4.392047476,0.000956,-3.46410161513775
+"1287","CC","GO:0015630","microtubule cytoskeleton",12,"PRC1",-1.59537456,0.000956,-3.46410161513775
+"1288","CC","GO:0015630","microtubule cytoskeleton",12,"BIRC5",-4.82778078,0.000956,-3.46410161513775
+"1289","CC","GO:0015630","microtubule cytoskeleton",12,"CHP1",-1.070573012,0.000956,-3.46410161513775
+"1290","CC","GO:0015630","microtubule cytoskeleton",12,"KIF2C",-1.573249981,0.000956,-3.46410161513775
+"1291","CC","GO:0015630","microtubule cytoskeleton",12,"HMMR",-2.168856182,0.000956,-3.46410161513775
+"1292","CC","GO:0015630","microtubule cytoskeleton",12,"CRYAB",-1.075511568,0.000956,-3.46410161513775
+"1293","CC","GO:0015630","microtubule cytoskeleton",12,"SKA1",-2.186731221,0.000956,-3.46410161513775
+"1294","CC","GO:0015630","microtubule cytoskeleton",12,"AURKA",-2.157863191,0.000956,-3.46410161513775
+"1295","CC","GO:0034451","centriolar satellite",8,"MIEN1",-1.055515865,0.009814377,-2.82842712474619
+"1296","CC","GO:0034451","centriolar satellite",8,"PDZD2",-1.477018252,0.009814377,-2.82842712474619
+"1297","CC","GO:0034451","centriolar satellite",8,"WDR62",-1.504383964,0.009814377,-2.82842712474619
+"1298","CC","GO:0034451","centriolar satellite",8,"FNIP2",-1.063407667,0.009814377,-2.82842712474619
+"1299","CC","GO:0034451","centriolar satellite",8,"SKA1",-2.186731221,0.009814377,-2.82842712474619
+"1300","CC","GO:0034451","centriolar satellite",8,"DLGAP5",-2.765225513,0.009814377,-2.82842712474619
+"1301","CC","GO:0034451","centriolar satellite",8,"CEP55",-5.160597801,0.009814377,-2.82842712474619
+"1302","CC","GO:0034451","centriolar satellite",8,"ZNF365",-1.332327732,0.009814377,-2.82842712474619
+"1303","CC","GO:0055038","recycling endosome membrane",7,"SCAMP4",-1.207976491,0.01678235,-2.64575131106459
+"1304","CC","GO:0055038","recycling endosome membrane",7,"RAB13",-1.394619098,0.01678235,-2.64575131106459
+"1305","CC","GO:0055038","recycling endosome membrane",7,"HLA-A",-1.295197926,0.01678235,-2.64575131106459
+"1306","CC","GO:0055038","recycling endosome membrane",7,"B2M",-2.436091153,0.01678235,-2.64575131106459
+"1307","CC","GO:0055038","recycling endosome membrane",7,"SORL1",-1.518726004,0.01678235,-2.64575131106459
+"1308","CC","GO:0055038","recycling endosome membrane",7,"SCAMP2",-1.113366368,0.01678235,-2.64575131106459
+"1309","CC","GO:0055038","recycling endosome membrane",7,"HLA-E",-1.132489067,0.01678235,-2.64575131106459
+"1310","CC","GO:0030176","integral component of endoplasmic reticulum membrane",8,"BSCL2",-1.279266651,0.009059962,-2.82842712474619
+"1311","CC","GO:0030176","integral component of endoplasmic reticulum membrane",8,"SLC35B2",-1.498663292,0.009059962,-2.82842712474619
+"1312","CC","GO:0030176","integral component of endoplasmic reticulum membrane",8,"WDR83OS",-1.47707152,0.009059962,-2.82842712474619
+"1313","CC","GO:0030176","integral component of endoplasmic reticulum membrane",8,"DHRS9",-1.18783787,0.009059962,-2.82842712474619
+"1314","CC","GO:0030176","integral component of endoplasmic reticulum membrane",8,"ATF6B",-1.246812951,0.009059962,-2.82842712474619
+"1315","CC","GO:0030176","integral component of endoplasmic reticulum membrane",8,"TECR",-1.324569629,0.009059962,-2.82842712474619
+"1316","CC","GO:0030176","integral component of endoplasmic reticulum membrane",8,"EMC7",-1.368703448,0.009059962,-2.82842712474619
+"1317","CC","GO:0030176","integral component of endoplasmic reticulum membrane",8,"ERGIC3",-1.023515305,0.009059962,-2.82842712474619
+"1318","CC","GO:0072686","mitotic spindle",9,"TPX2",-1.131678158,0.00491784,-3
+"1319","CC","GO:0072686","mitotic spindle",9,"TUBB2A",-1.393593431,0.00491784,-3
+"1320","CC","GO:0072686","mitotic spindle",9,"CKAP2L",-4.392047476,0.00491784,-3
+"1321","CC","GO:0072686","mitotic spindle",9,"WDR62",-1.504383964,0.00491784,-3
+"1322","CC","GO:0072686","mitotic spindle",9,"KIF11",-2.72901755,0.00491784,-3
+"1323","CC","GO:0072686","mitotic spindle",9,"SKA3",-4.726603201,0.00491784,-3
+"1324","CC","GO:0072686","mitotic spindle",9,"SKA1",-2.186731221,0.00491784,-3
+"1325","CC","GO:0072686","mitotic spindle",9,"DLGAP5",-2.765225513,0.00491784,-3
+"1326","CC","GO:0072686","mitotic spindle",9,"AURKA",-2.157863191,0.00491784,-3
+"1327","CC","GO:0030496","midbody",13,"DCTN3",-1.250277975,0.000176,-3.60555127546399
+"1328","CC","GO:0030496","midbody",13,"CTNND1",-1.41642079,0.000176,-3.60555127546399
+"1329","CC","GO:0030496","midbody",13,"SHCBP1",-2.814046264,0.000176,-3.60555127546399
+"1330","CC","GO:0030496","midbody",13,"AURKA",-2.157863191,0.000176,-3.60555127546399
+"1331","CC","GO:0030496","midbody",13,"HSP90B1",-1.080957784,0.000176,-3.60555127546399
+"1332","CC","GO:0030496","midbody",13,"ASPM",-2.052538855,0.000176,-3.60555127546399
+"1333","CC","GO:0030496","midbody",13,"CENPF",-2.275729701,0.000176,-3.60555127546399
+"1334","CC","GO:0030496","midbody",13,"PRC1",-1.59537456,0.000176,-3.60555127546399
+"1335","CC","GO:0030496","midbody",13,"KIF4A",-2.267898968,0.000176,-3.60555127546399
+"1336","CC","GO:0030496","midbody",13,"CHMP2A",-1.145093747,0.000176,-3.60555127546399
+"1337","CC","GO:0030496","midbody",13,"BIRC5",-4.82778078,0.000176,-3.60555127546399
+"1338","CC","GO:0030496","midbody",13,"KIF20A",-2.786504036,0.000176,-3.60555127546399
+"1339","CC","GO:0030496","midbody",13,"CEP55",-5.160597801,0.000176,-3.60555127546399
+"1340","CC","GO:0033116","endoplasmic reticulum-Golgi intermediate compartment membrane",6,"LMAN1",-1.068518332,0.01808914,-2.44948974278318
+"1341","CC","GO:0033116","endoplasmic reticulum-Golgi intermediate compartment membrane",6,"ATP6AP1",-1.045449619,0.01808914,-2.44948974278318
+"1342","CC","GO:0033116","endoplasmic reticulum-Golgi intermediate compartment membrane",6,"RAB1B",-1.374840759,0.01808914,-2.44948974278318
+"1343","CC","GO:0033116","endoplasmic reticulum-Golgi intermediate compartment membrane",6,"ERGIC3",-1.023515305,0.01808914,-2.44948974278318
+"1344","CC","GO:0033116","endoplasmic reticulum-Golgi intermediate compartment membrane",6,"SPPL3",-1.407346071,0.01808914,-2.44948974278318
+"1345","CC","GO:0033116","endoplasmic reticulum-Golgi intermediate compartment membrane",6,"ROBO1",-1.505322395,0.01808914,-2.44948974278318
+"1346","CC","GO:0000922","spindle pole",11,"CDC20",-1.821017204,0.000209,-3.3166247903554
+"1347","CC","GO:0000922","spindle pole",11,"TPX2",-1.131678158,0.000209,-3.3166247903554
+"1348","CC","GO:0000922","spindle pole",11,"CENPF",-2.275729701,0.000209,-3.3166247903554
+"1349","CC","GO:0000922","spindle pole",11,"CCNB1",-2.684593035,0.000209,-3.3166247903554
+"1350","CC","GO:0000922","spindle pole",11,"RASSF10",-2.935135078,0.000209,-3.3166247903554
+"1351","CC","GO:0000922","spindle pole",11,"CKAP2L",-4.392047476,0.000209,-3.3166247903554
+"1352","CC","GO:0000922","spindle pole",11,"PRC1",-1.59537456,0.000209,-3.3166247903554
+"1353","CC","GO:0000922","spindle pole",11,"PLK2",-1.969957039,0.000209,-3.3166247903554
+"1354","CC","GO:0000922","spindle pole",11,"CALM3",-1.072241542,0.000209,-3.3166247903554
+"1355","CC","GO:0000922","spindle pole",11,"WDR62",-1.504383964,0.000209,-3.3166247903554
+"1356","CC","GO:0000922","spindle pole",11,"KIF11",-2.72901755,0.000209,-3.3166247903554
+"1357","CC","GO:0045111","intermediate filament cytoskeleton",5,"KRT80",-2.12731786,0.021889168,-2.23606797749979
+"1358","CC","GO:0045111","intermediate filament cytoskeleton",5,"KRT4",-4.458252913,0.021889168,-2.23606797749979
+"1359","CC","GO:0045111","intermediate filament cytoskeleton",5,"DDX60",-2.117877531,0.021889168,-2.23606797749979
+"1360","CC","GO:0045111","intermediate filament cytoskeleton",5,"PFDN5",-1.124167798,0.021889168,-2.23606797749979
+"1361","CC","GO:0045111","intermediate filament cytoskeleton",5,"PHLDB2",-1.286264995,0.021889168,-2.23606797749979
+"1362","CC","GO:0000794","condensed nuclear chromosome",4,"NCAPG2",-1.982152002,0.037609273,-2
+"1363","CC","GO:0000794","condensed nuclear chromosome",4,"NCAPG",-3.081687148,0.037609273,-2
+"1364","CC","GO:0000794","condensed nuclear chromosome",4,"SMC1A",-1.119516728,0.037609273,-2
+"1365","CC","GO:0000794","condensed nuclear chromosome",4,"ADD3",-1.05761241,0.037609273,-2
+"1366","CC","GO:0000776","kinetochore",16,"CDT1",-2.35889532,2.64e-07,-4
+"1367","CC","GO:0000776","kinetochore",16,"PLK2",-1.969957039,2.64e-07,-4
+"1368","CC","GO:0000776","kinetochore",16,"DCTN3",-1.250277975,2.64e-07,-4
+"1369","CC","GO:0000776","kinetochore",16,"HJURP",-3.64232181,2.64e-07,-4
+"1370","CC","GO:0000776","kinetochore",16,"BUB1B",-2.431458242,2.64e-07,-4
+"1371","CC","GO:0000776","kinetochore",16,"SMC1A",-1.119516728,2.64e-07,-4
+"1372","CC","GO:0000776","kinetochore",16,"SKA3",-4.726603201,2.64e-07,-4
+"1373","CC","GO:0000776","kinetochore",16,"NDC80",-2.0257484,2.64e-07,-4
+"1374","CC","GO:0000776","kinetochore",16,"SKA1",-2.186731221,2.64e-07,-4
+"1375","CC","GO:0000776","kinetochore",16,"AURKA",-2.157863191,2.64e-07,-4
+"1376","CC","GO:0000776","kinetochore",16,"CDC20",-1.821017204,2.64e-07,-4
+"1377","CC","GO:0000776","kinetochore",16,"CENPF",-2.275729701,2.64e-07,-4
+"1378","CC","GO:0000776","kinetochore",16,"CHMP2A",-1.145093747,2.64e-07,-4
+"1379","CC","GO:0000776","kinetochore",16,"BIRC5",-4.82778078,2.64e-07,-4
+"1380","CC","GO:0000776","kinetochore",16,"KIF2C",-1.573249981,2.64e-07,-4
+"1381","CC","GO:0000776","kinetochore",16,"BUB1",-2.28040653,2.64e-07,-4
+"1382","CC","GO:0005819","spindle",15,"DCTN3",-1.250277975,5.54e-07,-3.87298334620742
+"1383","CC","GO:0005819","spindle",15,"BUB1B",-2.431458242,5.54e-07,-3.87298334620742
+"1384","CC","GO:0005819","spindle",15,"KIF11",-2.72901755,5.54e-07,-3.87298334620742
+"1385","CC","GO:0005819","spindle",15,"HMMR",-2.168856182,5.54e-07,-3.87298334620742
+"1386","CC","GO:0005819","spindle",15,"SHCBP1",-2.814046264,5.54e-07,-3.87298334620742
+"1387","CC","GO:0005819","spindle",15,"AURKA",-2.157863191,5.54e-07,-3.87298334620742
+"1388","CC","GO:0005819","spindle",15,"CDC20",-1.821017204,5.54e-07,-3.87298334620742
+"1389","CC","GO:0005819","spindle",15,"ASPM",-2.052538855,5.54e-07,-3.87298334620742
+"1390","CC","GO:0005819","spindle",15,"TPX2",-1.131678158,5.54e-07,-3.87298334620742
+"1391","CC","GO:0005819","spindle",15,"CENPF",-2.275729701,5.54e-07,-3.87298334620742
+"1392","CC","GO:0005819","spindle",15,"PRC1",-1.59537456,5.54e-07,-3.87298334620742
+"1393","CC","GO:0005819","spindle",15,"BIRC5",-4.82778078,5.54e-07,-3.87298334620742
+"1394","CC","GO:0005819","spindle",15,"KIF2C",-1.573249981,5.54e-07,-3.87298334620742
+"1395","CC","GO:0005819","spindle",15,"KIF20A",-2.786504036,5.54e-07,-3.87298334620742
+"1396","CC","GO:0005819","spindle",15,"SAC3D1",-1.954837022,5.54e-07,-3.87298334620742
+"1397","CC","GO:0000502","proteasome complex",6,"PSMB6",-1.149097968,0.003917909,-2.44948974278318
+"1398","CC","GO:0000502","proteasome complex",6,"PSMC5",-1.209862249,0.003917909,-2.44948974278318
+"1399","CC","GO:0000502","proteasome complex",6,"PSMA2",-1.33808643,0.003917909,-2.44948974278318
+"1400","CC","GO:0000502","proteasome complex",6,"PSMD13",-1.110225223,0.003917909,-2.44948974278318
+"1401","CC","GO:0000502","proteasome complex",6,"PSME1",-1.975073203,0.003917909,-2.44948974278318
+"1402","CC","GO:0000502","proteasome complex",6,"PSME2",-1.422399127,0.003917909,-2.44948974278318
+"1403","CC","GO:0000775","chromosome, centromeric region",7,"CENPF",-2.275729701,0.001124053,-2.64575131106459
+"1404","CC","GO:0000775","chromosome, centromeric region",7,"CDCA5",-2.598041784,0.001124053,-2.64575131106459
+"1405","CC","GO:0000775","chromosome, centromeric region",7,"HJURP",-3.64232181,0.001124053,-2.64575131106459
+"1406","CC","GO:0000775","chromosome, centromeric region",7,"BIRC5",-4.82778078,0.001124053,-2.64575131106459
+"1407","CC","GO:0000775","chromosome, centromeric region",7,"KIF2C",-1.573249981,0.001124053,-2.64575131106459
+"1408","CC","GO:0000775","chromosome, centromeric region",7,"SMC1A",-1.119516728,0.001124053,-2.64575131106459
+"1409","CC","GO:0000775","chromosome, centromeric region",7,"NDC80",-2.0257484,0.001124053,-2.64575131106459
+"1410","CC","GO:0005925","focal adhesion",14,"CD81",-1.046762265,0.05290365,-3.74165738677394
+"1411","CC","GO:0005925","focal adhesion",14,"LMO7",-1.657564928,0.05290365,-3.74165738677394
+"1412","CC","GO:0005925","focal adhesion",14,"REXO2",-1.240819995,0.05290365,-3.74165738677394
+"1413","CC","GO:0005925","focal adhesion",14,"RND3",-1.299478788,0.05290365,-3.74165738677394
+"1414","CC","GO:0005925","focal adhesion",14,"RHOB",-1.290393131,0.05290365,-3.74165738677394
+"1415","CC","GO:0005925","focal adhesion",14,"HSP90B1",-1.080957784,0.05290365,-3.74165738677394
+"1416","CC","GO:0005925","focal adhesion",14,"DPP4",-2.491068494,0.05290365,-3.74165738677394
+"1417","CC","GO:0005925","focal adhesion",14,"TSPAN9",-1.097777887,0.05290365,-3.74165738677394
+"1418","CC","GO:0005925","focal adhesion",14,"CHP1",-1.070573012,0.05290365,-3.74165738677394
+"1419","CC","GO:0005925","focal adhesion",14,"PABPC1",-1.395569488,0.05290365,-3.74165738677394
+"1420","CC","GO:0005925","focal adhesion",14,"RPL18",-1.850670338,0.05290365,-3.74165738677394
+"1421","CC","GO:0005925","focal adhesion",14,"B2M",-2.436091153,0.05290365,-3.74165738677394
+"1422","CC","GO:0005925","focal adhesion",14,"PHLDB2",-1.286264995,0.05290365,-3.74165738677394
+"1423","CC","GO:0005925","focal adhesion",14,"RPS10",-1.567035363,0.05290365,-3.74165738677394
+"1424","CC","GO:0008537","proteasome activator complex",2,"PSME1",-1.975073203,0.053226067,-1.41421356237309
+"1425","CC","GO:0008537","proteasome activator complex",2,"PSME2",-1.422399127,0.053226067,-1.41421356237309
+"1426","CC","GO:1990351","transporter complex",2,"CHP1",-1.070573012,0.053226067,-1.41421356237309
+"1427","CC","GO:1990351","transporter complex",2,"ERGIC3",-1.023515305,0.053226067,-1.41421356237309
+"1428","CC","GO:0005911","cell-cell junction",8,"COL17A1",-1.96877789,0.060843699,-2.82842712474619
+"1429","CC","GO:0005911","cell-cell junction",8,"CLDN4",-1.801860443,0.060843699,-2.82842712474619
+"1430","CC","GO:0005911","cell-cell junction",8,"CDSN",-1.461986019,0.060843699,-2.82842712474619
+"1431","CC","GO:0005911","cell-cell junction",8,"PDZD2",-1.477018252,0.060843699,-2.82842712474619
+"1432","CC","GO:0005911","cell-cell junction",8,"CTNND1",-1.41642079,0.060843699,-2.82842712474619
+"1433","CC","GO:0005911","cell-cell junction",8,"GAB1",-1.4096689,0.060843699,-2.82842712474619
+"1434","CC","GO:0005911","cell-cell junction",8,"ADD3",-1.05761241,0.060843699,-2.82842712474619
+"1435","CC","GO:0005911","cell-cell junction",8,"AQP3",-1.796641483,0.060843699,-2.82842712474619
+"1436","CC","GO:0005794","Golgi apparatus",29,"SLC35B2",-1.498663292,0.064237982,-5.3851648071345
+"1437","CC","GO:0005794","Golgi apparatus",29,"PMEL",-3.405802021,0.064237982,-5.3851648071345
+"1438","CC","GO:0005794","Golgi apparatus",29,"HDAC5",-1.39987283,0.064237982,-5.3851648071345
+"1439","CC","GO:0005794","Golgi apparatus",29,"SPRR3",-2.395550882,0.064237982,-5.3851648071345
+"1440","CC","GO:0005794","Golgi apparatus",29,"EHF",-1.789242368,0.064237982,-5.3851648071345
+"1441","CC","GO:0005794","Golgi apparatus",29,"ATF6B",-1.246812951,0.064237982,-5.3851648071345
+"1442","CC","GO:0005794","Golgi apparatus",29,"RAB1B",-1.374840759,0.064237982,-5.3851648071345
+"1443","CC","GO:0005794","Golgi apparatus",29,"SPPL3",-1.407346071,0.064237982,-5.3851648071345
+"1444","CC","GO:0005794","Golgi apparatus",29,"TM9SF4",-1.355452534,0.064237982,-5.3851648071345
+"1445","CC","GO:0005794","Golgi apparatus",29,"COMMD9",-1.905964913,0.064237982,-5.3851648071345
+"1446","CC","GO:0005794","Golgi apparatus",29,"VPS51",-1.037365547,0.064237982,-5.3851648071345
+"1447","CC","GO:0005794","Golgi apparatus",29,"VPS52",-1.240656472,0.064237982,-5.3851648071345
+"1448","CC","GO:0005794","Golgi apparatus",29,"GBP2",-1.961905339,0.064237982,-5.3851648071345
+"1449","CC","GO:0005794","Golgi apparatus",29,"B4GALNT3",-1.067461541,0.064237982,-5.3851648071345
+"1450","CC","GO:0005794","Golgi apparatus",29,"B2M",-2.436091153,0.064237982,-5.3851648071345
+"1451","CC","GO:0005794","Golgi apparatus",29,"GALNT5",-4.762696249,0.064237982,-5.3851648071345
+"1452","CC","GO:0005794","Golgi apparatus",29,"SLC35A4",-1.266412476,0.064237982,-5.3851648071345
+"1453","CC","GO:0005794","Golgi apparatus",29,"AP1B1",-1.077603375,0.064237982,-5.3851648071345
+"1454","CC","GO:0005794","Golgi apparatus",29,"SLC30A1",-1.854810717,0.064237982,-5.3851648071345
+"1455","CC","GO:0005794","Golgi apparatus",29,"HLA-A",-1.295197926,0.064237982,-5.3851648071345
+"1456","CC","GO:0005794","Golgi apparatus",29,"SORL1",-1.518726004,0.064237982,-5.3851648071345
+"1457","CC","GO:0005794","Golgi apparatus",29,"SCAMP2",-1.113366368,0.064237982,-5.3851648071345
+"1458","CC","GO:0005794","Golgi apparatus",29,"BACE2",-1.907734361,0.064237982,-5.3851648071345
+"1459","CC","GO:0005794","Golgi apparatus",29,"NUCB1",-2.171160267,0.064237982,-5.3851648071345
+"1460","CC","GO:0005794","Golgi apparatus",29,"GPR107",-1.086831661,0.064237982,-5.3851648071345
+"1461","CC","GO:0005794","Golgi apparatus",29,"KIF20A",-2.786504036,0.064237982,-5.3851648071345
+"1462","CC","GO:0005794","Golgi apparatus",29,"CRELD2",-1.616104688,0.064237982,-5.3851648071345
+"1463","CC","GO:0005794","Golgi apparatus",29,"ERGIC3",-1.023515305,0.064237982,-5.3851648071345
+"1464","CC","GO:0005794","Golgi apparatus",29,"CRYAB",-1.075511568,0.064237982,-5.3851648071345
+"1465","CC","GO:1990745","EARP complex",2,"VPS51",-1.037365547,0.070332572,-1.41421356237309
+"1466","CC","GO:1990745","EARP complex",2,"VPS52",-1.240656472,0.070332572,-1.41421356237309
+"1467","CC","GO:0033597","mitotic checkpoint complex",2,"CDC20",-1.821017204,0.070332572,-1.41421356237309
+"1468","CC","GO:0033597","mitotic checkpoint complex",2,"BUB1B",-2.431458242,0.070332572,-1.41421356237309
+"1469","CC","GO:0000938","GARP complex",2,"VPS51",-1.037365547,0.070332572,-1.41421356237309
+"1470","CC","GO:0000938","GARP complex",2,"VPS52",-1.240656472,0.070332572,-1.41421356237309
+"1471","CC","GO:0043231","intracellular membrane-bounded organelle",26,"SCARB1",-1.170384899,0.072150673,-5.09901951359279
+"1472","CC","GO:0043231","intracellular membrane-bounded organelle",26,"ABCD3",-1.132374803,0.072150673,-5.09901951359279
+"1473","CC","GO:0043231","intracellular membrane-bounded organelle",26,"ACSS2",-1.212451338,0.072150673,-5.09901951359279
+"1474","CC","GO:0043231","intracellular membrane-bounded organelle",26,"CITED2",-1.957983703,0.072150673,-5.09901951359279
+"1475","CC","GO:0043231","intracellular membrane-bounded organelle",26,"CLTB",-1.865844,0.072150673,-5.09901951359279
+"1476","CC","GO:0043231","intracellular membrane-bounded organelle",26,"YBX1",-1.211529865,0.072150673,-5.09901951359279
+"1477","CC","GO:0043231","intracellular membrane-bounded organelle",26,"ABCA12",-1.40790804,0.072150673,-5.09901951359279
+"1478","CC","GO:0043231","intracellular membrane-bounded organelle",26,"SPPL3",-1.407346071,0.072150673,-5.09901951359279
+"1479","CC","GO:0043231","intracellular membrane-bounded organelle",26,"OASL",-1.756696805,0.072150673,-5.09901951359279
+"1480","CC","GO:0043231","intracellular membrane-bounded organelle",26,"PDZD2",-1.477018252,0.072150673,-5.09901951359279
+"1481","CC","GO:0043231","intracellular membrane-bounded organelle",26,"VPS51",-1.037365547,0.072150673,-5.09901951359279
+"1482","CC","GO:0043231","intracellular membrane-bounded organelle",26,"CTSK",-1.027247036,0.072150673,-5.09901951359279
+"1483","CC","GO:0043231","intracellular membrane-bounded organelle",26,"LIPN",-2.389643382,0.072150673,-5.09901951359279
+"1484","CC","GO:0043231","intracellular membrane-bounded organelle",26,"CTSH",-2.030209213,0.072150673,-5.09901951359279
+"1485","CC","GO:0043231","intracellular membrane-bounded organelle",26,"B4GALNT3",-1.067461541,0.072150673,-5.09901951359279
+"1486","CC","GO:0043231","intracellular membrane-bounded organelle",26,"BUB1",-2.28040653,0.072150673,-5.09901951359279
+"1487","CC","GO:0043231","intracellular membrane-bounded organelle",26,"ZNF365",-1.332327732,0.072150673,-5.09901951359279
+"1488","CC","GO:0043231","intracellular membrane-bounded organelle",26,"AP1B1",-1.077603375,0.072150673,-5.09901951359279
+"1489","CC","GO:0043231","intracellular membrane-bounded organelle",26,"GRHL1",-1.733399076,0.072150673,-5.09901951359279
+"1490","CC","GO:0043231","intracellular membrane-bounded organelle",26,"RUNDC3A",-1.760027929,0.072150673,-5.09901951359279
+"1491","CC","GO:0043231","intracellular membrane-bounded organelle",26,"WDR54",-1.716777413,0.072150673,-5.09901951359279
+"1492","CC","GO:0043231","intracellular membrane-bounded organelle",26,"SCAMP2",-1.113366368,0.072150673,-5.09901951359279
+"1493","CC","GO:0043231","intracellular membrane-bounded organelle",26,"DHRS9",-1.18783787,0.072150673,-5.09901951359279
+"1494","CC","GO:0043231","intracellular membrane-bounded organelle",26,"RAET1L",-1.123282974,0.072150673,-5.09901951359279
+"1495","CC","GO:0043231","intracellular membrane-bounded organelle",26,"HPSE",-1.202283221,0.072150673,-5.09901951359279
+"1496","CC","GO:0043231","intracellular membrane-bounded organelle",26,"SPATA18",-2.607111824,0.072150673,-5.09901951359279
+"1497","CC","GO:0032154","cleavage furrow",4,"DCTN3",-1.250277975,0.07719251,-2
+"1498","CC","GO:0032154","cleavage furrow",4,"KIF20A",-2.786504036,0.07719251,-2
+"1499","CC","GO:0032154","cleavage furrow",4,"CEP55",-5.160597801,0.07719251,-2
+"1500","CC","GO:0032154","cleavage furrow",4,"RHOB",-1.290393131,0.07719251,-2
+"1501","CC","GO:0000139","Golgi membrane",19,"SLC35B2",-1.498663292,0.078012794,-4.35889894354067
+"1502","CC","GO:0000139","Golgi membrane",19,"SLC35A4",-1.266412476,0.078012794,-4.35889894354067
+"1503","CC","GO:0000139","Golgi membrane",19,"GALNT5",-4.762696249,0.078012794,-4.35889894354067
+"1504","CC","GO:0000139","Golgi membrane",19,"ATF6B",-1.246812951,0.078012794,-4.35889894354067
+"1505","CC","GO:0000139","Golgi membrane",19,"ATP6AP1",-1.045449619,0.078012794,-4.35889894354067
+"1506","CC","GO:0000139","Golgi membrane",19,"TMEM50B",-1.281697466,0.078012794,-4.35889894354067
+"1507","CC","GO:0000139","Golgi membrane",19,"RAB1B",-1.374840759,0.078012794,-4.35889894354067
+"1508","CC","GO:0000139","Golgi membrane",19,"AP1B1",-1.077603375,0.078012794,-4.35889894354067
+"1509","CC","GO:0000139","Golgi membrane",19,"HLA-A",-1.295197926,0.078012794,-4.35889894354067
+"1510","CC","GO:0000139","Golgi membrane",19,"ATP2C2",-2.355999272,0.078012794,-4.35889894354067
+"1511","CC","GO:0000139","Golgi membrane",19,"ABCA12",-1.40790804,0.078012794,-4.35889894354067
+"1512","CC","GO:0000139","Golgi membrane",19,"RND3",-1.299478788,0.078012794,-4.35889894354067
+"1513","CC","GO:0000139","Golgi membrane",19,"SORL1",-1.518726004,0.078012794,-4.35889894354067
+"1514","CC","GO:0000139","Golgi membrane",19,"COPZ1",-1.261227883,0.078012794,-4.35889894354067
+"1515","CC","GO:0000139","Golgi membrane",19,"HLA-E",-1.132489067,0.078012794,-4.35889894354067
+"1516","CC","GO:0000139","Golgi membrane",19,"LMAN1",-1.068518332,0.078012794,-4.35889894354067
+"1517","CC","GO:0000139","Golgi membrane",19,"CHP1",-1.070573012,0.078012794,-4.35889894354067
+"1518","CC","GO:0000139","Golgi membrane",19,"GBP2",-1.961905339,0.078012794,-4.35889894354067
+"1519","CC","GO:0000139","Golgi membrane",19,"B2M",-2.436091153,0.078012794,-4.35889894354067
+"1520","CC","GO:0005874","microtubule",11,"TPX2",-1.131678158,0.07957993,-3.3166247903554
+"1521","CC","GO:0005874","microtubule",11,"TUBB2A",-1.393593431,0.07957993,-3.3166247903554
+"1522","CC","GO:0005874","microtubule",11,"RASSF5",-1.662901138,0.07957993,-3.3166247903554
+"1523","CC","GO:0005874","microtubule",11,"KIF4A",-2.267898968,0.07957993,-3.3166247903554
+"1524","CC","GO:0005874","microtubule",11,"STMN1",-1.190750809,0.07957993,-3.3166247903554
+"1525","CC","GO:0005874","microtubule",11,"CDK2AP2",-1.306678576,0.07957993,-3.3166247903554
+"1526","CC","GO:0005874","microtubule",11,"BIRC5",-4.82778078,0.07957993,-3.3166247903554
+"1527","CC","GO:0005874","microtubule",11,"KIF2C",-1.573249981,0.07957993,-3.3166247903554
+"1528","CC","GO:0005874","microtubule",11,"KIF20A",-2.786504036,0.07957993,-3.3166247903554
+"1529","CC","GO:0005874","microtubule",11,"KIF11",-2.72901755,0.07957993,-3.3166247903554
+"1530","CC","GO:0005874","microtubule",11,"AURKA",-2.157863191,0.07957993,-3.3166247903554
+"1531","CC","GO:0012507","ER to Golgi transport vesicle membrane",4,"LMAN1",-1.068518332,0.083907394,-2
+"1532","CC","GO:0012507","ER to Golgi transport vesicle membrane",4,"HLA-A",-1.295197926,0.083907394,-2
+"1533","CC","GO:0012507","ER to Golgi transport vesicle membrane",4,"B2M",-2.436091153,0.083907394,-2
+"1534","CC","GO:0012507","ER to Golgi transport vesicle membrane",4,"HLA-E",-1.132489067,0.083907394,-2
+"1535","CC","GO:0005854","nascent polypeptide-associated complex",2,"BTF3",-1.086859698,0.087130806,-1.41421356237309
+"1536","CC","GO:0005854","nascent polypeptide-associated complex",2,"NACA",-1.176857262,0.087130806,-1.41421356237309
+"1537","CC","GO:0045120","pronucleus",2,"CENPF",-2.275729701,0.087130806,-1.41421356237309
+"1538","CC","GO:0045120","pronucleus",2,"AURKA",-2.157863191,0.087130806,-1.41421356237309
+"1539","CC","GO:0035577","azurophil granule membrane",4,"GLIPR1",-2.445720505,0.09086268,-2
+"1540","CC","GO:0035577","azurophil granule membrane",4,"SYNGR1",-1.813031093,0.09086268,-2
+"1541","CC","GO:0035577","azurophil granule membrane",4,"LAMP1",-1.142189529,0.09086268,-2
+"1542","CC","GO:0035577","azurophil granule membrane",4,"CD68",-1.452604628,0.09086268,-2
+"1543","CC","GO:0032585","multivesicular body membrane",3,"PMEL",-3.405802021,0.096061366,-1.73205080756888
+"1544","CC","GO:0032585","multivesicular body membrane",3,"CHMP2A",-1.145093747,0.096061366,-1.73205080756888
+"1545","CC","GO:0032585","multivesicular body membrane",3,"SORL1",-1.518726004,0.096061366,-1.73205080756888
+"1546","CC","GO:0098553","lumenal side of endoplasmic reticulum membrane",3,"HLA-A",-1.295197926,0.096061366,-1.73205080756888
+"1547","CC","GO:0098553","lumenal side of endoplasmic reticulum membrane",3,"SPPL3",-1.407346071,0.096061366,-1.73205080756888
+"1548","CC","GO:0098553","lumenal side of endoplasmic reticulum membrane",3,"HLA-E",-1.132489067,0.096061366,-1.73205080756888
+"1549","CC","GO:0071556","integral component of lumenal side of endoplasmic reticulum membrane",3,"HLA-A",-1.295197926,0.096061366,-1.73205080756888
+"1550","CC","GO:0071556","integral component of lumenal side of endoplasmic reticulum membrane",3,"SPPL3",-1.407346071,0.096061366,-1.73205080756888
+"1551","CC","GO:0071556","integral component of lumenal side of endoplasmic reticulum membrane",3,"HLA-E",-1.132489067,0.096061366,-1.73205080756888
+"1552","CC","GO:0005604","basement membrane",5,"COL17A1",-1.96877789,0.096149041,-2.23606797749979
+"1553","CC","GO:0005604","basement membrane",5,"CCDC80",-1.896737409,0.096149041,-2.23606797749979
+"1554","CC","GO:0005604","basement membrane",5,"TIMP3",-1.66846169,0.096149041,-2.23606797749979
+"1555","CC","GO:0005604","basement membrane",5,"FBLN1",-2.999521972,0.096149041,-2.23606797749979
+"1556","CC","GO:0005604","basement membrane",5,"THBS2",-3.066126488,0.096149041,-2.23606797749979
+"1557","CC","GO:0005840","ribosome",7,"MRPS9",-1.026417912,0.09728927,-2.64575131106459
+"1558","CC","GO:0005840","ribosome",7,"RPL41",-1.123259734,0.09728927,-2.64575131106459
+"1559","CC","GO:0005840","ribosome",7,"RPS4Y1",-1.425424457,0.09728927,-2.64575131106459
+"1560","CC","GO:0005840","ribosome",7,"RPL18",-1.850670338,0.09728927,-2.64575131106459
+"1561","CC","GO:0005840","ribosome",7,"RPS10",-1.567035363,0.09728927,-2.64575131106459
+"1562","CC","GO:0005840","ribosome",7,"MRPL21",-1.395459458,0.09728927,-2.64575131106459
+"1563","CC","GO:0005840","ribosome",7,"MRPL11",-1.381028276,0.09728927,-2.64575131106459
+"1564","MF","GO:0005515","protein binding",297,"SLC35B2",-1.498663292,9.41e-10,-17.2336879396141
+"1565","MF","GO:0005515","protein binding",297,"MT1M",-2.056889318,9.41e-10,-17.2336879396141
+"1566","MF","GO:0005515","protein binding",297,"TESK2",-1.716306795,9.41e-10,-17.2336879396141
+"1567","MF","GO:0005515","protein binding",297,"MT1X",-1.60863761,9.41e-10,-17.2336879396141
+"1568","MF","GO:0005515","protein binding",297,"ABCA12",-1.40790804,9.41e-10,-17.2336879396141
+"1569","MF","GO:0005515","protein binding",297,"IFIT1",-3.244996513,9.41e-10,-17.2336879396141
+"1570","MF","GO:0005515","protein binding",297,"AQP3",-1.796641483,9.41e-10,-17.2336879396141
+"1571","MF","GO:0005515","protein binding",297,"CDC20",-1.821017204,9.41e-10,-17.2336879396141
+"1572","MF","GO:0005515","protein binding",297,"SCAMP4",-1.207976491,9.41e-10,-17.2336879396141
+"1573","MF","GO:0005515","protein binding",297,"MT2A",-1.969428476,9.41e-10,-17.2336879396141
+"1574","MF","GO:0005515","protein binding",297,"CDC23",-1.342356163,9.41e-10,-17.2336879396141
+"1575","MF","GO:0005515","protein binding",297,"RASSF5",-1.662901138,9.41e-10,-17.2336879396141
+"1576","MF","GO:0005515","protein binding",297,"GJA5",-4.546904872,9.41e-10,-17.2336879396141
+"1577","MF","GO:0005515","protein binding",297,"STMN1",-1.190750809,9.41e-10,-17.2336879396141
+"1578","MF","GO:0005515","protein binding",297,"B2M",-2.436091153,9.41e-10,-17.2336879396141
+"1579","MF","GO:0005515","protein binding",297,"RPS10",-1.567035363,9.41e-10,-17.2336879396141
+"1580","MF","GO:0005515","protein binding",297,"EPHB3",-1.444204795,9.41e-10,-17.2336879396141
+"1581","MF","GO:0005515","protein binding",297,"WDR83OS",-1.47707152,9.41e-10,-17.2336879396141
+"1582","MF","GO:0005515","protein binding",297,"KRT4",-4.458252913,9.41e-10,-17.2336879396141
+"1583","MF","GO:0005515","protein binding",297,"C17ORF49",-1.459654068,9.41e-10,-17.2336879396141
+"1584","MF","GO:0005515","protein binding",297,"AP1B1",-1.077603375,9.41e-10,-17.2336879396141
+"1585","MF","GO:0005515","protein binding",297,"HLA-A",-1.295197926,9.41e-10,-17.2336879396141
+"1586","MF","GO:0005515","protein binding",297,"OVOL1",-1.769348052,9.41e-10,-17.2336879396141
+"1587","MF","GO:0005515","protein binding",297,"JMJD8",-1.595740804,9.41e-10,-17.2336879396141
+"1588","MF","GO:0005515","protein binding",297,"DKK1",-2.26967081,9.41e-10,-17.2336879396141
+"1589","MF","GO:0005515","protein binding",297,"HLA-E",-1.132489067,9.41e-10,-17.2336879396141
+"1590","MF","GO:0005515","protein binding",297,"SCAMP2",-1.113366368,9.41e-10,-17.2336879396141
+"1591","MF","GO:0005515","protein binding",297,"LCE2B",-1.284258893,9.41e-10,-17.2336879396141
+"1592","MF","GO:0005515","protein binding",297,"DHX40",-1.036874216,9.41e-10,-17.2336879396141
+"1593","MF","GO:0005515","protein binding",297,"INPP4B",-2.59563884,9.41e-10,-17.2336879396141
+"1594","MF","GO:0005515","protein binding",297,"MYL6",-1.062868944,9.41e-10,-17.2336879396141
+"1595","MF","GO:0005515","protein binding",297,"CLDN4",-1.801860443,9.41e-10,-17.2336879396141
+"1596","MF","GO:0005515","protein binding",297,"DAAM1",-1.467516745,9.41e-10,-17.2336879396141
+"1597","MF","GO:0005515","protein binding",297,"RBP1",-5.622330943,9.41e-10,-17.2336879396141
+"1598","MF","GO:0005515","protein binding",297,"PSME1",-1.975073203,9.41e-10,-17.2336879396141
+"1599","MF","GO:0005515","protein binding",297,"MT1F",-1.803003006,9.41e-10,-17.2336879396141
+"1600","MF","GO:0005515","protein binding",297,"PSME2",-1.422399127,9.41e-10,-17.2336879396141
+"1601","MF","GO:0005515","protein binding",297,"MT1H",-1.769156201,9.41e-10,-17.2336879396141
+"1602","MF","GO:0005515","protein binding",297,"KIF20A",-2.786504036,9.41e-10,-17.2336879396141
+"1603","MF","GO:0005515","protein binding",297,"SPATA18",-2.607111824,9.41e-10,-17.2336879396141
+"1604","MF","GO:0005515","protein binding",297,"MT1E",-2.340707108,9.41e-10,-17.2336879396141
+"1605","MF","GO:0005515","protein binding",297,"FLG",-1.861645474,9.41e-10,-17.2336879396141
+"1606","MF","GO:0005515","protein binding",297,"SMIM5",-2.587725032,9.41e-10,-17.2336879396141
+"1607","MF","GO:0005515","protein binding",297,"MAOA",-2.010954891,9.41e-10,-17.2336879396141
+"1608","MF","GO:0005515","protein binding",297,"CDCA5",-2.598041784,9.41e-10,-17.2336879396141
+"1609","MF","GO:0005515","protein binding",297,"NOLC1",-1.3825692,9.41e-10,-17.2336879396141
+"1610","MF","GO:0005515","protein binding",297,"NCAPG",-3.081687148,9.41e-10,-17.2336879396141
+"1611","MF","GO:0005515","protein binding",297,"WDR62",-1.504383964,9.41e-10,-17.2336879396141
+"1612","MF","GO:0005515","protein binding",297,"LYPD5",-1.936832006,9.41e-10,-17.2336879396141
+"1613","MF","GO:0005515","protein binding",297,"MTMR4",-1.106603349,9.41e-10,-17.2336879396141
+"1614","MF","GO:0005515","protein binding",297,"SKA3",-4.726603201,9.41e-10,-17.2336879396141
+"1615","MF","GO:0005515","protein binding",297,"HIF1A",-1.025051181,9.41e-10,-17.2336879396141
+"1616","MF","GO:0005515","protein binding",297,"SKA1",-2.186731221,9.41e-10,-17.2336879396141
+"1617","MF","GO:0005515","protein binding",297,"MRPL11",-1.381028276,9.41e-10,-17.2336879396141
+"1618","MF","GO:0005515","protein binding",297,"C12ORF57",-1.225694921,9.41e-10,-17.2336879396141
+"1619","MF","GO:0005515","protein binding",297,"SYNGR1",-1.813031093,9.41e-10,-17.2336879396141
+"1620","MF","GO:0005515","protein binding",297,"COMMD9",-1.905964913,9.41e-10,-17.2336879396141
+"1621","MF","GO:0005515","protein binding",297,"NTHL1",-2.231204467,9.41e-10,-17.2336879396141
+"1622","MF","GO:0005515","protein binding",297,"BTF3",-1.086859698,9.41e-10,-17.2336879396141
+"1623","MF","GO:0005515","protein binding",297,"CDT1",-2.35889532,9.41e-10,-17.2336879396141
+"1624","MF","GO:0005515","protein binding",297,"FIS1",-1.331866359,9.41e-10,-17.2336879396141
+"1625","MF","GO:0005515","protein binding",297,"RPL41",-1.123259734,9.41e-10,-17.2336879396141
+"1626","MF","GO:0005515","protein binding",297,"BCL11B",-1.688387658,9.41e-10,-17.2336879396141
+"1627","MF","GO:0005515","protein binding",297,"TPRG1",-4.368723737,9.41e-10,-17.2336879396141
+"1628","MF","GO:0005515","protein binding",297,"PLK2",-1.969957039,9.41e-10,-17.2336879396141
+"1629","MF","GO:0005515","protein binding",297,"TMEM50B",-1.281697466,9.41e-10,-17.2336879396141
+"1630","MF","GO:0005515","protein binding",297,"IFI44",-1.889240071,9.41e-10,-17.2336879396141
+"1631","MF","GO:0005515","protein binding",297,"XRCC1",-1.282590157,9.41e-10,-17.2336879396141
+"1632","MF","GO:0005515","protein binding",297,"CGN",-1.904031781,9.41e-10,-17.2336879396141
+"1633","MF","GO:0005515","protein binding",297,"CNFN",-1.717754922,9.41e-10,-17.2336879396141
+"1634","MF","GO:0005515","protein binding",297,"VASN",-1.609665567,9.41e-10,-17.2336879396141
+"1635","MF","GO:0005515","protein binding",297,"IL1F10",-2.238672501,9.41e-10,-17.2336879396141
+"1636","MF","GO:0005515","protein binding",297,"TPX2",-1.131678158,9.41e-10,-17.2336879396141
+"1637","MF","GO:0005515","protein binding",297,"POLA2",-2.339056029,9.41e-10,-17.2336879396141
+"1638","MF","GO:0005515","protein binding",297,"TBL3",-1.136749303,9.41e-10,-17.2336879396141
+"1639","MF","GO:0005515","protein binding",297,"TCN1",-3.180277473,9.41e-10,-17.2336879396141
+"1640","MF","GO:0005515","protein binding",297,"ID4",-2.318190195,9.41e-10,-17.2336879396141
+"1641","MF","GO:0005515","protein binding",297,"RAET1L",-1.123282974,9.41e-10,-17.2336879396141
+"1642","MF","GO:0005515","protein binding",297,"CALM3",-1.072241542,9.41e-10,-17.2336879396141
+"1643","MF","GO:0005515","protein binding",297,"GSDME",-1.223861174,9.41e-10,-17.2336879396141
+"1644","MF","GO:0005515","protein binding",297,"SLC44A5",-1.858769027,9.41e-10,-17.2336879396141
+"1645","MF","GO:0005515","protein binding",297,"PIGS",-1.356733142,9.41e-10,-17.2336879396141
+"1646","MF","GO:0005515","protein binding",297,"NRP2",-2.21298347,9.41e-10,-17.2336879396141
+"1647","MF","GO:0005515","protein binding",297,"COX7B",-1.363199979,9.41e-10,-17.2336879396141
+"1648","MF","GO:0005515","protein binding",297,"SLC44A3",-2.149740043,9.41e-10,-17.2336879396141
+"1649","MF","GO:0005515","protein binding",297,"CITED2",-1.957983703,9.41e-10,-17.2336879396141
+"1650","MF","GO:0005515","protein binding",297,"NCAPG2",-1.982152002,9.41e-10,-17.2336879396141
+"1651","MF","GO:0005515","protein binding",297,"TECR",-1.324569629,9.41e-10,-17.2336879396141
+"1652","MF","GO:0005515","protein binding",297,"QPRT",-4.054029095,9.41e-10,-17.2336879396141
+"1653","MF","GO:0005515","protein binding",297,"KRT24",-4.182758059,9.41e-10,-17.2336879396141
+"1654","MF","GO:0005515","protein binding",297,"CLTB",-1.865844,9.41e-10,-17.2336879396141
+"1655","MF","GO:0005515","protein binding",297,"ZBTB8OS",-1.224379697,9.41e-10,-17.2336879396141
+"1656","MF","GO:0005515","protein binding",297,"KRT23",-2.325895748,9.41e-10,-17.2336879396141
+"1657","MF","GO:0005515","protein binding",297,"KIF11",-2.72901755,9.41e-10,-17.2336879396141
+"1658","MF","GO:0005515","protein binding",297,"SPPL3",-1.407346071,9.41e-10,-17.2336879396141
+"1659","MF","GO:0005515","protein binding",297,"ROBO1",-1.505322395,9.41e-10,-17.2336879396141
+"1660","MF","GO:0005515","protein binding",297,"MCEE",-1.922533962,9.41e-10,-17.2336879396141
+"1661","MF","GO:0005515","protein binding",297,"GLIPR1",-2.445720505,9.41e-10,-17.2336879396141
+"1662","MF","GO:0005515","protein binding",297,"CTSK",-1.027247036,9.41e-10,-17.2336879396141
+"1663","MF","GO:0005515","protein binding",297,"MMP28",-3.341369093,9.41e-10,-17.2336879396141
+"1664","MF","GO:0005515","protein binding",297,"PBK",-1.950818524,9.41e-10,-17.2336879396141
+"1665","MF","GO:0005515","protein binding",297,"TIMP3",-1.66846169,9.41e-10,-17.2336879396141
+"1666","MF","GO:0005515","protein binding",297,"CTSH",-2.030209213,9.41e-10,-17.2336879396141
+"1667","MF","GO:0005515","protein binding",297,"DLGAP5",-2.765225513,9.41e-10,-17.2336879396141
+"1668","MF","GO:0005515","protein binding",297,"CEP55",-5.160597801,9.41e-10,-17.2336879396141
+"1669","MF","GO:0005515","protein binding",297,"ZNF365",-1.332327732,9.41e-10,-17.2336879396141
+"1670","MF","GO:0005515","protein binding",297,"EDN1",-2.600547604,9.41e-10,-17.2336879396141
+"1671","MF","GO:0005515","protein binding",297,"ZHX3",-1.441465967,9.41e-10,-17.2336879396141
+"1672","MF","GO:0005515","protein binding",297,"MIOS",-1.025466198,9.41e-10,-17.2336879396141
+"1673","MF","GO:0005515","protein binding",297,"ARG1",-1.909387625,9.41e-10,-17.2336879396141
+"1674","MF","GO:0005515","protein binding",297,"KIAA1143",-1.443179706,9.41e-10,-17.2336879396141
+"1675","MF","GO:0005515","protein binding",297,"GAB1",-1.4096689,9.41e-10,-17.2336879396141
+"1676","MF","GO:0005515","protein binding",297,"COMMD1",-1.05381083,9.41e-10,-17.2336879396141
+"1677","MF","GO:0005515","protein binding",297,"PDCD1LG2",-5.420435633,9.41e-10,-17.2336879396141
+"1678","MF","GO:0005515","protein binding",297,"RHOB",-1.290393131,9.41e-10,-17.2336879396141
+"1679","MF","GO:0005515","protein binding",297,"HADHB",-1.751065051,9.41e-10,-17.2336879396141
+"1680","MF","GO:0005515","protein binding",297,"BACE2",-1.907734361,9.41e-10,-17.2336879396141
+"1681","MF","GO:0005515","protein binding",297,"MN1",-1.6765374,9.41e-10,-17.2336879396141
+"1682","MF","GO:0005515","protein binding",297,"IL1A",-1.70651281,9.41e-10,-17.2336879396141
+"1683","MF","GO:0005515","protein binding",297,"MRPS9",-1.026417912,9.41e-10,-17.2336879396141
+"1684","MF","GO:0005515","protein binding",297,"TUBB2A",-1.393593431,9.41e-10,-17.2336879396141
+"1685","MF","GO:0005515","protein binding",297,"PSMA2",-1.33808643,9.41e-10,-17.2336879396141
+"1686","MF","GO:0005515","protein binding",297,"UFC1",-1.331222109,9.41e-10,-17.2336879396141
+"1687","MF","GO:0005515","protein binding",297,"PELI1",-1.065135426,9.41e-10,-17.2336879396141
+"1688","MF","GO:0005515","protein binding",297,"KIF2C",-1.573249981,9.41e-10,-17.2336879396141
+"1689","MF","GO:0005515","protein binding",297,"PABPC1",-1.395569488,9.41e-10,-17.2336879396141
+"1690","MF","GO:0005515","protein binding",297,"SGK1",-1.289630285,9.41e-10,-17.2336879396141
+"1691","MF","GO:0005515","protein binding",297,"CRELD2",-1.616104688,9.41e-10,-17.2336879396141
+"1692","MF","GO:0005515","protein binding",297,"ERGIC3",-1.023515305,9.41e-10,-17.2336879396141
+"1693","MF","GO:0005515","protein binding",297,"CRYAB",-1.075511568,9.41e-10,-17.2336879396141
+"1694","MF","GO:0005515","protein binding",297,"PPARD",-1.395993315,9.41e-10,-17.2336879396141
+"1695","MF","GO:0005515","protein binding",297,"SPRR3",-2.395550882,9.41e-10,-17.2336879396141
+"1696","MF","GO:0005515","protein binding",297,"NBAS",-1.196777922,9.41e-10,-17.2336879396141
+"1697","MF","GO:0005515","protein binding",297,"OAT",-1.22191538,9.41e-10,-17.2336879396141
+"1698","MF","GO:0005515","protein binding",297,"STX19",-2.455710611,9.41e-10,-17.2336879396141
+"1699","MF","GO:0005515","protein binding",297,"TMEM160",-1.681495596,9.41e-10,-17.2336879396141
+"1700","MF","GO:0005515","protein binding",297,"TM9SF4",-1.355452534,9.41e-10,-17.2336879396141
+"1701","MF","GO:0005515","protein binding",297,"PSMB6",-1.149097968,9.41e-10,-17.2336879396141
+"1702","MF","GO:0005515","protein binding",297,"LMAN1",-1.068518332,9.41e-10,-17.2336879396141
+"1703","MF","GO:0005515","protein binding",297,"NT5E",-1.549835425,9.41e-10,-17.2336879396141
+"1704","MF","GO:0005515","protein binding",297,"OS9",-1.178929282,9.41e-10,-17.2336879396141
+"1705","MF","GO:0005515","protein binding",297,"RASSF10",-2.935135078,9.41e-10,-17.2336879396141
+"1706","MF","GO:0005515","protein binding",297,"PPP1R7",-1.32746383,9.41e-10,-17.2336879396141
+"1707","MF","GO:0005515","protein binding",297,"CKB",-1.620763286,9.41e-10,-17.2336879396141
+"1708","MF","GO:0005515","protein binding",297,"LY6G6C",-2.834374544,9.41e-10,-17.2336879396141
+"1709","MF","GO:0005515","protein binding",297,"EMC7",-1.368703448,9.41e-10,-17.2336879396141
+"1710","MF","GO:0005515","protein binding",297,"RPL18",-1.850670338,9.41e-10,-17.2336879396141
+"1711","MF","GO:0005515","protein binding",297,"XDH",-1.289665508,9.41e-10,-17.2336879396141
+"1712","MF","GO:0005515","protein binding",297,"BCHE",-1.165708466,9.41e-10,-17.2336879396141
+"1713","MF","GO:0005515","protein binding",297,"ATP5PB",-1.697656649,9.41e-10,-17.2336879396141
+"1714","MF","GO:0005515","protein binding",297,"WDR18",-1.002897795,9.41e-10,-17.2336879396141
+"1715","MF","GO:0005515","protein binding",297,"KLK13",-2.6597064,9.41e-10,-17.2336879396141
+"1716","MF","GO:0005515","protein binding",297,"GRHL1",-1.733399076,9.41e-10,-17.2336879396141
+"1717","MF","GO:0005515","protein binding",297,"NUDT9",-1.396138395,9.41e-10,-17.2336879396141
+"1718","MF","GO:0005515","protein binding",297,"CENPF",-2.275729701,9.41e-10,-17.2336879396141
+"1719","MF","GO:0005515","protein binding",297,"PSMC5",-1.209862249,9.41e-10,-17.2336879396141
+"1720","MF","GO:0005515","protein binding",297,"KITLG",-1.676600062,9.41e-10,-17.2336879396141
+"1721","MF","GO:0005515","protein binding",297,"KRT15",-2.668777092,9.41e-10,-17.2336879396141
+"1722","MF","GO:0005515","protein binding",297,"NUCB1",-2.171160267,9.41e-10,-17.2336879396141
+"1723","MF","GO:0005515","protein binding",297,"TRIP13",-1.921303468,9.41e-10,-17.2336879396141
+"1724","MF","GO:0005515","protein binding",297,"CD68",-1.452604628,9.41e-10,-17.2336879396141
+"1725","MF","GO:0005515","protein binding",297,"CDKN3",-2.049376083,9.41e-10,-17.2336879396141
+"1726","MF","GO:0005515","protein binding",297,"SCARB1",-1.170384899,9.41e-10,-17.2336879396141
+"1727","MF","GO:0005515","protein binding",297,"NDUFA11",-1.064419922,9.41e-10,-17.2336879396141
+"1728","MF","GO:0005515","protein binding",297,"NCF2",-2.555593866,9.41e-10,-17.2336879396141
+"1729","MF","GO:0005515","protein binding",297,"CD81",-1.046762265,9.41e-10,-17.2336879396141
+"1730","MF","GO:0005515","protein binding",297,"GMNN",-2.486087765,9.41e-10,-17.2336879396141
+"1731","MF","GO:0005515","protein binding",297,"CTNND1",-1.41642079,9.41e-10,-17.2336879396141
+"1732","MF","GO:0005515","protein binding",297,"HJURP",-3.64232181,9.41e-10,-17.2336879396141
+"1733","MF","GO:0005515","protein binding",297,"BUB1B",-2.431458242,9.41e-10,-17.2336879396141
+"1734","MF","GO:0005515","protein binding",297,"COX6A1",-1.399900045,9.41e-10,-17.2336879396141
+"1735","MF","GO:0005515","protein binding",297,"C1ORF74",-1.054294879,9.41e-10,-17.2336879396141
+"1736","MF","GO:0005515","protein binding",297,"IPO4",-1.134928104,9.41e-10,-17.2336879396141
+"1737","MF","GO:0005515","protein binding",297,"RGS2",-2.817782122,9.41e-10,-17.2336879396141
+"1738","MF","GO:0005515","protein binding",297,"CHCHD2",-1.591962218,9.41e-10,-17.2336879396141
+"1739","MF","GO:0005515","protein binding",297,"SESN3",-1.155057082,9.41e-10,-17.2336879396141
+"1740","MF","GO:0005515","protein binding",297,"LAMP1",-1.142189529,9.41e-10,-17.2336879396141
+"1741","MF","GO:0005515","protein binding",297,"MPC1",-1.363504311,9.41e-10,-17.2336879396141
+"1742","MF","GO:0005515","protein binding",297,"COTL1",-1.895838907,9.41e-10,-17.2336879396141
+"1743","MF","GO:0005515","protein binding",297,"CHP1",-1.070573012,9.41e-10,-17.2336879396141
+"1744","MF","GO:0005515","protein binding",297,"MAP3K8",-1.169600565,9.41e-10,-17.2336879396141
+"1745","MF","GO:0005515","protein binding",297,"TGM5",-3.147235824,9.41e-10,-17.2336879396141
+"1746","MF","GO:0005515","protein binding",297,"PPFIA3",-1.269088423,9.41e-10,-17.2336879396141
+"1747","MF","GO:0005515","protein binding",297,"MSX2",-1.108137438,9.41e-10,-17.2336879396141
+"1748","MF","GO:0005515","protein binding",297,"FST",-2.404934922,9.41e-10,-17.2336879396141
+"1749","MF","GO:0005515","protein binding",297,"SLC30A1",-1.854810717,9.41e-10,-17.2336879396141
+"1750","MF","GO:0005515","protein binding",297,"SDHD",-1.073238405,9.41e-10,-17.2336879396141
+"1751","MF","GO:0005515","protein binding",297,"RUNDC3A",-1.760027929,9.41e-10,-17.2336879396141
+"1752","MF","GO:0005515","protein binding",297,"BSCL2",-1.279266651,9.41e-10,-17.2336879396141
+"1753","MF","GO:0005515","protein binding",297,"SCNN1G",-2.232669958,9.41e-10,-17.2336879396141
+"1754","MF","GO:0005515","protein binding",297,"TOM1L2",-1.524092373,9.41e-10,-17.2336879396141
+"1755","MF","GO:0005515","protein binding",297,"OLFM2",-1.116971634,9.41e-10,-17.2336879396141
+"1756","MF","GO:0005515","protein binding",297,"NCL",-1.298388981,9.41e-10,-17.2336879396141
+"1757","MF","GO:0005515","protein binding",297,"SCNN1B",-3.408094776,9.41e-10,-17.2336879396141
+"1758","MF","GO:0005515","protein binding",297,"HAT1",-1.007231052,9.41e-10,-17.2336879396141
+"1759","MF","GO:0005515","protein binding",297,"GEMIN4",-1.045195773,9.41e-10,-17.2336879396141
+"1760","MF","GO:0005515","protein binding",297,"SNRPF",-1.013021811,9.41e-10,-17.2336879396141
+"1761","MF","GO:0005515","protein binding",297,"PHLDB2",-1.286264995,9.41e-10,-17.2336879396141
+"1762","MF","GO:0005515","protein binding",297,"COL17A1",-1.96877789,9.41e-10,-17.2336879396141
+"1763","MF","GO:0005515","protein binding",297,"PMEL",-3.405802021,9.41e-10,-17.2336879396141
+"1764","MF","GO:0005515","protein binding",297,"CEMIP",-2.552323128,9.41e-10,-17.2336879396141
+"1765","MF","GO:0005515","protein binding",297,"NDUFB11",-1.77577287,9.41e-10,-17.2336879396141
+"1766","MF","GO:0005515","protein binding",297,"USP54",-2.771572613,9.41e-10,-17.2336879396141
+"1767","MF","GO:0005515","protein binding",297,"FBLN1",-2.999521972,9.41e-10,-17.2336879396141
+"1768","MF","GO:0005515","protein binding",297,"COX7A2",-1.337102314,9.41e-10,-17.2336879396141
+"1769","MF","GO:0005515","protein binding",297,"LTBP2",-1.683930865,9.41e-10,-17.2336879396141
+"1770","MF","GO:0005515","protein binding",297,"HMMR",-2.168856182,9.41e-10,-17.2336879396141
+"1771","MF","GO:0005515","protein binding",297,"DDX60",-2.117877531,9.41e-10,-17.2336879396141
+"1772","MF","GO:0005515","protein binding",297,"ADIPOR1",-1.058440721,9.41e-10,-17.2336879396141
+"1773","MF","GO:0005515","protein binding",297,"GLIS1",-2.065154303,9.41e-10,-17.2336879396141
+"1774","MF","GO:0005515","protein binding",297,"HSP90B1",-1.080957784,9.41e-10,-17.2336879396141
+"1775","MF","GO:0005515","protein binding",297,"PSORS1C2",-2.347276193,9.41e-10,-17.2336879396141
+"1776","MF","GO:0005515","protein binding",297,"DPP4",-2.491068494,9.41e-10,-17.2336879396141
+"1777","MF","GO:0005515","protein binding",297,"CCNB2",-1.603112433,9.41e-10,-17.2336879396141
+"1778","MF","GO:0005515","protein binding",297,"CCNB1",-2.684593035,9.41e-10,-17.2336879396141
+"1779","MF","GO:0005515","protein binding",297,"EIF4EBP3",-1.113263999,9.41e-10,-17.2336879396141
+"1780","MF","GO:0005515","protein binding",297,"SAC3D1",-1.954837022,9.41e-10,-17.2336879396141
+"1781","MF","GO:0005515","protein binding",297,"MFAP3L",-2.010162163,9.41e-10,-17.2336879396141
+"1782","MF","GO:0005515","protein binding",297,"MPDU1",-1.336243497,9.41e-10,-17.2336879396141
+"1783","MF","GO:0005515","protein binding",297,"FANCI",-1.54434662,9.41e-10,-17.2336879396141
+"1784","MF","GO:0005515","protein binding",297,"TFAP2C",-1.18423657,9.41e-10,-17.2336879396141
+"1785","MF","GO:0005515","protein binding",297,"CBX4",-1.274258813,9.41e-10,-17.2336879396141
+"1786","MF","GO:0005515","protein binding",297,"UBE2C",-1.563087107,9.41e-10,-17.2336879396141
+"1787","MF","GO:0005515","protein binding",297,"ISG15",-2.361451804,9.41e-10,-17.2336879396141
+"1788","MF","GO:0005515","protein binding",297,"EEF2",-1.450918315,9.41e-10,-17.2336879396141
+"1789","MF","GO:0005515","protein binding",297,"NDC80",-2.0257484,9.41e-10,-17.2336879396141
+"1790","MF","GO:0005515","protein binding",297,"COQ3",-1.406654418,9.41e-10,-17.2336879396141
+"1791","MF","GO:0005515","protein binding",297,"MAFB",-1.064133743,9.41e-10,-17.2336879396141
+"1792","MF","GO:0005515","protein binding",297,"TMEM237",-1.534225469,9.41e-10,-17.2336879396141
+"1793","MF","GO:0005515","protein binding",297,"KIF4A",-2.267898968,9.41e-10,-17.2336879396141
+"1794","MF","GO:0005515","protein binding",297,"CHMP2A",-1.145093747,9.41e-10,-17.2336879396141
+"1795","MF","GO:0005515","protein binding",297,"BLMH",-1.846850819,9.41e-10,-17.2336879396141
+"1796","MF","GO:0005515","protein binding",297,"HPSE",-1.202283221,9.41e-10,-17.2336879396141
+"1797","MF","GO:0005515","protein binding",297,"COPS8",-1.104877039,9.41e-10,-17.2336879396141
+"1798","MF","GO:0005515","protein binding",297,"ABCD3",-1.132374803,9.41e-10,-17.2336879396141
+"1799","MF","GO:0005515","protein binding",297,"MCM7",-1.091952331,9.41e-10,-17.2336879396141
+"1800","MF","GO:0005515","protein binding",297,"HSPB8",-1.089837736,9.41e-10,-17.2336879396141
+"1801","MF","GO:0005515","protein binding",297,"COX4I1",-1.116529179,9.41e-10,-17.2336879396141
+"1802","MF","GO:0005515","protein binding",297,"MCM10",-2.71408145,9.41e-10,-17.2336879396141
+"1803","MF","GO:0005515","protein binding",297,"YBX1",-1.211529865,9.41e-10,-17.2336879396141
+"1804","MF","GO:0005515","protein binding",297,"FOXM1",-2.905928005,9.41e-10,-17.2336879396141
+"1805","MF","GO:0005515","protein binding",297,"RND3",-1.299478788,9.41e-10,-17.2336879396141
+"1806","MF","GO:0005515","protein binding",297,"OASL",-1.756696805,9.41e-10,-17.2336879396141
+"1807","MF","GO:0005515","protein binding",297,"TMEM101",-1.140017316,9.41e-10,-17.2336879396141
+"1808","MF","GO:0005515","protein binding",297,"EXO1",-4.482640167,9.41e-10,-17.2336879396141
+"1809","MF","GO:0005515","protein binding",297,"MYBL2",-2.627598643,9.41e-10,-17.2336879396141
+"1810","MF","GO:0005515","protein binding",297,"GET3",-1.499379814,9.41e-10,-17.2336879396141
+"1811","MF","GO:0005515","protein binding",297,"ATP6AP1",-1.045449619,9.41e-10,-17.2336879396141
+"1812","MF","GO:0005515","protein binding",297,"NAV2",-2.821198596,9.41e-10,-17.2336879396141
+"1813","MF","GO:0005515","protein binding",297,"SMC1A",-1.119516728,9.41e-10,-17.2336879396141
+"1814","MF","GO:0005515","protein binding",297,"TENT5B",-1.687621541,9.41e-10,-17.2336879396141
+"1815","MF","GO:0005515","protein binding",297,"CCNA2",-2.514501424,9.41e-10,-17.2336879396141
+"1816","MF","GO:0005515","protein binding",297,"ARL4A",-1.073056787,9.41e-10,-17.2336879396141
+"1817","MF","GO:0005515","protein binding",297,"SAPCD2",-4.003650157,9.41e-10,-17.2336879396141
+"1818","MF","GO:0005515","protein binding",297,"NDUFS3",-1.156225535,9.41e-10,-17.2336879396141
+"1819","MF","GO:0005515","protein binding",297,"BIRC5",-4.82778078,9.41e-10,-17.2336879396141
+"1820","MF","GO:0005515","protein binding",297,"MCM5",-1.96770465,9.41e-10,-17.2336879396141
+"1821","MF","GO:0005515","protein binding",297,"NAA38",-1.422779801,9.41e-10,-17.2336879396141
+"1822","MF","GO:0005515","protein binding",297,"CDH16",-1.578872307,9.41e-10,-17.2336879396141
+"1823","MF","GO:0005515","protein binding",297,"PFDN5",-1.124167798,9.41e-10,-17.2336879396141
+"1824","MF","GO:0005515","protein binding",297,"HDAC5",-1.39987283,9.41e-10,-17.2336879396141
+"1825","MF","GO:0005515","protein binding",297,"KRT80",-2.12731786,9.41e-10,-17.2336879396141
+"1826","MF","GO:0005515","protein binding",297,"ATF6B",-1.246812951,9.41e-10,-17.2336879396141
+"1827","MF","GO:0005515","protein binding",297,"TUFT1",-1.486962552,9.41e-10,-17.2336879396141
+"1828","MF","GO:0005515","protein binding",297,"RAB1B",-1.374840759,9.41e-10,-17.2336879396141
+"1829","MF","GO:0005515","protein binding",297,"DCTN3",-1.250277975,9.41e-10,-17.2336879396141
+"1830","MF","GO:0005515","protein binding",297,"ATP2C2",-2.355999272,9.41e-10,-17.2336879396141
+"1831","MF","GO:0005515","protein binding",297,"THBS2",-3.066126488,9.41e-10,-17.2336879396141
+"1832","MF","GO:0005515","protein binding",297,"THBS1",-2.628866139,9.41e-10,-17.2336879396141
+"1833","MF","GO:0005515","protein binding",297,"AURKA",-2.157863191,9.41e-10,-17.2336879396141
+"1834","MF","GO:0005515","protein binding",297,"MIEN1",-1.055515865,9.41e-10,-17.2336879396141
+"1835","MF","GO:0005515","protein binding",297,"VPS51",-1.037365547,9.41e-10,-17.2336879396141
+"1836","MF","GO:0005515","protein binding",297,"TMEM205",-1.223765294,9.41e-10,-17.2336879396141
+"1837","MF","GO:0005515","protein binding",297,"VPS52",-1.240656472,9.41e-10,-17.2336879396141
+"1838","MF","GO:0005515","protein binding",297,"TNNI2",-4.967354523,9.41e-10,-17.2336879396141
+"1839","MF","GO:0005515","protein binding",297,"GBP2",-1.961905339,9.41e-10,-17.2336879396141
+"1840","MF","GO:0005515","protein binding",297,"BUB1",-2.28040653,9.41e-10,-17.2336879396141
+"1841","MF","GO:0005515","protein binding",297,"FNIP2",-1.063407667,9.41e-10,-17.2336879396141
+"1842","MF","GO:0005515","protein binding",297,"POLR2K",-1.016799002,9.41e-10,-17.2336879396141
+"1843","MF","GO:0005515","protein binding",297,"SEC11C",-1.34004718,9.41e-10,-17.2336879396141
+"1844","MF","GO:0005515","protein binding",297,"SEMA4A",-2.671254889,9.41e-10,-17.2336879396141
+"1845","MF","GO:0005515","protein binding",297,"MGME1",-1.508793915,9.41e-10,-17.2336879396141
+"1846","MF","GO:0005515","protein binding",297,"SLC35A4",-1.266412476,9.41e-10,-17.2336879396141
+"1847","MF","GO:0005515","protein binding",297,"RRM2",-2.568059954,9.41e-10,-17.2336879396141
+"1848","MF","GO:0005515","protein binding",297,"PRAF2",-1.067179941,9.41e-10,-17.2336879396141
+"1849","MF","GO:0005515","protein binding",297,"NAP1L1",-1.12538441,9.41e-10,-17.2336879396141
+"1850","MF","GO:0005515","protein binding",297,"SSRP1",-1.192686714,9.41e-10,-17.2336879396141
+"1851","MF","GO:0005515","protein binding",297,"SHCBP1",-2.814046264,9.41e-10,-17.2336879396141
+"1852","MF","GO:0005515","protein binding",297,"SORL1",-1.518726004,9.41e-10,-17.2336879396141
+"1853","MF","GO:0005515","protein binding",297,"WEE1",-1.286557803,9.41e-10,-17.2336879396141
+"1854","MF","GO:0005515","protein binding",297,"PRC1",-1.59537456,9.41e-10,-17.2336879396141
+"1855","MF","GO:0005515","protein binding",297,"RAB13",-1.394619098,9.41e-10,-17.2336879396141
+"1856","MF","GO:0005515","protein binding",297,"CDK2AP2",-1.306678576,9.41e-10,-17.2336879396141
+"1857","MF","GO:0005515","protein binding",297,"EIF3H",-1.840220589,9.41e-10,-17.2336879396141
+"1858","MF","GO:0005515","protein binding",297,"PFKM",-1.413282314,9.41e-10,-17.2336879396141
+"1859","MF","GO:0005515","protein binding",297,"SSBP3",-1.395013855,9.41e-10,-17.2336879396141
+"1860","MF","GO:0005515","protein binding",297,"VPS35L",-1.154688929,9.41e-10,-17.2336879396141
+"1861","MF","GO:0019901","protein kinase binding",17,"CTNND1",-1.41642079,0.046928614,-4.12310562561766
+"1862","MF","GO:0019901","protein kinase binding",17,"AP1B1",-1.077603375,0.046928614,-4.12310562561766
+"1863","MF","GO:0019901","protein kinase binding",17,"KIF11",-2.72901755,0.046928614,-4.12310562561766
+"1864","MF","GO:0019901","protein kinase binding",17,"FOXM1",-2.905928005,0.046928614,-4.12310562561766
+"1865","MF","GO:0019901","protein kinase binding",17,"EEF2",-1.450918315,0.046928614,-4.12310562561766
+"1866","MF","GO:0019901","protein kinase binding",17,"ADIPOR1",-1.058440721,0.046928614,-4.12310562561766
+"1867","MF","GO:0019901","protein kinase binding",17,"RND3",-1.299478788,0.046928614,-4.12310562561766
+"1868","MF","GO:0019901","protein kinase binding",17,"HIF1A",-1.025051181,0.046928614,-4.12310562561766
+"1869","MF","GO:0019901","protein kinase binding",17,"RHOB",-1.290393131,0.046928614,-4.12310562561766
+"1870","MF","GO:0019901","protein kinase binding",17,"AURKA",-2.157863191,0.046928614,-4.12310562561766
+"1871","MF","GO:0019901","protein kinase binding",17,"CCNA2",-2.514501424,0.046928614,-4.12310562561766
+"1872","MF","GO:0019901","protein kinase binding",17,"TOM1L2",-1.524092373,0.046928614,-4.12310562561766
+"1873","MF","GO:0019901","protein kinase binding",17,"TPX2",-1.131678158,0.046928614,-4.12310562561766
+"1874","MF","GO:0019901","protein kinase binding",17,"CCNB1",-2.684593035,0.046928614,-4.12310562561766
+"1875","MF","GO:0019901","protein kinase binding",17,"PRC1",-1.59537456,0.046928614,-4.12310562561766
+"1876","MF","GO:0019901","protein kinase binding",17,"CALM3",-1.072241542,0.046928614,-4.12310562561766
+"1877","MF","GO:0019901","protein kinase binding",17,"KIF20A",-2.786504036,0.046928614,-4.12310562561766
+"1878","MF","GO:0016887","ATPase activity",17,"ABCD3",-1.132374803,0.012408927,-4.12310562561766
+"1879","MF","GO:0016887","ATPase activity",17,"MCM7",-1.091952331,0.012408927,-4.12310562561766
+"1880","MF","GO:0016887","ATPase activity",17,"DQX1",-1.810863888,0.012408927,-4.12310562561766
+"1881","MF","GO:0016887","ATPase activity",17,"NAV2",-2.821198596,0.012408927,-4.12310562561766
+"1882","MF","GO:0016887","ATPase activity",17,"ATP2C2",-2.355999272,0.012408927,-4.12310562561766
+"1883","MF","GO:0016887","ATPase activity",17,"ABCA12",-1.40790804,0.012408927,-4.12310562561766
+"1884","MF","GO:0016887","ATPase activity",17,"DDX60",-2.117877531,0.012408927,-4.12310562561766
+"1885","MF","GO:0016887","ATPase activity",17,"SMC1A",-1.119516728,0.012408927,-4.12310562561766
+"1886","MF","GO:0016887","ATPase activity",17,"HSP90B1",-1.080957784,0.012408927,-4.12310562561766
+"1887","MF","GO:0016887","ATPase activity",17,"DHX40",-1.036874216,0.012408927,-4.12310562561766
+"1888","MF","GO:0016887","ATPase activity",17,"PSMC5",-1.209862249,0.012408927,-4.12310562561766
+"1889","MF","GO:0016887","ATPase activity",17,"NLRP10",-1.513244708,0.012408927,-4.12310562561766
+"1890","MF","GO:0016887","ATPase activity",17,"MCM5",-1.96770465,0.012408927,-4.12310562561766
+"1891","MF","GO:0016887","ATPase activity",17,"KIF2C",-1.573249981,0.012408927,-4.12310562561766
+"1892","MF","GO:0016887","ATPase activity",17,"KIF20A",-2.786504036,0.012408927,-4.12310562561766
+"1893","MF","GO:0016887","ATPase activity",17,"TRIP13",-1.921303468,0.012408927,-4.12310562561766
+"1894","MF","GO:0016887","ATPase activity",17,"GET3",-1.499379814,0.012408927,-4.12310562561766
+"1895","MF","GO:0003735","structural constituent of ribosome",9,"MRPS9",-1.026417912,0.031528578,-3
+"1896","MF","GO:0003735","structural constituent of ribosome",9,"RPL41",-1.123259734,0.031528578,-3
+"1897","MF","GO:0003735","structural constituent of ribosome",9,"ISG15",-2.361451804,0.031528578,-3
+"1898","MF","GO:0003735","structural constituent of ribosome",9,"RPS4Y1",-1.425424457,0.031528578,-3
+"1899","MF","GO:0003735","structural constituent of ribosome",9,"RPL18",-1.850670338,0.031528578,-3
+"1900","MF","GO:0003735","structural constituent of ribosome",9,"RPL39",-1.273886373,0.031528578,-3
+"1901","MF","GO:0003735","structural constituent of ribosome",9,"RPS10",-1.567035363,0.031528578,-3
+"1902","MF","GO:0003735","structural constituent of ribosome",9,"MRPL21",-1.395459458,0.031528578,-3
+"1903","MF","GO:0003735","structural constituent of ribosome",9,"MRPL11",-1.381028276,0.031528578,-3
+"1904","MF","GO:0008017","microtubule binding",13,"KIF11",-2.72901755,0.006786788,-3.60555127546399
+"1905","MF","GO:0008017","microtubule binding",13,"CGN",-1.904031781,0.006786788,-3.60555127546399
+"1906","MF","GO:0008017","microtubule binding",13,"SKA1",-2.186731221,0.006786788,-3.60555127546399
+"1907","MF","GO:0008017","microtubule binding",13,"TPX2",-1.131678158,0.006786788,-3.60555127546399
+"1908","MF","GO:0008017","microtubule binding",13,"CENPF",-2.275729701,0.006786788,-3.60555127546399
+"1909","MF","GO:0008017","microtubule binding",13,"PRC1",-1.59537456,0.006786788,-3.60555127546399
+"1910","MF","GO:0008017","microtubule binding",13,"KIF4A",-2.267898968,0.006786788,-3.60555127546399
+"1911","MF","GO:0008017","microtubule binding",13,"BIRC5",-4.82778078,0.006786788,-3.60555127546399
+"1912","MF","GO:0008017","microtubule binding",13,"CHP1",-1.070573012,0.006786788,-3.60555127546399
+"1913","MF","GO:0008017","microtubule binding",13,"KIF2C",-1.573249981,0.006786788,-3.60555127546399
+"1914","MF","GO:0008017","microtubule binding",13,"KIF20A",-2.786504036,0.006786788,-3.60555127546399
+"1915","MF","GO:0008017","microtubule binding",13,"CRYAB",-1.075511568,0.006786788,-3.60555127546399
+"1916","MF","GO:0008017","microtubule binding",13,"DLGAP5",-2.765225513,0.006786788,-3.60555127546399
+"1917","MF","GO:0005198","structural molecule activity",12,"FLG",-1.861645474,0.001486215,-3.46410161513775
+"1918","MF","GO:0005198","structural molecule activity",12,"SPRR3",-2.395550882,0.001486215,-3.46410161513775
+"1919","MF","GO:0005198","structural molecule activity",12,"CLDN4",-1.801860443,0.001486215,-3.46410161513775
+"1920","MF","GO:0005198","structural molecule activity",12,"PSMD13",-1.110225223,0.001486215,-3.46410161513775
+"1921","MF","GO:0005198","structural molecule activity",12,"KRT15",-2.668777092,0.001486215,-3.46410161513775
+"1922","MF","GO:0005198","structural molecule activity",12,"DCTN3",-1.250277975,0.001486215,-3.46410161513775
+"1923","MF","GO:0005198","structural molecule activity",12,"KRT24",-4.182758059,0.001486215,-3.46410161513775
+"1924","MF","GO:0005198","structural molecule activity",12,"CLTB",-1.865844,0.001486215,-3.46410161513775
+"1925","MF","GO:0005198","structural molecule activity",12,"KRT23",-2.325895748,0.001486215,-3.46410161513775
+"1926","MF","GO:0005198","structural molecule activity",12,"CRYAB",-1.075511568,0.001486215,-3.46410161513775
+"1927","MF","GO:0005198","structural molecule activity",12,"TGM3",-3.110713324,0.001486215,-3.46410161513775
+"1928","MF","GO:0005198","structural molecule activity",12,"KRT9",-2.829013809,0.001486215,-3.46410161513775
+"1929","MF","GO:0009055","electron carrier activity",5,"NCF2",-2.555593866,0.04429781,-2.23606797749979
+"1930","MF","GO:0009055","electron carrier activity",5,"NDUFS3",-1.156225535,0.04429781,-2.23606797749979
+"1931","MF","GO:0009055","electron carrier activity",5,"IDH3B",-1.237215398,0.04429781,-2.23606797749979
+"1932","MF","GO:0009055","electron carrier activity",5,"COX7A2",-1.337102314,0.04429781,-2.23606797749979
+"1933","MF","GO:0009055","electron carrier activity",5,"SDHD",-1.073238405,0.04429781,-2.23606797749979
+"1934","MF","GO:0001968","fibronectin binding",4,"CCDC80",-1.896737409,0.023376138,-2
+"1935","MF","GO:0001968","fibronectin binding",4,"CTSK",-1.027247036,0.023376138,-2
+"1936","MF","GO:0001968","fibronectin binding",4,"FBLN1",-2.999521972,0.023376138,-2
+"1937","MF","GO:0001968","fibronectin binding",4,"THBS1",-2.628866139,0.023376138,-2
+"1938","MF","GO:0004129","cytochrome-c oxidase activity",3,"COX7B",-1.363199979,0.056138758,-1.73205080756888
+"1939","MF","GO:0004129","cytochrome-c oxidase activity",3,"COX4I1",-1.116529179,0.056138758,-1.73205080756888
+"1940","MF","GO:0004129","cytochrome-c oxidase activity",3,"COX6A1",-1.399900045,0.056138758,-1.73205080756888
+"1941","MF","GO:0004252","serine-type endopeptidase activity",8,"CFD",-4.624954144,0.070828052,-2.82842712474619
+"1942","MF","GO:0004252","serine-type endopeptidase activity",8,"DPP4",-2.491068494,0.070828052,-2.82842712474619
+"1943","MF","GO:0004252","serine-type endopeptidase activity",8,"CTSK",-1.027247036,0.070828052,-2.82842712474619
+"1944","MF","GO:0004252","serine-type endopeptidase activity",8,"OVCH2",-3.245369189,0.070828052,-2.82842712474619
+"1945","MF","GO:0004252","serine-type endopeptidase activity",8,"KLK13",-2.6597064,0.070828052,-2.82842712474619
+"1946","MF","GO:0004252","serine-type endopeptidase activity",8,"CTSH",-2.030209213,0.070828052,-2.82842712474619
+"1947","MF","GO:0004252","serine-type endopeptidase activity",8,"TMPRSS11F",-1.716266339,0.070828052,-2.82842712474619
+"1948","MF","GO:0004252","serine-type endopeptidase activity",8,"SEC11C",-1.34004718,0.070828052,-2.82842712474619
+"1949","MF","GO:0008022","protein C-terminus binding",8,"CDC20",-1.821017204,0.078974418,-2.82842712474619
+"1950","MF","GO:0008022","protein C-terminus binding",8,"CENPF",-2.275729701,0.078974418,-2.82842712474619
+"1951","MF","GO:0008022","protein C-terminus binding",8,"NCF2",-2.555593866,0.078974418,-2.82842712474619
+"1952","MF","GO:0008022","protein C-terminus binding",8,"NCL",-1.298388981,0.078974418,-2.82842712474619
+"1953","MF","GO:0008022","protein C-terminus binding",8,"FBLN1",-2.999521972,0.078974418,-2.82842712474619
+"1954","MF","GO:0008022","protein C-terminus binding",8,"LMO7",-1.657564928,0.078974418,-2.82842712474619
+"1955","MF","GO:0008022","protein C-terminus binding",8,"PABPC1",-1.395569488,0.078974418,-2.82842712474619
+"1956","MF","GO:0008022","protein C-terminus binding",8,"PFKM",-1.413282314,0.078974418,-2.82842712474619
+"1957","MF","GO:0001540","beta-amyloid binding",5,"SCARB1",-1.170384899,0.087691004,-2.23606797749979
+"1958","MF","GO:0001540","beta-amyloid binding",5,"BCHE",-1.165708466,0.087691004,-2.23606797749979
+"1959","MF","GO:0001540","beta-amyloid binding",5,"CRYAB",-1.075511568,0.087691004,-2.23606797749979
+"1960","MF","GO:0001540","beta-amyloid binding",5,"PFDN5",-1.124167798,0.087691004,-2.23606797749979
+"1961","MF","GO:0001540","beta-amyloid binding",5,"SORL1",-1.518726004,0.087691004,-2.23606797749979
+"1962","MF","GO:0045145","single-stranded DNA 5'-3' exodeoxyribonuclease activity",2,"MGME1",-1.508793915,0.092840325,-1.41421356237309
+"1963","MF","GO:0045145","single-stranded DNA 5'-3' exodeoxyribonuclease activity",2,"EXO1",-4.482640167,0.092840325,-1.41421356237309
+"1964","MF","GO:0070051","fibrinogen binding",2,"FBLN1",-2.999521972,0.092840325,-1.41421356237309
+"1965","MF","GO:0070051","fibrinogen binding",2,"THBS1",-2.628866139,0.092840325,-1.41421356237309
