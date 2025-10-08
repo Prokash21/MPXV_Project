@@ -1,0 +1,12 @@
+colon organoids	mock	GSM6765206
+colon organoids	mock	GSM6765207
+colon organoids	mock	GSM6765208
+colon organoids	MPXV clade IIa infected	GSM6765209
+colon organoids	MPXV clade IIa infected	GSM6765210
+colon organoids	MPXV clade IIa infected	GSM6765211
+colon organoids	MPXV clade IIb infected	GSM6765212
+colon organoids	MPXV clade IIb infected	GSM6765213
+colon organoids	MPXV clade IIb infected	GSM6765214
+colon organoids	MPXV clade I infected	GSM6765215
+colon organoids	MPXV clade I infected	GSM6765225
+colon organoids	MPXV clade I infected	GSM6765240

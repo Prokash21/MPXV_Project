@@ -1,0 +1,14 @@
+producer_class	xtools.munge.CollapseDataset
+producer_timestamp	1699051524667
+param	mode	Max_probe
+param	rpt_label	all_vs_mock
+param	include_only_symbols	true
+param	res	D:\DEG\GSE219036_6_june\GSEA\kera\kera_ex.txt
+param	help	false
+param	chip	ftp.broadinstitute.org://pub/gsea/msigdb/human/annotations/Human_Ensembl_Gene_ID_MSigDB.v2023.2.Hs.chip
+param	gui	false
+param	out	D:\DEG\GSE219036_6_june\GSEA\kera
+
+file	D:\DEG\GSE219036_6_june\GSEA\kera\all_vs_mock.CollapseDataset.1699051524667\kera_ex_collapsed_to_symbols.gct
+file	D:\DEG\GSE219036_6_june\GSEA\kera\all_vs_mock.CollapseDataset.1699051524667\Symbol_to_probe_set_mapping_details.tsv
+file	D:\DEG\GSE219036_6_june\GSEA\kera\all_vs_mock.CollapseDataset.1699051524667\index.html
