@@ -1,3 +1,0 @@
-12 4 1
-# mock clade_I clade_IIa Clade_llb
-0 0 0 1 1 1 2 2 2 3 3 3  
