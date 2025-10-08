@@ -7,10 +7,9 @@ This repository demonstrates how raw RNA-seq or microarray data can be processed
 
 ## 🧠 Experience Gained & Responsibilities
 
-- Analyzed raw RNA-seq data from **FASTQ** to quantified **counts** using splice-aware aligners (*STAR*, *HISAT2*) and quasi-mappers (*Salmon*, *Kallisto*) for robust gene expression profiling.
 - Gained foundational understanding of transcriptomic technologies (**RNA-seq**, **microarray**) and primary data repositories including **GEO**, **SRA**, **NCBI**, and **ArrayExpress**.  
-- Explored expression data formats (**FASTQ**) and applied preprocessing tools (*FastQC*, *Trimmomatic*, *HISAT2*, *STAR*, *featureCounts*) for RNA-seq alignment and quantification.  
-- Retrieved and processed GEO datasets using **GEO2R**, followed by manual metadata curation for comparative transcriptomic analysis.  
+- Analyzed raw RNA-seq data from **FASTQ** to quantified **counts** using splice-aware aligners (*STAR*, *HISAT2*) and quasi-mappers (*Salmon*, *Kallisto*) for robust gene expression profiling.
+- Retrieved and processed GEO datasets using **GEOquery**, followed by manual metadata curation for comparative transcriptomic analysis.  
 - Performed **differential gene expression analysis** using *edgeR*, *limma*, and *DESeq2*, including normalization, outlier detection, and batch effect correction.  
 - Applied downstream visualization and statistical methods: **heatmaps**, **boxplots**, **PCA**, **UMAP**, **t-SNE**, **hierarchical clustering**, **volcano plots**, and **phylogenetic analyses**.  
 - Conducted **functional enrichment analysis** using *DAVID*, *STRING*, *Enrichr*, *Reactome*, and *GSEA* to identify enriched pathways and biological processes associated with **Mpox virus infection**.  
