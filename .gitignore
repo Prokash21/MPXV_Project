@@ -1,0 +1,22 @@
+# ===========================================
+# R temporary and session files
+# ===========================================
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+.Rproj
+.Rapp.history
+
+
+# ===========================================
+# Miscellaneous
+# ===========================================
+*.bak
+*.tmp
+*.gz
+*.zip
+*.tar
+*.tar.gz
+*.RData
+*.rds
