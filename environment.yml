@@ -1,0 +1,56 @@
+name: biomarker-discovery
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  # --- Core Python ---
+  - python=3.10
+  - pip
+  - jupyterlab
+  - notebook
+  - numpy
+  - pandas
+  - scipy
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - pycaret
+  - statsmodels
+
+  # --- Bioinformatics / Data ---
+  - biopython
+  - gseapy               # for GSEA & Enrichr
+  - requests
+  - tqdm
+  - lxml
+
+  # --- R & Bioconductor ---
+  - r-base=4.3
+  - r-essentials
+  - r-tidyverse
+  - r-data.table
+  - r-ggplot2
+  - r-pheatmap
+  - r-reshape2
+  - r-dplyr
+  - r-readr
+  - r-limma
+  - bioconductor-deseq2
+  - bioconductor-edger
+  - bioconductor-gostats
+  - bioconductor-clusterprofiler
+  - bioconductor-enrichplot
+
+  # --- System / Utility ---
+  - git
+  - wget
+  - curl
+
+  # --- Pip-only packages ---
+  - pip:
+      - tqdm
+      - rich
+      - pyvis              # network visualization
+      - plotly             # interactive plots
+      - lifelines          # optional for survival analyses
